@@ -39,13 +39,22 @@ jobs:
         run: |
           python pipeline/pipeline.py --sources github,rss --limit 20 --verbose
 
-      - name: Validate generated JSON
+      - name: Collect newly generated article files
+        id: changed
         run: |
-          python hooks/validate_json.py
+          set -e
+          new_articles=$(git diff --name-only --diff-filter=A HEAD -- knowledge/articles/*.json | tr '\n' ' ')
+          echo "new_articles=$new_articles" >> "$GITHUB_OUTPUT"
+
+      - name: Validate generated JSON
+        if: steps.changed.outputs.new_articles != ''
+        run: |
+          python hooks/validate_json.py ${{ steps.changed.outputs.new_articles }}
 
       - name: Check content quality
+        if: steps.changed.outputs.new_articles != ''
         run: |
-          python hooks/check_quality.py
+          python hooks/check_quality.py ${{ steps.changed.outputs.new_articles }}
 
       - name: Commit and push changes
         run: |
@@ -54,10 +63,10 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           if git status --porcelain | grep -q .; then
-            article_count=$(find knowledge/articles -maxdepth 1 -name '*.json' | wc -l | tr -d ' ')
+            new_article_count=$(git diff --name-only --diff-filter=A HEAD -- knowledge/articles/*.json | wc -l | tr -d ' ')
             run_date=$(date -u +%F)
             git add knowledge/raw knowledge/articles pipeline/output.png pipeline/output.svg .github/workflows/daily-collect.yml
-            git commit -m "chore: collect ${article_count} articles on ${run_date}"
+            git commit -m "chore: collect ${new_article_count} articles on ${run_date}"
             git push
           else
             echo "No changes detected; skipping commit."
