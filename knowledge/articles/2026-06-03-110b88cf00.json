@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-03-110b88cf00",
+  "title": "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02791",
+  "collected_at": "2026-06-03T13:03:26Z",
+  "summary": "该论文对比了Transformer和LSTM在无测站流域水文预测中的表现，评估两种深度学习框架的适用性与精度。",
+  "analysis": {
+    "tech_highlights": [
+      "对比Transformer与LSTM在无测站流域预测中的性能",
+      "探讨深度学习框架对水文建模的影响",
+      "评估模型在数据稀缺条件下的泛化能力",
+      "为水文预测提供新的技术路径参考"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "LSTM",
+    "Transformer",
+    "无测站流域",
+    "水文预测",
+    "深度学习"
+  ],
+  "status": "draft"
+}

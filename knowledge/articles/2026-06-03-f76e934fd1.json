@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-03-f76e934fd1",
+  "title": "Toward a Modular Architecture for Embedded AI Agent Systems at the Edge",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02862",
+  "collected_at": "2026-06-03T13:03:37Z",
+  "summary": "该论文提出一种面向边缘环境的模块化嵌入式AI代理系统架构，旨在解决资源受限设备上AI部署的灵活性与效率问题。",
+  "analysis": {
+    "tech_highlights": [
+      "模块化架构设计提升系统灵活性与可扩展性",
+      "针对边缘设备资源受限场景的优化方案",
+      "支持AI代理在嵌入式系统中的高效部署与运行"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI代理",
+    "嵌入式AI",
+    "模块化架构",
+    "边缘计算"
+  ],
+  "status": "draft"
+}

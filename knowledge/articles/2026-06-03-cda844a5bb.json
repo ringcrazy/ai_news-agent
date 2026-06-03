@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-03-cda844a5bb",
+  "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02775",
+  "collected_at": "2026-06-03T13:03:24Z",
+  "summary": "AURA提出动作门控记忆机制，使机器人策略在恒定显存下高效处理长序列，提升实时性与可扩展性。",
+  "analysis": {
+    "tech_highlights": [
+      "动作门控记忆机制",
+      "恒定显存消耗",
+      "长序列处理能力",
+      "实时性提升",
+      "可扩展性增强"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "动作门控记忆",
+    "序列处理",
+    "显存优化",
+    "机器人策略"
+  ],
+  "status": "draft"
+}

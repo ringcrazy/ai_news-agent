@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-03-c5c5b1805f",
+  "title": "AUDITFLOW: Executable Symbolic Environments for Structured Financial Reporting Verification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.03031",
+  "collected_at": "2026-06-03T13:03:53Z",
+  "summary": "提出AUDITFLOW框架，利用可执行符号环境对结构化财务报告进行自动化验证，提升审计效率与准确性。",
+  "analysis": {
+    "tech_highlights": [
+      "可执行符号环境建模",
+      "结构化财务报告形式化验证",
+      "审计流程自动化",
+      "符号执行与约束求解结合"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "符号执行",
+    "自动化验证",
+    "财务审计",
+    "金融AI"
+  ],
+  "status": "draft"
+}

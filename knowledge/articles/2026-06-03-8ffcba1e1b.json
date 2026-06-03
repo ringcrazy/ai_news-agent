@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-03-8ffcba1e1b",
+  "title": "ToolGate: Token-Efficient Pre-Call Control for Tool-Augmented Vision-Language Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.03054",
+  "collected_at": "2026-06-03T13:03:59Z",
+  "summary": "ToolGate提出一种令牌高效的预调用控制方法，用于增强工具型视觉语言代理，减少冗余令牌消耗，提升调用效率。",
+  "analysis": {
+    "tech_highlights": [
+      "引入预调用控制机制减少无效工具调用",
+      "显著降低令牌消耗，提升推理效率",
+      "适用于多模态视觉语言任务",
+      "与现有工具增强代理框架兼容"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI代理",
+    "令牌效率",
+    "工具增强",
+    "视觉语言代理",
+    "预调用控制"
+  ],
+  "status": "draft"
+}

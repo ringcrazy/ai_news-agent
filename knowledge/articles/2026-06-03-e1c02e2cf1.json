@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-03-e1c02e2cf1",
+  "title": "TriEval: A Resource-Efficient Pipeline for LLM Bias, Toxicity, and Truthfulness Assessment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.03036",
+  "collected_at": "2026-06-03T13:03:55Z",
+  "summary": "TriEval 提出一种资源高效的流水线，用于评估大型语言模型的偏见、毒性和真实性，通过优化评估流程降低计算成本，同时保持评估准确性。",
+  "analysis": {
+    "tech_highlights": [
+      "提出三合一评估流水线，覆盖偏见、毒性和真实性",
+      "资源高效设计，减少计算开销",
+      "适用于多种LLM的自动化评估"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "LLM评估",
+    "偏见检测",
+    "毒性分析",
+    "真实性评估",
+    "资源高效"
+  ],
+  "status": "draft"
+}
