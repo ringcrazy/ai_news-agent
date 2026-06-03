@@ -1,0 +1,49 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependency / build artifacts
+build/
+dist/
+*.egg-info/
+
+# Test / coverage / lint caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / tool caches
+node_modules/
+.opencode/node_modules/
+
+# Generated pipeline outputs
+knowledge/raw/*.json
+knowledge/articles/*.json
+pipeline/output.png
+pipeline/output.svg

@@ -1,0 +1,63 @@
+flowchart TB
+    %% Four-step knowledge base automation pipeline
+
+    subgraph C[Step 1 Collect]
+        C1["CLI args\n--sources / --limit / --dry-run / --verbose"]
+        C2["GitHub Search API"]
+        C3["RSS feeds"]
+        C4["httpx HTTP requests"]
+        C5["Simple regex RSS parsing"]
+        C6["RawItem list"]
+        C7["knowledge/raw/*.json"]
+    end
+
+    subgraph A[Step 2 Analyze]
+        A1["build_analysis_prompt(item)"]
+        A2["chat_with_retry(messages)"]
+        A3["LLM response text"]
+        A4["_parse_analysis_response(text)"]
+        A5["_item_to_article(item, analysis)"]
+        A6["ArticleRecord list"]
+    end
+
+    subgraph O[Step 3 Organize]
+        O1["_normalize_article(item)"]
+        O2["Deduplicate by source_url"]
+        O3["_validate_article(item)"]
+        O4["Clean / validated ArticleRecord list"]
+    end
+
+    subgraph S[Step 4 Save]
+        S1["Save raw payload snapshot"]
+        S2["Save each article as JSON"]
+        S3["knowledge/articles/*.json"]
+        S4["dry-run mode skips writes"]
+    end
+
+    C1 --> C2
+    C1 --> C3
+    C2 --> C4
+    C3 --> C4
+    C4 --> C6
+    C5 --> C6
+    C6 --> C7
+
+    C6 --> A1
+    A1 --> A2
+    A2 --> A3
+    A3 --> A4
+    A4 --> A5
+    A5 --> A6
+
+    A6 --> O1
+    O1 --> O2
+    O2 --> O3
+    O3 --> O4
+
+    O4 --> S1
+    O4 --> S2
+    S1 --> S3
+    S2 --> S3
+    S4 -.-> S2
+
+    C7 -.-> S1
