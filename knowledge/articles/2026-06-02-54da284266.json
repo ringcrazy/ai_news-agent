@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-02-54da284266",
+  "title": "Product-Aware Deep Autoencoders for Robust Process Monitoring in Multi-Product Cyber-Physical Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00052",
+  "collected_at": "2026-06-02T09:14:19Z",
+  "summary": "提出产品感知深度自编码器，用于多产品信息物理系统中的鲁棒过程监控，通过产品特定编码提升异常检测性能。",
+  "analysis": {
+    "tech_highlights": [
+      "产品感知编码机制",
+      "鲁棒过程监控框架",
+      "多产品CPS自适应方法",
+      "自编码器与产品信息融合"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "信息物理系统",
+    "多产品系统",
+    "异常检测",
+    "深度自编码器",
+    "过程监控"
+  ],
+  "status": "draft"
+}

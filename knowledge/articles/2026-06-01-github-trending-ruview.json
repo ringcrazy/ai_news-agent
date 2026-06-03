@@ -1,0 +1,19 @@
+{
+  "id": "2026-06-01-github-ruview",
+  "title": "RuView: 基于 WiFi 信号的空间感知",
+  "source": "github-trending",
+  "source_url": "https://github.com/ruvnet/RuView",
+  "collected_at": "2026-06-01T00:00:00Z",
+  "summary": "利用 WiFi 信号实现无摄像头空间感知，支持存在检测、呼吸/心率监测与摔倒识别。",
+  "analysis": {
+    "tech_highlights": [
+      "WiFi CSI 信号做空间感知（无需摄像头）",
+      "存在检测 / 呼吸 / 心率 / 摔倒 / 睡眠分期",
+      "66K 总星数，MIT 协议",
+      "边缘 AI 部署友好"
+    ],
+    "relevance_score": 6
+  },
+  "tags": ["wifi-sensing", "iot", "health-monitoring", "edge-ai"],
+  "status": "draft"
+}

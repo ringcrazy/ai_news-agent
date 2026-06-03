@@ -1,0 +1,19 @@
+{
+  "id": "2026-06-01-github-ai-engineering-from-scratch",
+  "title": "ai-engineering-from-scratch: AI 工程实战课程",
+  "source": "github-trending",
+  "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "collected_at": "2026-06-01T00:00:00Z",
+  "summary": "以可复用 prompts、skills、agents、MCP servers 为产出的 AI 工程实战课程，强调做中学。",
+  "analysis": {
+    "tech_highlights": [
+      "artifact-driven 学习（prompts/skills/agents/MCP servers 均为产出）",
+      "适合团队内训与自学双场景",
+      "MIT 协议，周更内容",
+      "20.6K 总星数，月榜持续出现"
+    ],
+    "relevance_score": 7
+  },
+  "tags": ["ai-education", "curriculum", "mcp", "course"],
+  "status": "draft"
+}

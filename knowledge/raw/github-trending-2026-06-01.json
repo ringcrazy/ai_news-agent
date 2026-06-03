@@ -1,0 +1,72 @@
+[
+  {
+    "title": "colbymchenry/codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "source": "github_trending",
+    "popularity": 20208,
+    "summary": "为 AI 编码 Agent 预构建的本地代码知识图谱，显著降低 Claude Code 等工具的 Token 消耗，100% 本地运行。"
+  },
+  {
+    "title": "Lum1104/Understand-Anything",
+    "url": "https://github.com/Lum1104/Understand-Anything",
+    "source": "github_trending",
+    "popularity": 14750,
+    "summary": "将任意代码库转化为交互式知识图谱与导览文档，帮助 Agent 与人类快速理解陌生项目结构。"
+  },
+  {
+    "title": "tinyhumansai/openhuman",
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "source": "github_trending",
+    "popularity": 11906,
+    "summary": "Rust 实现的本地优先个人 AI 助理，强调隐私保护与离线运行，支持用户自主扩展能力。"
+  },
+  {
+    "title": "Imbad0202/academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "source": "github_trending",
+    "popularity": 10678,
+    "summary": "面向 Claude Code 的学术研究工作流，自动化文献综述、引用追踪与结构化总结生成。"
+  },
+  {
+    "title": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "source": "github_trending",
+    "popularity": 10035,
+    "summary": "从零搭建 AI 工程的实战课程，以可复用的 prompts、skills、agents 与 MCP servers 为核心产出。"
+  },
+  {
+    "title": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "source": "github_trending",
+    "popularity": 6396,
+    "summary": "利用 WiFi 信号实现无需摄像头的存在检测、呼吸监测与摔倒识别等空间感知能力。"
+  },
+  {
+    "title": "rohitg00/agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "source": "github_trending",
+    "popularity": 5687,
+    "summary": "为 AI 编程 Agent 提供跨会话持久记忆，解决上下文丢失与重复探索问题，MCP 友好。"
+  },
+  {
+    "title": "HKUDS/CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "source": "github_trending",
+    "popularity": 4010,
+    "summary": "将任意 CLI 工具包装为 Agent 可调用的标准化接口，让现有软件无缝接入 Agent 工作流。"
+  },
+  {
+    "title": "HKUDS/ViMax",
+    "url": "https://github.com/HKUDS/ViMax",
+    "source": "github_trending",
+    "popularity": 2790,
+    "summary": "多 Agent 协作的端到端视频生成框架，导演、编剧、视觉与配音 Agent 协同产出成片。"
+  },
+  {
+    "title": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "source": "github_trending",
+    "popularity": 2666,
+    "summary": "Anthropic 官方开源的知识工作插件集，覆盖销售、产品、法务、财务等岗位的 Claude 增强能力。"
+  }
+]

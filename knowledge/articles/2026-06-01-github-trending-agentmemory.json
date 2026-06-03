@@ -1,0 +1,19 @@
+{
+  "id": "2026-06-01-github-agentmemory",
+  "title": "agentmemory: AI Agent 跨会话持久记忆",
+  "source": "github-trending",
+  "source_url": "https://github.com/rohitg00/agentmemory",
+  "collected_at": "2026-06-01T00:00:00Z",
+  "summary": "为 AI 编程 Agent 提供跨会话持久记忆与上下文压缩，MCP 协议友好，TypeScript 实现。",
+  "analysis": {
+    "tech_highlights": [
+      "解决 Agent 跨会话上下文丢失痛点",
+      "MCP 协议友好",
+      "TypeScript + Apache-2.0",
+      "18K 总星数"
+    ],
+    "relevance_score": 7
+  },
+  "tags": ["agent-memory", "mcp", "session-persistence", "typescript"],
+  "status": "draft"
+}

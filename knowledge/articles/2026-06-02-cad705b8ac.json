@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-02-cad705b8ac",
+  "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00002",
+  "collected_at": "2026-06-02T09:14:03Z",
+  "summary": "```json\n{\n  \"summary\": \"该论文探讨了决策引擎在求解后对扰动的鲁棒性，提出了可行域和平滑度的概念，旨在增强AI系统在不确定环境下的稳定性和可靠性。\",\n  \"relevance_",
+  "analysis": {
+    "tech_highlights": [
+      "```json\n{\n  \"summary\": \"该论文探讨了决策引擎在求解后对扰动的鲁棒性，提出了可行域和平滑度的概念，"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "7",
+    "ai",
+    "json",
+    "relevance_score",
+    "summary"
+  ],
+  "status": "draft"
+}

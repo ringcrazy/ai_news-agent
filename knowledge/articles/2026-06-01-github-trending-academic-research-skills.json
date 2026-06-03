@@ -1,0 +1,19 @@
+{
+  "id": "2026-06-01-github-academic-research-skills",
+  "title": "academic-research-skills: Claude Code 学术研究工作流",
+  "source": "github-trending",
+  "source_url": "https://github.com/Imbad0202/academic-research-skills",
+  "collected_at": "2026-06-01T00:00:00Z",
+  "summary": "面向 Claude Code 的学术研究工作流，自动化文献综述、引用追踪与结构化总结生成。",
+  "analysis": {
+    "tech_highlights": [
+      "Claude Code 学术研究专用 skill",
+      "文献综述、引用追踪、结构化总结自动化",
+      "22K 总星数，HN 82 上行",
+      "Skills 生态首批 breakout 项目"
+    ],
+    "relevance_score": 6
+  },
+  "tags": ["claude-code", "academic", "research", "skill-bundle"],
+  "status": "draft"
+}

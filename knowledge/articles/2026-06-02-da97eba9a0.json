@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-02-da97eba9a0",
+  "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00008",
+  "collected_at": "2026-06-02T09:14:09Z",
+  "summary": "提出了一种基于树结构的智能体路径协调方法，用于多目标分子优化，通过分解任务提升搜索效率。",
+  "analysis": {
+    "tech_highlights": [
+      "路径协调机制",
+      "多目标分子优化",
+      "树结构分解策略",
+      "智能体协同搜索"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "分子优化",
+    "多目标优化",
+    "智能体协调",
+    "树结构"
+  ],
+  "status": "draft"
+}

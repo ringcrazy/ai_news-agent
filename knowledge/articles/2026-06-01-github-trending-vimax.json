@@ -1,0 +1,20 @@
+{
+  "id": "2026-06-01-github-vimax",
+  "title": "ViMax: 多 Agent 协作的长视频生成框架",
+  "source": "github-trending",
+  "source_url": "https://github.com/HKUDS/ViMax",
+  "collected_at": "2026-06-01T00:00:00Z",
+  "summary": "12 个专门化 Agent 协作完成长视频生成（编剧/导演/制片/生成器），解决角色一致性问题。",
+  "analysis": {
+    "tech_highlights": [
+      "12 个专门化 Agent（Screenwriter/Director/Producer/Generator 等）",
+      "4 种 pipeline：Idea2Video/Script2Video/Novel2Movie/AutoCameo",
+      "RAG 长脚本设计 + MLLM 一致性校验",
+      "多镜头电影语言模拟",
+      "MIT 协议"
+    ],
+    "relevance_score": 7
+  },
+  "tags": ["video-generation", "multi-agent", "creative-ai", "long-form-video"],
+  "status": "draft"
+}

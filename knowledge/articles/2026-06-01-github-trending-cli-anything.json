@@ -1,0 +1,20 @@
+{
+  "id": "2026-06-01-github-cli-anything",
+  "title": "CLI-Anything: 让任意软件 Agent-Native",
+  "source": "github-trending",
+  "source_url": "https://github.com/HKUDS/CLI-Anything",
+  "collected_at": "2026-06-01T00:00:00Z",
+  "summary": "7 阶段方法论把任意 GUI 软件包装为 Agent 可调用的有状态 CLI，自动生成 SKILL.md。",
+  "analysis": {
+    "tech_highlights": [
+      "7 阶段 CLI 生成方法论",
+      "1100+ 通过测试",
+      "已实现 GIMP/Blender/Inkscape/Audacity/LibreOffice/OBS/Kdenlive 等 8 个真实软件",
+      "自动生成 SKILL.md 让 Agent 可发现",
+      "40K 总星数，Apache-2.0"
+    ],
+    "relevance_score": 7
+  },
+  "tags": ["cli", "agent-tooling", "skill-generation", "automation"],
+  "status": "draft"
+}

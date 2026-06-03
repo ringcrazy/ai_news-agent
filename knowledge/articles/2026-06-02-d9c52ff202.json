@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-02-d9c52ff202",
+  "title": "On the evolution of the concept of probability as a mirror of the evolution of reason",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00102",
+  "collected_at": "2026-06-02T09:14:21Z",
+  "summary": "该论文探讨概率概念的演变如何反映理性本身的演变，从历史与哲学角度分析概率与推理的关系。",
+  "analysis": {
+    "tech_highlights": [
+      "概率概念的哲学演变",
+      "理性与概率的镜像关系",
+      "历史视角下的推理模型"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "AI基础",
+    "哲学",
+    "概率",
+    "理性"
+  ],
+  "status": "draft"
+}

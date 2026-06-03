@@ -1,0 +1,19 @@
+{
+  "id": "2026-06-02-harness-engineering",
+  "title": "Harness Engineering: Anthropic 的长时 Agent 工程范式",
+  "source": "anthropic-engineering",
+  "source_url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+  "collected_at": "2026-06-02T00:00:00Z",
+  "summary": "Harness Engineering 是 Anthropic 提出的 Agent 运行时工程模式：双 Agent 架构、不可变测试、原子提交等组合，应对长时编码任务的上下文窗口瓶颈与早停问题。",
+  "analysis": {
+    "tech_highlights": [
+      "Initializer / Coding 双 Agent 拆分",
+      "不可变测试作为闭环验证",
+      "结构化 feature list 持久化状态",
+      "原子化 Git 提交保证可回滚"
+    ],
+    "relevance_score": 9
+  },
+  "tags": ["agent", "harness-engineering", "context-engineering", "anthropic", "long-running-agent"],
+  "status": "draft"
+}

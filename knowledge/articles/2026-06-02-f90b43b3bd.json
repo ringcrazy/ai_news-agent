@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-02-f90b43b3bd",
+  "title": "Universal Quantum Transformer",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00045",
+  "collected_at": "2026-06-02T09:14:15Z",
+  "summary": "提出通用量子Transformer架构，融合量子计算与自注意力机制，在量子数据上实现高效序列建模，为量子机器学习提供新范式。",
+  "analysis": {
+    "tech_highlights": [
+      "首次将Transformer架构适配到量子计算场景",
+      "设计量子自注意力机制以处理量子态序列",
+      "在量子数据上验证了模型的有效性与效率"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "Transformer",
+    "机器学习",
+    "量子注意力",
+    "量子计算"
+  ],
+  "status": "draft"
+}

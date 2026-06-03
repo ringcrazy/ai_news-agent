@@ -1,0 +1,19 @@
+{
+  "id": "2026-06-01-github-understand-anything",
+  "title": "Understand-Anything: 代码库交互式知识图谱",
+  "source": "github-trending",
+  "source_url": "https://github.com/Lum1104/Understand-Anything",
+  "collected_at": "2026-06-01T00:00:00Z",
+  "summary": "将代码库转化为交互式知识图谱与导览文档，帮助 Agent 与开发者快速理解陌生项目结构。",
+  "analysis": {
+    "tech_highlights": [
+      "代码库 → 交互式知识图谱自动生成",
+      "HN 社区 169 上行验证",
+      "35.6K 总星数，月榜 #7 持续热度",
+      "解决 vibe-coded 项目长期维护的可读性痛点"
+    ],
+    "relevance_score": 7
+  },
+  "tags": ["code-onboarding", "code-visualization", "knowledge-graph", "developer-tools"],
+  "status": "draft"
+}

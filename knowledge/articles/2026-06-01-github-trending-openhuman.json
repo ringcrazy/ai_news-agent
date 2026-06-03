@@ -1,0 +1,20 @@
+{
+  "id": "2026-06-01-github-openhuman",
+  "title": "openhuman: 本地优先的个人 AI 助理",
+  "source": "github-trending",
+  "source_url": "https://github.com/tinyhumansai/openhuman",
+  "collected_at": "2026-06-01T00:00:00Z",
+  "summary": "Rust + Tauri 桌面端本地优先个人 AI 助理，118+ 集成，可审计的 Obsidian Memory Tree。",
+  "analysis": {
+    "tech_highlights": [
+      "Rust + Tauri 桌面端（避 Electron，<500ms 冷启动）",
+      "Memory Tree = 本地 SQLite + Obsidian vault（可手动审计编辑）",
+      "118+ 集成：Gmail/Slack/GitHub/Notion/Stripe/Calendar 等",
+      "TokenJuice 上下文压缩（自报 80% 缩减）",
+      "AES-256-GCM + Argon2id 加密 + OS Keychain"
+    ],
+    "relevance_score": 7
+  },
+  "tags": ["personal-ai", "local-first", "rust", "memory", "desktop-agent"],
+  "status": "draft"
+}

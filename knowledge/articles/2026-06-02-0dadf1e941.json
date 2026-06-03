@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-02-0dadf1e941",
+  "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00007",
+  "collected_at": "2026-06-02T09:14:07Z",
+  "summary": "提出一种名为“审慎策展”的协议，用于多智能体知识库的构建与维护，通过结构化协作与验证提升知识质量。",
+  "analysis": {
+    "tech_highlights": [
+      "审慎策展协议设计",
+      "多智能体协作机制",
+      "知识质量验证方法",
+      "结构化知识库构建"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI协作",
+    "协议",
+    "多智能体系统",
+    "知识库",
+    "知识管理"
+  ],
+  "status": "draft"
+}

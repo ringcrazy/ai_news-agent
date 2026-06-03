@@ -1,0 +1,20 @@
+{
+  "id": "2026-06-01-github-codegraph",
+  "title": "codegraph: 为 AI Agent 预构建的本地代码知识图谱",
+  "source": "github-trending",
+  "source_url": "https://github.com/colbymchenry/codegraph",
+  "collected_at": "2026-06-01T00:00:00Z",
+  "summary": "为 Claude Code/Codex 等 Agent 预构建本地代码知识图谱，平均减少 92% 工具调用、25% 成本，100% 本地运行。",
+  "analysis": {
+    "tech_highlights": [
+      "tree-sitter AST 解析 20+ 编程语言",
+      "SQLite 本地存储 + MCP 协议暴露",
+      "实测 92% 减少工具调用、25% 降低成本",
+      "支持 Claude Code/Cursor/Codex/opencode/Hermes/Gemini/Kiro 等 7+ Agent",
+      "100% 本地运行，无云端依赖"
+    ],
+    "relevance_score": 8
+  },
+  "tags": ["code-graph", "mcp", "claude-code", "local-first", "developer-tools"],
+  "status": "draft"
+}

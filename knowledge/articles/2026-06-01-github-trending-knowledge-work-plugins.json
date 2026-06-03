@@ -1,0 +1,19 @@
+{
+  "id": "2026-06-01-github-knowledge-work-plugins",
+  "title": "knowledge-work-plugins: Anthropic 官方知识工作插件集",
+  "source": "github-trending",
+  "source_url": "https://github.com/anthropics/knowledge-work-plugins",
+  "collected_at": "2026-06-01T00:00:00Z",
+  "summary": "Anthropic 官方发布的知识工作插件集，覆盖销售/产品/法务/财务等岗位的 Claude 增强能力。",
+  "analysis": {
+    "tech_highlights": [
+      "Anthropic 官方发布（高可信度 + 长期维护）",
+      "覆盖销售/产品/法务/财务/数据/支持/搜索 7 大岗位",
+      "16.6K 总星数，Apache-2.0",
+      "展示 Anthropic 推荐的'角色打包 skills'模式"
+    ],
+    "relevance_score": 8
+  },
+  "tags": ["anthropic", "claude", "plugins", "enterprise", "official"],
+  "status": "draft"
+}

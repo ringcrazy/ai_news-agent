@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-02-bc7e30acf5",
+  "title": "Grokers: Bottom-Up Inductive Comprehension and Write-Time Intelligence over Typed Knowledge Graphs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00050",
+  "collected_at": "2026-06-02T09:14:17Z",
+  "summary": "提出Grokers系统，通过自底向上归纳理解与写入时智能，在类型化知识图谱上实现高效知识表示与推理。",
+  "analysis": {
+    "tech_highlights": [
+      "自底向上归纳理解方法",
+      "写入时智能处理机制",
+      "类型化知识图谱上的推理优化"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "人工智能",
+    "归纳推理",
+    "知识图谱",
+    "知识表示"
+  ],
+  "status": "draft"
+}
