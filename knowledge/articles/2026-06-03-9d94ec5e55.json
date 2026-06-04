@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-03-9d94ec5e55",
+  "title": "Large AI Models in Dental Healthcare: From General-Purpose Systems to Domain-Specific Foundation Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02914",
+  "collected_at": "2026-06-03T13:03:46Z",
+  "summary": "探讨大型AI模型在牙科医疗中的应用，从通用系统向领域专用基础模型转变，涵盖诊断、治疗规划及影像分析等关键场景。",
+  "analysis": {
+    "tech_highlights": [
+      "通用AI系统向牙科专用基础模型演进",
+      "利用大语言模型辅助临床诊断与治疗规划",
+      "牙科影像分析中的深度学习技术应用",
+      "领域自适应与数据高效训练方法",
+      "模型可解释性与临床部署挑战"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI",
+    "医疗影像",
+    "基础模型",
+    "大语言模型",
+    "牙科"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-03-9bf5e67a4e",
+  "title": "Inducing Reasoning Primitives from Agent Traces",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02994",
+  "collected_at": "2026-06-03T13:03:52Z",
+  "summary": "该论文提出从智能体轨迹中提取推理原语的方法，旨在通过分析代理行为模式来提升AI的推理能力与可解释性。",
+  "analysis": {
+    "tech_highlights": [
+      "从智能体轨迹中自动提取推理原语",
+      "提升AI推理过程的可解释性",
+      "基于行为模式的分析方法",
+      "适用于复杂任务场景的推理优化"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "可解释AI",
+    "推理原语",
+    "智能体轨迹",
+    "模式提取"
+  ],
+  "status": "draft"
+}
