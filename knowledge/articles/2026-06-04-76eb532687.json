@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-04-76eb532687",
+  "title": "The Digital Apprentice: A Framework for Human-Directed Agentic AI Development",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04321",
+  "collected_at": "2026-06-04T11:15:55Z",
+  "summary": "该文提出“数字学徒”框架，将AI代理视为人类指导下的学徒，强调人机协作与可控性，为自主AI开发提供新范式。",
+  "analysis": {
+    "tech_highlights": [
+      "提出人类指导的代理AI开发框架",
+      "强调AI作为数字学徒的角色定位",
+      "注重人机协作中的可控性与安全性",
+      "为自主系统设计提供新方法论"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI代理",
+    "人机协作",
+    "框架设计",
+    "自主系统"
+  ],
+  "status": "draft"
+}

@@ -3,20 +3,19 @@
   "title": "obra/superpowers",
   "source": "github_trending",
   "source_url": "https://github.com/obra/superpowers",
-  "collected_at": "2026-06-04T02:55:29Z",
-  "summary": "一个可执行的技能框架和软件开发方法论，旨在提升AI代理的效能与开发流程。",
+  "collected_at": "2026-06-04T11:14:59Z",
+  "summary": "一个代理技能框架和软件开发方法论，旨在提升AI代理的协作与执行效率。",
   "analysis": {
     "tech_highlights": [
-      "提出可执行的技能框架（Executable Skills Framework）",
-      "将AI代理能力与软件开发方法论结合",
-      "强调可重复、可验证的开发流程",
-      "支持多步骤任务编排与自动化"
+      "代理技能框架",
+      "软件开发方法论",
+      "协作执行效率"
     ],
     "relevance_score": 8
   },
   "tags": [
     "AI代理",
-    "agentic",
+    "GitHub",
     "技能框架",
     "软件开发方法论"
   ],

@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-04-133ec898e7",
+  "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04391",
+  "collected_at": "2026-06-04T11:15:57Z",
+  "summary": "提出State-Grounded Dynamic Retrieval方法，让Web智能体在在线任务中动态检索技能，提升泛化能力与学习效率。",
+  "analysis": {
+    "tech_highlights": [
+      "状态引导的动态检索机制",
+      "在线技能学习框架",
+      "提升Web智能体泛化能力",
+      "结合检索与任务执行"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "Web Agent",
+    "动态检索",
+    "在线学习",
+    "强化学习"
+  ],
+  "status": "draft"
+}

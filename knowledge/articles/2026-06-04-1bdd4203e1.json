@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-04-1bdd4203e1",
+  "title": "Trivium: Temporal Regret as a First-Class Objective for Causal-Memory Controllers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04421",
+  "collected_at": "2026-06-04T11:16:01Z",
+  "summary": "Trivium提出将时间遗憾作为因果记忆控制器的一类目标，通过优化历史决策的长期影响来提升智能体在时序环境中的学习效率与鲁棒性。",
+  "analysis": {
+    "tech_highlights": [
+      "首次将时间遗憾作为因果记忆控制器的一类优化目标",
+      "在时序决策中引入长期历史影响评估机制",
+      "提出新的损失函数以平衡短期与长期回报",
+      "在多个基准环境中验证了方法的有效性",
+      "为因果推理与强化学习的结合提供新思路"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "因果记忆",
+    "强化学习",
+    "时间遗憾",
+    "智能控制器"
+  ],
+  "status": "draft"
+}

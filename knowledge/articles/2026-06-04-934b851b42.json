@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-04-934b851b42",
+  "title": "Cascading Hallucination in Agentic RAG: The CHARM Framework for Detection and Mitigation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04435",
+  "collected_at": "2026-06-04T11:16:03Z",
+  "summary": "论文提出CHARM框架，用于检测和缓解智能体RAG中的级联幻觉问题，通过多阶段监控与修正机制提升生成可靠性。",
+  "analysis": {
+    "tech_highlights": [
+      "定义Agentic RAG中级联幻觉的传播机制",
+      "提出多阶段检测与修正框架CHARM",
+      "结合检索与生成环节的协同监控策略",
+      "实验验证在复杂任务中幻觉率显著降低"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "Agentic RAG",
+    "CHARM",
+    "arXiv",
+    "检测与缓解",
+    "级联幻觉"
+  ],
+  "status": "draft"
+}

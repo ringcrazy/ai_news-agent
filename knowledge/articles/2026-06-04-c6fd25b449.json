@@ -3,16 +3,16 @@
   "title": "openclaw/openclaw",
   "source": "github_trending",
   "source_url": "https://github.com/openclaw/openclaw",
-  "collected_at": "2026-06-04T02:55:27Z",
-  "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手项目，采用龙虾风格设计，旨在为用户提供个性化的智能服务。",
+  "collected_at": "2026-06-04T11:14:58Z",
+  "summary": "OpenClaw 是一款跨平台个人AI助手，支持多种操作系统和平台，以龙虾风格命名，旨在提供个性化智能服务。",
   "analysis": {
     "tech_highlights": [
-      "跨操作系统支持（Any OS）",
-      "跨平台兼容（Any Platform）",
-      "个性化AI助手设计",
-      "开源项目（GitHub）"
+      "支持任何操作系统和平台",
+      "以龙虾（lobster）为品牌标识",
+      "开源项目，GitHub 上获得 37 万+ 星标",
+      "定位为个人AI助手"
     ],
-    "relevance_score": 7
+    "relevance_score": 8
   },
   "tags": [
     "AI助手",

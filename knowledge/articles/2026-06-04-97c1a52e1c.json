@@ -3,24 +3,24 @@
   "title": "microsoft/generative-ai-for-beginners",
   "source": "github_trending",
   "source_url": "https://github.com/microsoft/generative-ai-for-beginners",
-  "collected_at": "2026-06-04T02:56:01Z",
-  "summary": "微软推出的生成式AI初学者课程，包含21个课时，帮助学习者快速入门并构建生成式AI应用。",
+  "collected_at": "2026-06-04T11:15:30Z",
+  "summary": "微软推出的生成式AI入门课程，包含21个课时，帮助初学者快速上手构建生成式AI应用。",
   "analysis": {
     "tech_highlights": [
-      "21 Lessons结构化课程",
-      "涵盖生成式AI核心概念",
-      "提供动手实践项目",
-      "适合零基础入门",
-      "由微软官方维护"
+      "21个结构化课时",
+      "覆盖生成式AI核心概念",
+      "提供实践项目",
+      "适合初学者",
+      "开源且免费"
     ],
     "relevance_score": 9
   },
   "tags": [
+    "Generative AI",
     "GitHub",
-    "初学者",
+    "入门课程",
     "微软",
-    "生成式AI",
-    "课程"
+    "教育"
   ],
   "status": "draft"
 }

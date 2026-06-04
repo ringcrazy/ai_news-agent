@@ -3,24 +3,23 @@
   "title": "n8n-io/n8n",
   "source": "github_trending",
   "source_url": "https://github.com/n8n-io/n8n",
-  "collected_at": "2026-06-04T02:55:33Z",
-  "summary": "Fair-code工作流自动化平台，原生支持AI，可视化构建与自定义代码结合，支持自托管或云部署，集成400+应用。",
+  "collected_at": "2026-06-04T11:15:03Z",
+  "summary": "n8n 是一个公平代码工作流自动化平台，具备原生 AI 能力，支持可视化构建与自定义代码结合，可自托管或云端使用，集成超过 400 种服务。",
   "analysis": {
     "tech_highlights": [
-      "原生AI能力集成",
-      "可视化与代码混合构建",
-      "400+应用集成",
-      "支持自托管与云部署",
-      "Fair-code许可模式"
+      "原生 AI 能力嵌入工作流",
+      "可视化拖拽与自定义代码混合编排",
+      "400+ 集成连接器",
+      "支持自托管与云部署"
     ],
     "relevance_score": 9
   },
   "tags": [
     "AI",
-    "Fair-code",
-    "低代码",
+    "公平代码",
     "工作流自动化",
-    "自托管"
+    "自托管",
+    "集成平台"
   ],
   "status": "draft"
 }

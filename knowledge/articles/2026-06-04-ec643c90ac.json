@@ -3,21 +3,21 @@
   "title": "msitarzewski/agency-agents",
   "source": "github_trending",
   "source_url": "https://github.com/msitarzewski/agency-agents",
-  "collected_at": "2026-06-04T02:56:04Z",
-  "summary": "一个完整的AI代理机构，包含前端专家、Reddit社区运营、创意注入者等多样化专业代理，每个代理都具备个性、流程和可交付成果。",
+  "collected_at": "2026-06-04T11:15:32Z",
+  "summary": "一个完整的AI代理机构，包含前端专家、Reddit社区运营、幽默注入者等各类专业化代理，每个代理都具备个性、流程和可交付成果。",
   "analysis": {
     "tech_highlights": [
-      "专业代理多样化",
-      "个性与流程集成",
+      "专业化代理设计",
+      "个性化与流程集成",
       "可交付成果驱动",
-      "社区与创意结合"
+      "多角色协作架构"
     ],
     "relevance_score": 8
   },
   "tags": [
     "AI代理",
     "GitHub",
-    "多代理系统",
+    "多智能体系统",
     "自动化"
   ],
   "status": "draft"

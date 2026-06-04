@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-04-4fa69667b6",
+  "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04037",
+  "collected_at": "2026-06-04T11:15:34Z",
+  "summary": "该论文提出了一种基于本体的仿真与信任认证框架，用于企业AI代理的部署前保障，确保其行为符合企业规范与安全要求。",
+  "analysis": {
+    "tech_highlights": [
+      "基于本体的仿真方法模拟AI代理行为",
+      "部署前的信任认证机制",
+      "企业级AI代理的规范符合性验证",
+      "结合仿真与认证的端到端保障框架"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI安全",
+    "企业AI",
+    "信任认证",
+    "本体仿真",
+    "部署前保障"
+  ],
+  "status": "draft"
+}

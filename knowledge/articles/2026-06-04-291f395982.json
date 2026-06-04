@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-04-291f395982",
+  "title": "AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04484",
+  "collected_at": "2026-06-04T11:16:07Z",
+  "summary": "AgentJet是一个灵活的群体训练框架，专为智能体强化学习设计，支持多智能体协作与可扩展的训练流程。",
+  "analysis": {
+    "tech_highlights": [
+      "支持多智能体群体协作训练",
+      "灵活的框架设计便于扩展",
+      "针对智能体强化学习优化",
+      "可处理复杂任务场景"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "Multi-Agent Systems",
+    "Reinforcement Learning",
+    "Swarm Intelligence",
+    "Training Framework"
+  ],
+  "status": "draft"
+}

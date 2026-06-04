@@ -3,22 +3,21 @@
   "title": "anthropics/claude-code",
   "source": "github_trending",
   "source_url": "https://github.com/anthropics/claude-code",
-  "collected_at": "2026-06-04T02:55:56Z",
-  "summary": "Claude Code 是一个终端内的代理式编码工具，能理解代码库，通过自然语言命令加速编码、解释复杂代码和处理 Git 工作流。",
+  "collected_at": "2026-06-04T11:15:25Z",
+  "summary": "Claude Code 是一款终端内的智能编码助手，能理解代码库、执行常规任务、解释复杂代码并处理 Git 工作流，通过自然语言指令提升开发效率。",
   "analysis": {
     "tech_highlights": [
-      "代理式编码：在终端中自主执行常规编码任务",
-      "代码库理解：深度分析项目结构并解释复杂代码",
-      "自然语言交互：通过普通语言命令控制开发流程",
-      "Git 工作流集成：自动处理版本控制操作"
+      "理解整个代码库上下文",
+      "通过自然语言执行常规编码任务",
+      "解释复杂代码逻辑",
+      "自动化 Git 工作流操作"
     ],
     "relevance_score": 9
   },
   "tags": [
     "AI编码工具",
-    "Claude",
     "Git工作流",
-    "终端",
+    "终端助手",
     "自然语言处理"
   ],
   "status": "draft"

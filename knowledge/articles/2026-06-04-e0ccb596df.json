@@ -3,21 +3,24 @@
   "title": "Snailclimb/JavaGuide",
   "source": "github_trending",
   "source_url": "https://github.com/Snailclimb/JavaGuide",
-  "collected_at": "2026-06-04T02:55:42Z",
-  "summary": "JavaGuide 是一份全面的 Java 面试与后端通用指南，涵盖计算机基础、数据库、分布式、高并发、系统设计及 AI 应用开发，广受开发者欢迎。",
+  "collected_at": "2026-06-04T11:15:13Z",
+  "summary": "Java 面试与后端通用指南，涵盖计算机基础、数据库、分布式、高并发、系统设计及 AI 应用开发，GitHub 高星项目。",
   "analysis": {
     "tech_highlights": [
-      "覆盖计算机基础、数据库、分布式、高并发等核心知识",
-      "包含系统设计与 AI 应用开发内容",
-      "GitHub 上获得超过 156k 星标，社区认可度高"
+      "覆盖计算机基础与数据库核心知识",
+      "深入讲解分布式与高并发技术",
+      "包含系统设计与AI应用开发实践",
+      "GitHub 156k+ star，持续维护更新"
     ],
     "relevance_score": 9
   },
   "tags": [
+    "AI",
     "Java",
-    "分布式系统",
-    "后端开发",
-    "面试指南",
+    "分布式",
+    "后端",
+    "系统设计",
+    "面试",
     "高并发"
   ],
   "status": "draft"

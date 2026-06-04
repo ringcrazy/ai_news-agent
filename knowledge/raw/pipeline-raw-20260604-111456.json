@@ -1,0 +1,289 @@
+{
+  "collected_at": "2026-06-04T11:14:54.926470+00:00",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "items": [
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "github_trending",
+      "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "popularity": 376738
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "github_trending",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "popularity": 217519
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "github_trending",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "popularity": 206511
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "github_trending",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "popularity": 191044
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "github_trending",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "popularity": 184750
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "github_trending",
+      "summary": "The agent that grows with you",
+      "popularity": 180078
+    },
+    {
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "source": "github_trending",
+      "summary": "The open source coding agent.",
+      "popularity": 169716
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "github_trending",
+      "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "popularity": 167354
+    },
+    {
+      "title": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "source": "github_trending",
+      "summary": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "popularity": 156116
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "source": "github_trending",
+      "summary": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "popularity": 149217
+    },
+    {
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "source": "github_trending",
+      "summary": "Public repository for Agent Skills",
+      "popularity": 146379
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "source": "github_trending",
+      "summary": "Production-ready platform for agentic workflow development.",
+      "popularity": 143832
+    },
+    {
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "github_trending",
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "popularity": 139968
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "source": "github_trending",
+      "summary": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "popularity": 138766
+    },
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "source": "github_trending",
+      "summary": "The agent engineering platform.",
+      "popularity": 138482
+    },
+    {
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "github_trending",
+      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "popularity": 130037
+    },
+    {
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "source": "github_trending",
+      "summary": "LLM inference in C/C++",
+      "popularity": 114568
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "github_trending",
+      "summary": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "popularity": 112980
+    },
+    {
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "source": "github_trending",
+      "summary": "21 Lessons, Get Started Building with Generative AI",
+      "popularity": 111658
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "github_trending",
+      "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "popularity": 107367
+    },
+    {
+      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "url": "https://arxiv.org/abs/2606.04037",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
+      "url": "https://arxiv.org/abs/2606.04150",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
+      "url": "https://arxiv.org/abs/2606.04152",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+      "url": "https://arxiv.org/abs/2606.04202",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
+      "url": "https://arxiv.org/abs/2606.04223",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
+      "url": "https://arxiv.org/abs/2606.04244",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
+      "url": "https://arxiv.org/abs/2606.04246",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Can Generalist Agents Automate Data Curation?",
+      "url": "https://arxiv.org/abs/2606.04261",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Characterizing initial human-AI proof formalization workflows",
+      "url": "https://arxiv.org/abs/2606.04273",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
+      "url": "https://arxiv.org/abs/2606.04296",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
+      "url": "https://arxiv.org/abs/2606.04315",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "The Digital Apprentice: A Framework for Human-Directed Agentic AI Development",
+      "url": "https://arxiv.org/abs/2606.04321",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval",
+      "url": "https://arxiv.org/abs/2606.04391",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Not All Errors Are Equal: Consequence-Aware Reasoning Compute Allocation",
+      "url": "https://arxiv.org/abs/2606.04402",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Trivium: Temporal Regret as a First-Class Objective for Causal-Memory Controllers",
+      "url": "https://arxiv.org/abs/2606.04421",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Cascading Hallucination in Agentic RAG: The CHARM Framework for Detection and Mitigation",
+      "url": "https://arxiv.org/abs/2606.04435",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?",
+      "url": "https://arxiv.org/abs/2606.04455",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.04484",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Beyond Prompt-Based Planning: MCP-Native Graph Planning-based Biomedical Agent System",
+      "url": "https://arxiv.org/abs/2606.04494",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Simulate, Reason, Decide: Scientific Reasoning with LLMs for Simulation-Driven Decision Making",
+      "url": "https://arxiv.org/abs/2606.04505",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    }
+  ]
+}
