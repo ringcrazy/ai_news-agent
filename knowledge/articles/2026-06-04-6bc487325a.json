@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-04-6bc487325a",
+  "title": "An Exploration of Collision-based Enemy Morphology Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02832",
+  "collected_at": "2026-06-04T02:56:17Z",
+  "summary": "该论文探索了基于碰撞的敌人形态生成方法，通过物理交互动态改变敌人外观与行为，为游戏AI设计提供新思路。",
+  "analysis": {
+    "tech_highlights": [
+      "利用碰撞事件驱动敌人形态变化",
+      "动态调整敌人行为与外观",
+      "适用于实时游戏环境",
+      "减少手工设计工作量",
+      "提升游戏体验的不可预测性"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "enemy design",
+    "game AI",
+    "physics-based interaction",
+    "procedural content generation"
+  ],
+  "status": "draft"
+}

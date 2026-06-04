@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-04-d103c89de9",
+  "title": "RelGT-AC: A Relational Graph Transformer for Autocomplete Tasks in Relational Databases",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.03040",
+  "collected_at": "2026-06-04T02:56:40Z",
+  "summary": "提出RelGT-AC模型，利用关系图Transformer提升关系数据库中自动补全任务的性能，通过图结构捕获表间关联。",
+  "analysis": {
+    "tech_highlights": [
+      "将关系数据库建模为图结构以利用表间关联",
+      "基于Transformer的图编码器处理复杂关系",
+      "专为自动补全任务设计的训练与推理机制",
+      "在多个真实数据库上验证了性能提升"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "关系图Transformer",
+    "关系数据库",
+    "图神经网络",
+    "序列预测",
+    "自动补全"
+  ],
+  "status": "draft"
+}

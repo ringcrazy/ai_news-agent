@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-04-d03b139101",
+  "title": "Thinking Past the Answer: Evaluating Harmful Overthinking in Large Reasoning Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02835",
+  "collected_at": "2026-06-04T02:56:19Z",
+  "summary": "研究大型推理模型在生成答案后的过度思考现象，评估其可能产生的有害输出，提出新的评估方法。",
+  "analysis": {
+    "tech_highlights": [
+      "定义并检测推理模型的过度思考行为",
+      "构建有害过度思考的评估基准",
+      "分析过度思考与模型安全性的关联",
+      "提出缓解有害输出的策略"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI安全",
+    "大型推理模型",
+    "有害输出",
+    "评估方法",
+    "过度思考"
+  ],
+  "status": "draft"
+}

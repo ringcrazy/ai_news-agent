@@ -23,6 +23,10 @@ import time
 from pathlib import Path
 from typing import Any, Optional, Sequence, TypeVar
 
+import httpx
+
+from cost_tracker import GLOBAL_COST_TRACKER, PRICING_PER_1M_TOKENS_CNY, get_cost_tracker
+
 try:
     from dotenv import load_dotenv
 except ImportError:  # pragma: no cover - optional dependency
@@ -46,7 +50,7 @@ MAX_RETRY_ATTEMPTS = 3
 RETRY_BASE_DELAY_SECONDS = 1.0
 TOKEN_CHARS_PER_TOKEN = 4.0
 
-# Approximate USD pricing per 1M tokens.
+# Legacy USD pricing per 1M tokens, kept for backward compatibility.
 PRICING_PER_1M_TOKENS = {
     "deepseek-chat": {"input": 0.14, "output": 0.28},
     "deepseek-reasoner": {"input": 0.55, "output": 2.19},
@@ -86,6 +90,7 @@ class LLMResponse:
         model: Model name used for the request.
         provider: Provider name used for the request.
         cost_usd: Estimated request cost in USD.
+        cost_cny: Estimated request cost in CNY.
         raw_response: Optional raw response payload from the provider.
     """
 
@@ -94,6 +99,7 @@ class LLMResponse:
     model: str
     provider: str
     cost_usd: float = 0.0
+    cost_cny: float = 0.0
     raw_response: Optional[dict[str, Any]] = None
 
 
@@ -208,6 +214,8 @@ class OpenAICompatibleProvider(LLMProvider):
         content = _extract_content(data)
         usage = _extract_usage(data, messages, content)
         cost_usd = calculate_cost_usd(target_model, usage)
+        cost_cny = calculate_cost_cny(self._provider_name, usage)
+        get_cost_tracker().record(usage, self._provider_name)
 
         return LLMResponse(
             content=content,
@@ -215,6 +223,7 @@ class OpenAICompatibleProvider(LLMProvider):
             model=target_model,
             provider=self._provider_name,
             cost_usd=cost_usd,
+            cost_cny=cost_cny,
             raw_response=data,
         )
 
@@ -371,6 +380,12 @@ def quick_chat(prompt: str, model: Optional[str] = None) -> str:
     return response.content
 
 
+def get_cost_tracker() -> CostTracker:
+    """Return the global cost tracker instance."""
+
+    return GLOBAL_COST_TRACKER
+
+
 def estimate_token_usage(
     prompt: str,
     completion: str = "",
@@ -414,6 +429,26 @@ def calculate_cost_usd(model: str, usage: Usage) -> float:
     input_cost = usage.prompt_tokens * pricing["input"] / 1_000_000
     output_cost = usage.completion_tokens * pricing["output"] / 1_000_000
     return round(input_cost + output_cost, 8)
+
+
+def calculate_cost_cny(provider: str, usage: Usage) -> float:
+    """Estimate CNY cost for a request.
+
+    Args:
+        provider: Provider name.
+        usage: Usage statistics.
+
+    Returns:
+        Estimated cost in CNY.
+    """
+
+    pricing = PRICING_PER_1M_TOKENS_CNY.get(provider.lower())
+    if pricing is None:
+        return 0.0
+
+    input_cost = usage.prompt_tokens * pricing["input"] / 1_000_000
+    output_cost = usage.completion_tokens * pricing["output"] / 1_000_000
+    return round(input_cost + output_cost, 6)
 
 
 def _require_env(name: str) -> str:

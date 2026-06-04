@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-04-2156fa8788",
+  "title": "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02673",
+  "collected_at": "2026-06-04T02:56:06Z",
+  "summary": "该论文提出视觉图脚手架方法，增强大语言模型的结构推理能力，通过图结构引导模型进行更准确的逻辑与关系分析。",
+  "analysis": {
+    "tech_highlights": [
+      "利用视觉图结构作为推理脚手架",
+      "提升大语言模型在结构化任务中的表现",
+      "结合图神经网络与语言模型进行协同推理"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "Graph Scaffolds",
+    "Large Language Models",
+    "Structural Reasoning",
+    "Visual Reasoning"
+  ],
+  "status": "draft"
+}

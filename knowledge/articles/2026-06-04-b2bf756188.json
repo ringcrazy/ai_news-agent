@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-04-b2bf756188",
+  "title": "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02798",
+  "collected_at": "2026-06-04T02:56:12Z",
+  "summary": "BehaviorBench提出从行为痕迹建模真实用户决策的新基准，旨在评估AI系统理解与模拟人类行为的能力，推动人机交互发展。",
+  "analysis": {
+    "tech_highlights": [
+      "基于行为痕迹的用户决策建模",
+      "评估AI对人类行为理解能力",
+      "提出新基准测试框架",
+      "推动人机交互与AI对齐研究"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "人机交互",
+    "基准测试",
+    "用户决策",
+    "行为建模"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-04-10ba719313",
+  "title": "anthropics/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/skills",
+  "collected_at": "2026-06-04T02:55:45Z",
+  "summary": "Anthropic 官方发布的 Agent Skills 公共仓库，用于收集和分享 AI 代理技能，提升模型能力。",
+  "analysis": {
+    "tech_highlights": [
+      "官方仓库，高可信度",
+      "聚焦 AI 代理技能开发",
+      "社区协作与分享机制"
+    ],
+    "relevance_score": 9
+  },
+  "tags": [
+    "AI Agent",
+    "Anthropic",
+    "GitHub",
+    "Skills"
+  ],
+  "status": "draft"
+}

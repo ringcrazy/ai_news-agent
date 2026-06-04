@@ -31,8 +31,10 @@ import httpx
 import yaml
 
 try:
+    from cost_tracker import get_cost_tracker
     from model_client import chat_with_retry, create_provider
 except ImportError:  # pragma: no cover - compatibility fallback
+    from cost_tracker import get_cost_tracker
     from model_client import chat_with_retry, get_env_provider as create_provider
 
 LOGGER = logging.getLogger(__name__)
@@ -377,6 +379,7 @@ def main() -> int:
             rss_config=args.rss_config,
         )
         LOGGER.info("Pipeline finished, %s article files ready", len(saved_paths))
+        get_cost_tracker().report()
         return 0
     except Exception:
         LOGGER.exception("Pipeline failed")

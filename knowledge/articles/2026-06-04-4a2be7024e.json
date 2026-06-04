@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-04-4a2be7024e",
+  "title": "WISE-HAR: A Generalizable Ensemble Deep Learning Framework for WiFi-Based Human Activity Recognition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02974",
+  "collected_at": "2026-06-04T02:56:33Z",
+  "summary": "```json\n{\n  \"summary\": \"WISE-HAR提出了一种基于WiFi信号的人类活动识别通用集成深度学习框架，通过增强泛化能力，解决了传统方法在不同环境下的性能下降问题。\",\n  \"r",
+  "analysis": {
+    "tech_highlights": [
+      "```json\n{\n  \"summary\": \"WISE-HAR提出了一种基于WiFi信号的人类活动识别通用集成深度学习"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "json",
+    "relevance_score",
+    "summary",
+    "wifi",
+    "wise-har"
+  ],
+  "status": "draft"
+}

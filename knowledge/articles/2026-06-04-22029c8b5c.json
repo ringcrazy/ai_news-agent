@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-04-22029c8b5c",
+  "title": "When Helping Hurts and How to Fix It: Multi-Agent Debate for Data Cleaning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02866",
+  "collected_at": "2026-06-04T02:56:24Z",
+  "summary": "提出多智能体辩论框架用于数据清洗，通过智能体间的协作与辩论来减少错误修复，提升清洗效果。",
+  "analysis": {
+    "tech_highlights": [
+      "多智能体辩论机制",
+      "协作式错误修复",
+      "数据清洗新范式",
+      "智能体间交互优化"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI",
+    "Data Cleaning",
+    "Debate",
+    "Multi-Agent"
+  ],
+  "status": "draft"
+}

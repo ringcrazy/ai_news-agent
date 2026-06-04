@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-04-7957e8ba23",
+  "title": "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02802",
+  "collected_at": "2026-06-04T02:56:13Z",
+  "summary": "ChatHealthAI提出一种新方法，将电子健康记录表示与大语言模型对齐，以增强临床推理的可靠性和可解释性。",
+  "analysis": {
+    "tech_highlights": [
+      "电子健康记录与大语言模型的对齐方法",
+      "增强临床推理的可靠性",
+      "提升模型在医疗场景中的可解释性",
+      "基于grounded reasoning的架构设计"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI医疗",
+    "临床推理",
+    "大语言模型",
+    "电子健康记录",
+    "表示对齐"
+  ],
+  "status": "draft"
+}

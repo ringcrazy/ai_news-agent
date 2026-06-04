@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-04-930dd1342c",
+  "title": "NousResearch/hermes-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "collected_at": "2026-06-04T02:55:36Z",
+  "summary": "Hermes-Agent 是一个可随用户需求成长的智能体框架，基于 NousResearch 开发，支持灵活扩展与持续学习。",
+  "analysis": {
+    "tech_highlights": [
+      "可扩展的智能体架构",
+      "持续学习与自适应能力",
+      "基于开源社区协作开发"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI Agent",
+    "NousResearch",
+    "开源项目",
+    "智能体框架"
+  ],
+  "status": "draft"
+}

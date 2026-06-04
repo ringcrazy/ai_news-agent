@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-04-3ae1fba7cd",
+  "title": "Handoff Debt: The Rediscovery Cost When Coding Agents Take Over Interrupted Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02875",
+  "collected_at": "2026-06-04T02:56:26Z",
+  "summary": "研究编码代理在接管中断任务时的交接债务，量化重新发现上下文和恢复工作的成本，提出降低交接开销的方法。",
+  "analysis": {
+    "tech_highlights": [
+      "定义并量化编码代理的交接债务（Handoff Debt）",
+      "分析任务中断后重新发现上下文的成本",
+      "提出减少交接开销的优化策略",
+      "基于实验数据验证交接债务对效率的影响"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI软件开发",
+    "coding agents",
+    "handoff cost",
+    "task interruption"
+  ],
+  "status": "draft"
+}
