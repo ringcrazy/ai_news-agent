@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-05-a74c48c3f9",
+  "title": "Not All Errors Are Equal: Consequence-Aware Reasoning Compute Allocation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04402",
+  "collected_at": "2026-06-05T11:24:30Z",
+  "summary": "提出后果感知推理计算分配方法，根据错误后果严重性动态分配推理计算资源，提升AI系统在关键任务中的效率与可靠性。",
+  "analysis": {
+    "tech_highlights": [
+      "基于错误后果严重性动态分配推理计算资源",
+      "提升关键任务场景下的系统可靠性",
+      "优化计算效率与资源利用率",
+      "提出新的推理计算分配框架"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI可靠性",
+    "推理计算分配",
+    "计算效率",
+    "错误后果感知"
+  ],
+  "status": "draft"
+}

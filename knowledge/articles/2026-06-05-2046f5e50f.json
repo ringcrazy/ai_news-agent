@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-05-2046f5e50f",
+  "title": "obra/superpowers",
+  "source": "github_trending",
+  "source_url": "https://github.com/obra/superpowers",
+  "collected_at": "2026-06-05T11:23:29Z",
+  "summary": "```json\n{\n  \"summary\": \"一个代理技能框架和软件开发方法论，旨在通过结构化技能和智能体协作提升开发效率与质量。\",\n  \"relevance_score\": 8,\n  \"tags",
+  "analysis": {
+    "tech_highlights": [
+      "```json\n{\n  \"summary\": \"一个代理技能框架和软件开发方法论，旨在通过结构化技能和智能体协作提升开发"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "8",
+    "json",
+    "relevance_score",
+    "summary",
+    "tags"
+  ],
+  "status": "draft"
+}

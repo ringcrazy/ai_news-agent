@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-05-48ceabbf1e",
+  "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04202",
+  "collected_at": "2026-06-05T11:24:11Z",
+  "summary": "提出SMAC-Talk，将星际争霸多智能体挑战扩展为自然语言接口，供大语言模型用于多智能体协作任务。",
+  "analysis": {
+    "tech_highlights": [
+      "将经典SMAC环境扩展为自然语言交互接口",
+      "支持LLM直接生成多智能体协作策略",
+      "提供标准化评估基准",
+      "融合语言理解与多智能体决策"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "多智能体系统",
+    "大语言模型",
+    "强化学习",
+    "星际争霸",
+    "自然语言处理"
+  ],
+  "status": "draft"
+}

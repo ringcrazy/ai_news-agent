@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-05-bdf00633de",
+  "title": "Characterizing initial human-AI proof formalization workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04273",
+  "collected_at": "2026-06-05T11:24:20Z",
+  "summary": "该论文研究人类与AI在数学证明形式化中的初始工作流程，分析人机协作模式，旨在提升形式化验证的效率与可及性。",
+  "analysis": {
+    "tech_highlights": [
+      "探索人类与AI在证明形式化中的协作流程",
+      "分析初始工作流中的关键交互模式",
+      "旨在提高形式化验证的效率和可扩展性",
+      "结合AI辅助与人类专家知识"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "AI协作",
+    "人机交互",
+    "形式化验证",
+    "数学证明"
+  ],
+  "status": "draft"
+}

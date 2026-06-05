@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-05-943ad40afb",
+  "title": "Can Generalist Agents Automate Data Curation?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04261",
+  "collected_at": "2026-06-05T11:24:18Z",
+  "summary": "该论文探讨通用型AI代理能否自动化数据整理任务，分析其能力与局限性，并提出评估框架。",
+  "analysis": {
+    "tech_highlights": [
+      "通用型AI代理在数据清洗、标注等任务中的表现评估",
+      "提出自动化数据整理的标准化测试框架",
+      "对比专用模型与通用代理的效率和准确性",
+      "探讨代理自主决策与人类监督的平衡点"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "AI代理",
+    "arXiv",
+    "数据整理",
+    "自动化",
+    "通用型AI"
+  ],
+  "status": "draft"
+}

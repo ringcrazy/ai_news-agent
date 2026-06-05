@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-05-75233c4181",
+  "title": "The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04455",
+  "collected_at": "2026-06-05T11:24:36Z",
+  "summary": "本文提出元代理挑战，评估当前AI代理能否自主开发新代理，测试结果显示现有代理在自主开发方面能力有限。",
+  "analysis": {
+    "tech_highlights": [
+      "提出元代理挑战框架",
+      "评估AI代理自主开发能力",
+      "揭示当前代理的局限性",
+      "推动自主代理研究进展"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI代理",
+    "元代理",
+    "挑战评估",
+    "自主开发"
+  ],
+  "status": "draft"
+}

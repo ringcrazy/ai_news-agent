@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-05-e0ccb596df",
+  "title": "Snailclimb/JavaGuide",
+  "source": "github_trending",
+  "source_url": "https://github.com/Snailclimb/JavaGuide",
+  "collected_at": "2026-06-05T11:23:42Z",
+  "summary": "Java 面试与后端通用指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发，适合开发者系统学习与面试准备。",
+  "analysis": {
+    "tech_highlights": [
+      "覆盖计算机基础、数据库、分布式与高并发等核心知识",
+      "包含系统设计与 AI 应用开发等前沿内容",
+      "GitHub 高星项目，持续维护更新",
+      "面向面试与实战结合的综合性指南"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "Java",
+    "分布式",
+    "后端开发",
+    "面试指南",
+    "高并发"
+  ],
+  "status": "draft"
+}

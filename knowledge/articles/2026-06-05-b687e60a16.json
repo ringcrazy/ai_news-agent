@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-05-b687e60a16",
+  "title": "Beyond Prompt-Based Planning: MCP-Native Graph Planning-based Biomedical Agent System",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04494",
+  "collected_at": "2026-06-05T11:24:40Z",
+  "summary": "提出MCP原生图规划框架，将生物医学代理从提示规划转向基于MCP的图规划，提升任务分解与执行效率。",
+  "analysis": {
+    "tech_highlights": [
+      "MCP原生图规划替代传统提示规划",
+      "面向生物医学领域的智能代理系统",
+      "基于图的任务分解与执行机制"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI agent",
+    "MCP",
+    "biomedical agent",
+    "graph planning",
+    "task decomposition"
+  ],
+  "status": "draft"
+}

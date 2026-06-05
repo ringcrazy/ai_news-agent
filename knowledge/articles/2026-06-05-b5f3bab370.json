@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-05-b5f3bab370",
+  "title": "Simulate, Reason, Decide: Scientific Reasoning with LLMs for Simulation-Driven Decision Making",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04505",
+  "collected_at": "2026-06-05T11:24:42Z",
+  "summary": "提出一种利用LLM进行科学推理的框架，通过模拟、推理和决策三步实现仿真驱动的决策制定，提升复杂场景下的推理能力。",
+  "analysis": {
+    "tech_highlights": [
+      "三步框架：模拟、推理、决策",
+      "利用LLM进行科学推理",
+      "仿真驱动决策制定",
+      "提升复杂场景推理能力"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI决策",
+    "LLM",
+    "仿真驱动决策",
+    "科学推理"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-05-075d958576",
+  "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04246",
+  "collected_at": "2026-06-05T11:24:16Z",
+  "summary": "提出StepPRM-RTL方法，通过逐步过程奖励引导LLM微调，提升RTL代码合成质量，在Verilog生成任务上显著优于基线模型。",
+  "analysis": {
+    "tech_highlights": [
+      "引入逐步过程奖励（Stepwise Process-Reward）机制",
+      "针对RTL代码合成任务优化LLM微调",
+      "在Verilog生成基准上实现性能提升",
+      "结合过程监督与结果监督的混合训练策略"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "LLM",
+    "RTL合成",
+    "Verilog生成",
+    "微调",
+    "过程奖励模型"
+  ],
+  "status": "draft"
+}
