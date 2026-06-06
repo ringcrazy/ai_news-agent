@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-06-39f8c3f27a",
+  "title": "Minimizing the Hidden Cost of Scales: Graph-Guided Ultra-Low-Bit Quantization for Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05429",
+  "collected_at": "2026-06-06T10:01:15Z",
+  "summary": "提出图引导的超低位量化方法，通过最小化缩放因子隐藏代价，在保持大语言模型性能的同时实现极低比特量化。",
+  "analysis": {
+    "tech_highlights": [
+      "图引导量化策略",
+      "超低位比特表示",
+      "隐藏代价最小化",
+      "大语言模型高效部署",
+      "性能与压缩平衡"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "LLM",
+    "低比特",
+    "压缩",
+    "图引导",
+    "量化"
+  ],
+  "status": "draft"
+}

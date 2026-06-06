@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-06-3bee84ad9c",
+  "title": "Harnessing Generalist Agents for Contextualized Time Series",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05404",
+  "collected_at": "2026-06-06T10:01:03Z",
+  "summary": "该论文提出利用通用智能体进行上下文时间序列分析，通过预训练模型实现跨领域的时间序列预测与理解，展示了通用方法在时序任务中的潜力。",
+  "analysis": {
+    "tech_highlights": [
+      "通用智能体用于时间序列分析",
+      "跨领域上下文学习能力",
+      "预训练模型在时序任务中的应用",
+      "无需领域特定微调的泛化方法"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "AI",
+    "上下文学习",
+    "时间序列",
+    "通用智能体",
+    "预训练模型"
+  ],
+  "status": "draft"
+}

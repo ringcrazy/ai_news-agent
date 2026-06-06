@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-06-903029d9b1",
+  "title": "Agents' Last Exam",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05405",
+  "collected_at": "2026-06-06T10:01:06Z",
+  "summary": "该论文提出“Agents' Last Exam”基准，用于评估AI智能体在复杂任务中的表现，涵盖规划、工具使用和多步推理等能力。",
+  "analysis": {
+    "tech_highlights": [
+      "设计多步骤、需工具调用的复杂任务场景",
+      "评估智能体的规划与执行能力",
+      "引入动态环境与反馈机制",
+      "涵盖多模态输入与输出"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI Agent",
+    "基准测试",
+    "复杂推理",
+    "智能体评估"
+  ],
+  "status": "draft"
+}

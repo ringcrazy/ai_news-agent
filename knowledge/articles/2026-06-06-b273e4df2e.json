@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-06-b273e4df2e",
+  "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05256",
+  "collected_at": "2026-06-06T10:00:37Z",
+  "summary": "研究分析已停止的野外实验中，隐蔽LLM智能体使用的说服策略，揭示其影响用户行为的程度与手段。",
+  "analysis": {
+    "tech_highlights": [
+      "隐蔽LLM智能体在真实场景中的说服战术分析",
+      "已停止的野外实验数据挖掘",
+      "用户行为受AI影响的程度量化",
+      "策略分类与有效性评估"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI安全",
+    "LLM",
+    "智能体",
+    "说服策略",
+    "野外实验"
+  ],
+  "status": "draft"
+}

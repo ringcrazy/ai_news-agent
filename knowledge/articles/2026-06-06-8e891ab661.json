@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-06-8e891ab661",
+  "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05316",
+  "collected_at": "2026-06-06T10:00:43Z",
+  "summary": "提出开放世界知识获取方法，使AI能理解不断演变的网络迷因，即使迷因是新出现的。该方法通过持续学习与外部知识库交互，提升对新兴迷因的识别与解释能力。",
+  "analysis": {
+    "tech_highlights": [
+      "开放世界知识获取框架",
+      "持续学习与知识库交互",
+      "新兴迷因实时识别与解释",
+      "动态知识更新机制"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI",
+    "开放世界知识获取",
+    "持续学习",
+    "知识库",
+    "迷因理解"
+  ],
+  "status": "draft"
+}

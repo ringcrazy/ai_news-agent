@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-06-991cb8c748",
+  "title": "Significant-Gravitas/AutoGPT",
+  "source": "github_trending",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "collected_at": "2026-06-06T10:00:00Z",
+  "summary": "AutoGPT 致力于让AI人人可用，提供工具和平台，帮助用户专注于重要事务，实现自主构建和使用AI。",
+  "analysis": {
+    "tech_highlights": [
+      "自主AI代理框架",
+      "基于GPT模型实现任务自动化",
+      "开源社区驱动开发",
+      "支持插件扩展功能",
+      "降低AI使用门槛"
+    ],
+    "relevance_score": 9
+  },
+  "tags": [
+    "AI",
+    "AutoGPT",
+    "GPT",
+    "开源",
+    "自动化"
+  ],
+  "status": "draft"
+}

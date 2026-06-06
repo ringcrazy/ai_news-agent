@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-06-2869b51e49",
+  "title": "Assessing the Carbon Emissions and Energy Consumption of U.S. Hyperscale Data Centers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05420",
+  "collected_at": "2026-06-06T10:01:13Z",
+  "summary": "该论文评估了美国超大规模数据中心的碳排放与能源消耗，分析了其环境影响及增长趋势，为可持续AI基础设施提供量化依据。",
+  "analysis": {
+    "tech_highlights": [
+      "量化超大规模数据中心的碳足迹",
+      "分析能源消耗与AI算力增长的关系",
+      "提出数据中心环境影响的评估方法",
+      "关注美国区域电力结构对碳排放的影响",
+      "为绿色数据中心设计提供数据支持"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "可持续AI",
+    "数据中心",
+    "环境评估",
+    "碳排放",
+    "能源消耗"
+  ],
+  "status": "draft"
+}

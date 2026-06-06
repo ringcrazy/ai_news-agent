@@ -1,0 +1,289 @@
+{
+  "collected_at": "2026-06-06T09:59:48.043289+00:00",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "items": [
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "github_trending",
+      "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "popularity": 377186
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "github_trending",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "popularity": 219193
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "github_trending",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "popularity": 208678
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "github_trending",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "popularity": 191308
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "github_trending",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "popularity": 184792
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "github_trending",
+      "summary": "The agent that grows with you",
+      "popularity": 184032
+    },
+    {
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "source": "github_trending",
+      "summary": "The open source coding agent.",
+      "popularity": 170636
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "github_trending",
+      "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "popularity": 168994
+    },
+    {
+      "title": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "source": "github_trending",
+      "summary": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "popularity": 156171
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "source": "github_trending",
+      "summary": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "popularity": 149279
+    },
+    {
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "source": "github_trending",
+      "summary": "Public repository for Agent Skills",
+      "popularity": 147083
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "source": "github_trending",
+      "summary": "Production-ready platform for agentic workflow development.",
+      "popularity": 144100
+    },
+    {
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "github_trending",
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "popularity": 140266
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "source": "github_trending",
+      "summary": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "popularity": 138840
+    },
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "source": "github_trending",
+      "summary": "The agent engineering platform.",
+      "popularity": 138635
+    },
+    {
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "github_trending",
+      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "popularity": 130522
+    },
+    {
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "source": "github_trending",
+      "summary": "LLM inference in C/C++",
+      "popularity": 114931
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "github_trending",
+      "summary": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "popularity": 113440
+    },
+    {
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "source": "github_trending",
+      "summary": "21 Lessons, Get Started Building with Generative AI",
+      "popularity": 111718
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "github_trending",
+      "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "popularity": 107832
+    },
+    {
+      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+      "url": "https://arxiv.org/abs/2606.05256",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2606.05304",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+      "url": "https://arxiv.org/abs/2606.05316",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+      "url": "https://arxiv.org/abs/2606.05332",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+      "url": "https://arxiv.org/abs/2606.05334",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+      "url": "https://arxiv.org/abs/2606.05342",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
+      "url": "https://arxiv.org/abs/2606.05357",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Synthetic Contrastive Reasoning for Multi-Table Q&amp;A",
+      "url": "https://arxiv.org/abs/2606.05382",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges",
+      "url": "https://arxiv.org/abs/2606.05384",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Residual Modeling for High-Fidelity Learned Compression of Scientific Data",
+      "url": "https://arxiv.org/abs/2606.05389",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization",
+      "url": "https://arxiv.org/abs/2606.05400",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Harnessing Generalist Agents for Contextualized Time Series",
+      "url": "https://arxiv.org/abs/2606.05404",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Agents' Last Exam",
+      "url": "https://arxiv.org/abs/2606.05405",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Mutation Without Variation: Convergence Dynamics in LLM-Driven Program Evolution",
+      "url": "https://arxiv.org/abs/2606.05408",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "A Motivational Architecture for Conversational AGI",
+      "url": "https://arxiv.org/abs/2606.05411",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Assessing the Carbon Emissions and Energy Consumption of U.S. Hyperscale Data Centers",
+      "url": "https://arxiv.org/abs/2606.05420",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Minimizing the Hidden Cost of Scales: Graph-Guided Ultra-Low-Bit Quantization for Large Language Models",
+      "url": "https://arxiv.org/abs/2606.05429",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Zero knowledge verification for frontier AI training is possible",
+      "url": "https://arxiv.org/abs/2606.05433",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Ten Headache Specialists versus Artificial Intelligence for Clinical Literature Summarization: A Critical Evaluation and Comparison",
+      "url": "https://arxiv.org/abs/2606.05436",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Brick-Composer: Using MLLMs for Assembly with Diverse Bricks",
+      "url": "https://arxiv.org/abs/2606.05445",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-06-43f1b4ea88",
+  "title": "Synthetic Contrastive Reasoning for Multi-Table Q&amp;A",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05382",
+  "collected_at": "2026-06-06T10:00:54Z",
+  "summary": "提出合成对比推理方法，用于多表问答任务，通过生成对比样本提升模型推理能力，在多个基准上取得显著效果。",
+  "analysis": {
+    "tech_highlights": [
+      "合成对比样本生成策略",
+      "多表联合推理框架",
+      "提升复杂表格问答准确率",
+      "无需额外人工标注"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "合成数据",
+    "多表问答",
+    "对比推理",
+    "自然语言处理"
+  ],
+  "status": "draft"
+}

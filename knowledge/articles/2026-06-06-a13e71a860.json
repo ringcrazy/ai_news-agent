@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-06-a13e71a860",
+  "title": "Ten Headache Specialists versus Artificial Intelligence for Clinical Literature Summarization: A Critical Evaluation and Comparison",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05436",
+  "collected_at": "2026-06-06T10:01:20Z",
+  "summary": "该研究对比了十位头痛专家与AI在临床文献摘要生成上的表现，评估了AI的准确性和效率，发现AI在速度上占优但专家在深度上更胜一筹。",
+  "analysis": {
+    "tech_highlights": [
+      "AI与十位头痛专家直接对比",
+      "评估AI在临床文献摘要中的准确性",
+      "AI生成速度显著优于人类专家",
+      "专家摘要更具临床深度和上下文理解",
+      "为AI在医疗文献处理中的应用提供实证"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI",
+    "专家对比",
+    "临床文献",
+    "头痛",
+    "摘要生成"
+  ],
+  "status": "draft"
+}

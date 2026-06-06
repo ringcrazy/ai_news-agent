@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-06-e1adde002b",
+  "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05342",
+  "collected_at": "2026-06-06T10:00:50Z",
+  "summary": "SentinelBench是首个针对长时间运行监控代理的基准测试，评估AI系统在持续任务中的稳定性和性能。",
+  "analysis": {
+    "tech_highlights": [
+      "首个长时间运行监控代理基准",
+      "评估AI系统持续任务稳定性",
+      "覆盖多种监控场景",
+      "提供标准化性能指标"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI Benchmark",
+    "AI Evaluation",
+    "Long-Running Systems",
+    "Monitoring Agents"
+  ],
+  "status": "draft"
+}

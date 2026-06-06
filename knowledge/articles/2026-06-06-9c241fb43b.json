@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-06-9c241fb43b",
+  "title": "anthropics/claude-code",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/claude-code",
+  "collected_at": "2026-06-06T10:00:26Z",
+  "summary": "Claude Code 是一款终端代理式编码工具，能理解代码库，通过自然语言执行常规任务、解释复杂代码并处理 Git 工作流，从而提升编码速度。",
+  "analysis": {
+    "tech_highlights": [
+      "Agentic coding tool in terminal",
+      "Understands entire codebase",
+      "Executes routine tasks via natural language",
+      "Explains complex code",
+      "Handles git workflows"
+    ],
+    "relevance_score": 9
+  },
+  "tags": [
+    "AI编码助手",
+    "Git工作流",
+    "代理式工具",
+    "终端",
+    "自然语言"
+  ],
+  "status": "draft"
+}
