@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-08-585fd4ce1a",
+  "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06529",
+  "collected_at": "2026-06-08T12:25:49Z",
+  "summary": "该论文研究代理型AI控制评估中的攻击选择问题，发现精心选择攻击会显著降低评估的安全性，导致对AI系统实际风险的低估。",
+  "analysis": {
+    "tech_highlights": [
+      "攻击选择显著影响AI控制评估的安全性",
+      "揭示评估中攻击选择的潜在偏见",
+      "强调对AI系统实际风险的低估问题",
+      "为代理型AI安全评估提供方法论改进方向"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI安全",
+    "代理型AI",
+    "控制评估",
+    "攻击选择",
+    "风险评估"
+  ],
+  "status": "draft"
+}

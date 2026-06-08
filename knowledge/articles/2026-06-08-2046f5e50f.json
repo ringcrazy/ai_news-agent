@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-08-2046f5e50f",
+  "title": "obra/superpowers",
+  "source": "github_trending",
+  "source_url": "https://github.com/obra/superpowers",
+  "collected_at": "2026-06-08T12:24:54Z",
+  "summary": "一个代理技能框架和软件开发方法论，旨在提升开发效率与协作，提供结构化的工作流程。",
+  "analysis": {
+    "tech_highlights": [
+      "代理技能框架",
+      "软件开发方法论",
+      "结构化工作流",
+      "提升开发效率",
+      "协作支持"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI框架",
+    "GitHub",
+    "代理技能",
+    "软件开发方法论"
+  ],
+  "status": "draft"
+}

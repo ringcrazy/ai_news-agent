@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-08-d38add4b0c",
+  "title": "A Geometric Account of Activation Steering through Angle-Norm Decomposition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06735",
+  "collected_at": "2026-06-08T12:26:04Z",
+  "summary": "本文提出一种基于角度-范数分解的激活操控几何解释方法，通过分解激活向量为方向和幅度，揭示LLM行为操控的几何机制。",
+  "analysis": {
+    "tech_highlights": [
+      "提出角度-范数分解框架解释激活操控",
+      "揭示方向与幅度对模型行为的独立影响",
+      "提供几何视角理解LLM内部机制"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "几何解释",
+    "大语言模型",
+    "激活操控",
+    "角度-范数分解"
+  ],
+  "status": "draft"
+}

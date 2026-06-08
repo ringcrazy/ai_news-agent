@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-08-2818c1ffa8",
+  "title": "AdMem: Advanced Memory for Task-solving Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06787",
+  "collected_at": "2026-06-08T12:26:09Z",
+  "summary": "AdMem提出一种高级记忆机制，增强任务求解智能体的长期记忆与推理能力，提升在复杂任务中的表现。",
+  "analysis": {
+    "tech_highlights": [
+      "高级记忆架构设计",
+      "长期记忆与推理结合",
+      "提升复杂任务求解效率"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI",
+    "Memory",
+    "Task-solving Agents",
+    "arXiv"
+  ],
+  "status": "draft"
+}

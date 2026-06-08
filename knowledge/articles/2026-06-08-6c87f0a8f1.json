@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-08-6c87f0a8f1",
+  "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06519",
+  "collected_at": "2026-06-08T12:25:42Z",
+  "summary": "SafeGene提出可复用的安全适配器，用于迁移安全对齐，提升大模型在不同任务中的安全性。",
+  "analysis": {
+    "tech_highlights": [
+      "可复用安全适配器设计",
+      "迁移安全对齐方法",
+      "提升模型跨任务安全性"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "大模型",
+    "安全对齐",
+    "迁移学习",
+    "适配器"
+  ],
+  "status": "draft"
+}

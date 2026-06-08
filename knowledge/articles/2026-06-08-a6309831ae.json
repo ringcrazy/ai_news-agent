@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-08-a6309831ae",
+  "title": "Quantum-Inspired Trace-Augmented Evidence Selection for Reasoning over Structured Hypothesis Spaces",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06941",
+  "collected_at": "2026-06-08T12:26:18Z",
+  "summary": "提出一种量子启发的迹增强证据选择方法，用于在结构化假设空间中进行推理，通过量子概率框架提升证据利用效率。",
+  "analysis": {
+    "tech_highlights": [
+      "量子概率框架应用于证据选择",
+      "迹增强方法提升推理准确性",
+      "结构化假设空间中的高效推理",
+      "量子启发算法与经典推理结合"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI",
+    "推理",
+    "结构化假设空间",
+    "证据选择",
+    "量子启发"
+  ],
+  "status": "draft"
+}

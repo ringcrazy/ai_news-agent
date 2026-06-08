@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-08-94f50285ad",
+  "title": "DiBS: Diffusion-Informed Branch Selection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06518",
+  "collected_at": "2026-06-08T12:25:40Z",
+  "summary": "DiBS提出一种基于扩散模型的分支选择方法，用于提升神经架构搜索效率，通过生成高质量候选架构减少搜索成本。",
+  "analysis": {
+    "tech_highlights": [
+      "利用扩散模型生成候选架构",
+      "减少搜索空间与计算成本",
+      "在多个基准任务上验证有效性",
+      "结合分支选择策略提升搜索质量"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "分支选择",
+    "扩散模型",
+    "深度学习",
+    "神经架构搜索"
+  ],
+  "status": "draft"
+}

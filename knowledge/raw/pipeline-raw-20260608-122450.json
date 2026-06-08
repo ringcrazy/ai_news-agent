@@ -1,0 +1,289 @@
+{
+  "collected_at": "2026-06-08T12:24:49.745879+00:00",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "items": [
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "github_trending",
+      "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "popularity": 377556
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "github_trending",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "popularity": 221064
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "github_trending",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "popularity": 210378
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "source": "github_trending",
+      "summary": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "popularity": 193472
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "github_trending",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "popularity": 191583
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "github_trending",
+      "summary": "The agent that grows with you",
+      "popularity": 186809
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "github_trending",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "popularity": 184848
+    },
+    {
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "source": "github_trending",
+      "summary": "The open source coding agent.",
+      "popularity": 171516
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "github_trending",
+      "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "popularity": 170981
+    },
+    {
+      "title": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "source": "github_trending",
+      "summary": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "popularity": 156213
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "source": "github_trending",
+      "summary": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "popularity": 149400
+    },
+    {
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "source": "github_trending",
+      "summary": "Public repository for Agent Skills",
+      "popularity": 147852
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "source": "github_trending",
+      "summary": "Production-ready platform for agentic workflow development.",
+      "popularity": 144411
+    },
+    {
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "github_trending",
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "popularity": 140598
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "source": "github_trending",
+      "summary": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "popularity": 138938
+    },
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "source": "github_trending",
+      "summary": "The agent engineering platform.",
+      "popularity": 138817
+    },
+    {
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "github_trending",
+      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "popularity": 131027
+    },
+    {
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "source": "github_trending",
+      "summary": "LLM inference in C/C++",
+      "popularity": 115555
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "github_trending",
+      "summary": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "popularity": 113808
+    },
+    {
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "source": "github_trending",
+      "summary": "21 Lessons, Get Started Building with Generative AI",
+      "popularity": 111768
+    },
+    {
+      "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+      "url": "https://arxiv.org/abs/2606.06514",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "DiBS: Diffusion-Informed Branch Selection",
+      "url": "https://arxiv.org/abs/2606.06518",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+      "url": "https://arxiv.org/abs/2606.06519",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+      "url": "https://arxiv.org/abs/2606.06523",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
+      "url": "https://arxiv.org/abs/2606.06526",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+      "url": "https://arxiv.org/abs/2606.06529",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
+      "url": "https://arxiv.org/abs/2606.06531",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
+      "url": "https://arxiv.org/abs/2606.06533",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Accelerated Fourier SAT (AFSAT): Fully Realising a GPU-based Symmetric Pseudo-Boolean SAT Solver",
+      "url": "https://arxiv.org/abs/2606.06641",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "A Study of Parallel Continuous Local Search",
+      "url": "https://arxiv.org/abs/2606.06656",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "AEGIS: A Backup Reflex for Physical AI",
+      "url": "https://arxiv.org/abs/2606.06660",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "A Geometric Account of Activation Steering through Angle-Norm Decomposition",
+      "url": "https://arxiv.org/abs/2606.06735",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "OpenSkill: Open-World Self-Evolution for LLM Agents",
+      "url": "https://arxiv.org/abs/2606.06741",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "AdMem: Advanced Memory for Task-solving Agents",
+      "url": "https://arxiv.org/abs/2606.06787",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Evidence-Based Intelligent Diagnostic and Therapeutic Visualization System with Large Language Models: Multi-Turn Interaction and Multimodal Treatment Plan Generation",
+      "url": "https://arxiv.org/abs/2606.06869",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Workflow-to-Skill: Skill Creation via Routing-Workflow-Semantics-Attachments Decomposition",
+      "url": "https://arxiv.org/abs/2606.06893",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Declarative Skills for AI Agents in Knowledge-Grounded Tool-Use Workflows",
+      "url": "https://arxiv.org/abs/2606.06923",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Quantum-Inspired Trace-Augmented Evidence Selection for Reasoning over Structured Hypothesis Spaces",
+      "url": "https://arxiv.org/abs/2606.06941",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Accounting for Context: Shaping Moral Credences for Value Alignment",
+      "url": "https://arxiv.org/abs/2606.06972",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.06976",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    }
+  ]
+}

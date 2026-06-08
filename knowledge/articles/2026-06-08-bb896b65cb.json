@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-08-bb896b65cb",
+  "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06523",
+  "collected_at": "2026-06-08T12:25:44Z",
+  "summary": "Lean4Agent 提出用 Lean4 形式化建模和验证智能体工作流与轨迹，确保正确性。该方法将智能体行为转化为可证明的定理，提升可靠性与安全性。",
+  "analysis": {
+    "tech_highlights": [
+      "使用 Lean4 对智能体工作流进行形式化建模",
+      "将智能体轨迹转化为可验证的定理",
+      "支持工作流正确性的自动证明",
+      "提高智能体系统的可靠性与安全性"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "Lean4",
+    "定理证明",
+    "形式化验证",
+    "智能体工作流"
+  ],
+  "status": "draft"
+}

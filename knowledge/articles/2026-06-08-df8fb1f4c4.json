@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-08-df8fb1f4c4",
+  "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06533",
+  "collected_at": "2026-06-08T12:25:54Z",
+  "summary": "该文主张AI科学应重点研究训练动态，而非仅关注后处理，强调理解训练过程对模型性能的关键影响。",
+  "analysis": {
+    "tech_highlights": [
+      "强调训练过程研究的重要性",
+      "反对仅关注后处理修复",
+      "提出AI科学应系统研究训练动态",
+      "训练动态对模型性能有根本性影响"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI科学",
+    "机器学习",
+    "模型训练",
+    "训练动态"
+  ],
+  "status": "draft"
+}

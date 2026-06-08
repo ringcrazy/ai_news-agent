@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-08-17fffe26ad",
+  "title": "AEGIS: A Backup Reflex for Physical AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06660",
+  "collected_at": "2026-06-08T12:26:01Z",
+  "summary": "AEGIS 为物理AI系统提供一种备份反射机制，在主要控制器失效时自动接管，确保安全与任务连续性，提升系统鲁棒性。",
+  "analysis": {
+    "tech_highlights": [
+      "备份反射机制设计",
+      "物理AI系统鲁棒性增强",
+      "主控制器失效自动接管",
+      "安全与任务连续性保障"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "反射机制",
+    "安全备份",
+    "物理AI",
+    "鲁棒性"
+  ],
+  "status": "draft"
+}

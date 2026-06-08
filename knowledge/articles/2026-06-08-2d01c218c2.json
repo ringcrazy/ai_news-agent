@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-08-2d01c218c2",
+  "title": "Accounting for Context: Shaping Moral Credences for Value Alignment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06972",
+  "collected_at": "2026-06-08T12:26:21Z",
+  "summary": "该论文探讨了在AI价值对齐中如何根据上下文调整道德信念，提出一种动态塑造道德可信度的方法，以提升AI系统在不同情境下的伦理决策一致性。",
+  "analysis": {
+    "tech_highlights": [
+      "提出基于上下文的道德信念动态调整机制",
+      "用于AI价值对齐的伦理决策框架",
+      "增强AI在不同情境下的一致性伦理判断",
+      "结合形式化方法与认知科学理论"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI ethics",
+    "context-aware AI",
+    "moral reasoning",
+    "value alignment"
+  ],
+  "status": "draft"
+}
