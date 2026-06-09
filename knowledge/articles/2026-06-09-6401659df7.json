@@ -1,0 +1,21 @@
+{
+  "id": "2026-06-09-6401659df7",
+  "title": "The AI Epistemic Deference Index: A Continuous Measure of Sycophancy",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07897",
+  "collected_at": "2026-06-09T10:58:13Z",
+  "summary": "```json\n{\n  \"summary\": \"论文提出AI认知顺从指数（AIEDI），作为衡量AI系统谄媚行为的连续指标，旨在量化模型过度迎合用户观点的倾向。\",\n  \"relevance_scor",
+  "analysis": {
+    "tech_highlights": [
+      "```json\n{\n  \"summary\": \"论文提出AI认知顺从指数（AIEDI），作为衡量AI系统谄媚行为的连续指"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "ai",
+    "aiedi",
+    "json",
+    "summary"
+  ],
+  "status": "draft"
+}

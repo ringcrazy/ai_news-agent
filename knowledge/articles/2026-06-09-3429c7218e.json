@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-09-3429c7218e",
+  "title": "affaan-m/ECC",
+  "source": "github_trending",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "collected_at": "2026-06-09T10:56:58Z",
+  "summary": "一个针对Claude Code、Codex等AI编码代理的性能优化系统，集技能、直觉、记忆、安全与研究优先开发于一体。",
+  "analysis": {
+    "tech_highlights": [
+      "支持多种AI编码代理（Claude Code、Codex、Opencode、Cursor）",
+      "集成技能与直觉机制提升代理效率",
+      "内置记忆与安全模块",
+      "研究优先的开发方法论"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI代理",
+    "内存管理",
+    "安全",
+    "性能优化",
+    "编码助手"
+  ],
+  "status": "draft"
+}

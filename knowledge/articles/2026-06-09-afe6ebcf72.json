@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-09-afe6ebcf72",
+  "title": "A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07718",
+  "collected_at": "2026-06-09T10:57:44Z",
+  "summary": "本文通过案例研究，评估AI智能体在神经科学数据到发现流程中的表现，探讨其自动化数据分析与科学发现的潜力。",
+  "analysis": {
+    "tech_highlights": [
+      "AI智能体应用于神经科学数据流程",
+      "自动化数据到科学发现的全流程",
+      "案例研究方法评估AI性能",
+      "探索AI在科研数据分析中的潜力"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI agents",
+    "automation",
+    "data-to-discovery",
+    "evaluation",
+    "neuroscience"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-09-18fcbfef5b",
+  "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07549",
+  "collected_at": "2026-06-09T10:57:37Z",
+  "summary": "PathoSage提出一种经验感知的智能体工作流，用于病理学中多源证据的裁决，通过整合多种信息来源提升诊断准确性。",
+  "analysis": {
+    "tech_highlights": [
+      "经验感知的智能体工作流",
+      "多源证据裁决机制",
+      "病理学诊断自动化",
+      "信息整合与推理"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI诊断",
+    "多源证据",
+    "智能体工作流",
+    "病理学"
+  ],
+  "status": "draft"
+}

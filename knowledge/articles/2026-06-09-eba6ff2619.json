@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-09-eba6ff2619",
+  "title": "Reconstructing and forecasting disease trajectories of patients with Alzheimer's disease using routine data in resource-constrained settings",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07798",
+  "collected_at": "2026-06-09T10:57:55Z",
+  "summary": "该研究提出利用常规数据在资源受限环境下重建和预测阿尔茨海默病患者的疾病轨迹，旨在提升诊断与预后能力。",
+  "analysis": {
+    "tech_highlights": [
+      "利用常规临床数据重建疾病轨迹",
+      "适用于资源受限环境",
+      "预测阿尔茨海默病进展",
+      "结合机器学习方法",
+      "提升诊断与预后准确性"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "Alzheimer's disease",
+    "disease trajectory",
+    "machine learning",
+    "resource-constrained settings",
+    "routine data"
+  ],
+  "status": "draft"
+}

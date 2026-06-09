@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-09-c34f897c39",
+  "title": "Some hypotheses on how chatbots work in problem-solving-driven conversations. Large Language Models as confirmation of the Innovation Illusion",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07722",
+  "collected_at": "2026-06-09T10:57:51Z",
+  "summary": "论文探讨聊天机器人在问题解决对话中的运作假设，提出大语言模型证实了创新幻觉，即看似创新实则依赖模式匹配而非真正理解。",
+  "analysis": {
+    "tech_highlights": [
+      "提出聊天机器人在问题解决对话中的运作假设",
+      "将大语言模型与创新幻觉概念关联",
+      "质疑当前AI系统的真正理解能力",
+      "分析模式匹配与真实创新的区别"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "创新幻觉",
+    "大语言模型",
+    "对话系统",
+    "聊天机器人",
+    "问题解决"
+  ],
+  "status": "draft"
+}

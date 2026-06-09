@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-09-02acf191d4",
+  "title": "EditSR: Enhancing Neural Symbolic Regression via Edit-based Rectification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07915",
+  "collected_at": "2026-06-09T10:58:19Z",
+  "summary": "EditSR提出一种基于编辑修正的神经符号回归增强方法，通过迭代编辑优化符号表达式，提升回归准确性与可解释性。",
+  "analysis": {
+    "tech_highlights": [
+      "引入编辑操作修正符号表达式",
+      "迭代优化提升回归精度",
+      "结合神经网络与符号推理",
+      "增强模型可解释性"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "可解释AI",
+    "神经符号学习",
+    "符号回归",
+    "编辑修正"
+  ],
+  "status": "draft"
+}

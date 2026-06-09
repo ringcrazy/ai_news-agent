@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-09-057fd2f2b2",
+  "title": "Scaling Participation in Modular AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07812",
+  "collected_at": "2026-06-09T10:58:03Z",
+  "summary": "本文探讨如何扩大参与度以构建模块化AI系统，提出通过开放接口和激励机制促进多方协作，提升系统灵活性与可扩展性。",
+  "analysis": {
+    "tech_highlights": [
+      "模块化AI架构设计",
+      "开放接口促进多方协作",
+      "激励机制提升参与度",
+      "系统灵活性与可扩展性增强"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "collaboration",
+    "modular AI",
+    "open interfaces",
+    "participation",
+    "scalability"
+  ],
+  "status": "draft"
+}

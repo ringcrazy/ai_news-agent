@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-09-c3c323896d",
+  "title": "Safety is Contextual, LLM-Judges Are Not: Navigating the Rigid Priors of Evaluators",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07874",
+  "collected_at": "2026-06-09T10:58:10Z",
+  "summary": "论文指出LLM评估器存在刚性先验，无法适应安全性的上下文依赖性，提出通过调整评估策略提升其适应性。",
+  "analysis": {
+    "tech_highlights": [
+      "揭示LLM评估器对安全上下文的刚性先验问题",
+      "提出评估策略调整以增强适应性",
+      "分析安全性的上下文依赖特性",
+      "为AI评估系统设计提供新视角"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI安全",
+    "LLM",
+    "上下文依赖",
+    "先验偏差",
+    "评估器"
+  ],
+  "status": "draft"
+}

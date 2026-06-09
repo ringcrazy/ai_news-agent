@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-09-10ba719313",
+  "title": "anthropics/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/anthropics/skills",
+  "collected_at": "2026-06-09T10:57:17Z",
+  "summary": "Anthropics 的 GitHub 仓库，提供用于构建和评估 AI 代理技能的公开资源，助力开发者提升代理能力。",
+  "analysis": {
+    "tech_highlights": [
+      "提供标准化的代理技能定义与测试框架",
+      "支持多种编程语言与任务场景",
+      "集成自动化评估流水线",
+      "促进社区贡献与技能共享",
+      "基于 Anthropic 安全研究实践"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI代理",
+    "Anthropic",
+    "GitHub",
+    "开源工具",
+    "技能评估"
+  ],
+  "status": "draft"
+}
