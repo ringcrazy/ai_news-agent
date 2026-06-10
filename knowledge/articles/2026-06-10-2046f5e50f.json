@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-10-2046f5e50f",
+  "title": "obra/superpowers",
+  "source": "github_trending",
+  "source_url": "https://github.com/obra/superpowers",
+  "collected_at": "2026-06-10T11:35:43Z",
+  "summary": "一个代理技能框架与软件开发方法论，强调实际可操作性，旨在提升开发效率与协作能力。",
+  "analysis": {
+    "tech_highlights": [
+      "Agentic skills framework",
+      "Software development methodology",
+      "Practical and actionable design",
+      "Open-source implementation"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI Agent",
+    "技能框架",
+    "软件开发方法论"
+  ],
+  "status": "draft"
+}

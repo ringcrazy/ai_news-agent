@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-10-c65ae0fb4f",
+  "title": "Minimalist Genetic Programming",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10237",
+  "collected_at": "2026-06-10T11:36:46Z",
+  "summary": "该论文提出极简遗传编程，通过简化算法结构减少计算复杂度，在保持性能的同时提升可解释性与效率，为符号回归等任务提供新思路。",
+  "analysis": {
+    "tech_highlights": [
+      "极简算法设计减少冗余操作",
+      "保持与传统遗传编程相当的搜索能力",
+      "提升模型可解释性",
+      "降低计算资源需求",
+      "适用于符号回归等典型任务"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "极简主义",
+    "符号回归",
+    "算法简化",
+    "遗传编程"
+  ],
+  "status": "draft"
+}

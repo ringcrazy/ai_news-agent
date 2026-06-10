@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-10-bf4d26c8ed",
+  "title": "Regimes: An Auditable, Held-Out-Gated Improvement Loop Demonstrated on LongMemEval with ActiveGraph",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10241",
+  "collected_at": "2026-06-10T11:36:49Z",
+  "summary": "提出一种可审计的、基于保留门控的改进循环框架Regimes，在LongMemEval上结合ActiveGraph验证其提升长文本记忆能力。",
+  "analysis": {
+    "tech_highlights": [
+      "可审计的改进循环架构",
+      "保留门控机制防止过拟合",
+      "在LongMemEval基准上验证有效性",
+      "结合ActiveGraph实现动态记忆更新",
+      "提升长文本理解与推理能力"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "ActiveGraph",
+    "LongMemEval",
+    "可审计AI",
+    "长文本记忆",
+    "门控机制"
+  ],
+  "status": "draft"
+}

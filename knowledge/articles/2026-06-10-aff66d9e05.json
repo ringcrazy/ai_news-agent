@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-10-aff66d9e05",
+  "title": "Beyond Static Evaluation: Co-Evolutionary Mechanisms for LLM-Driven Strategy Evolution in Adversarial Games",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10389",
+  "collected_at": "2026-06-10T11:37:16Z",
+  "summary": "本文提出一种基于协同进化机制的LLM策略进化方法，用于对抗性游戏中的动态评估，超越静态评估局限，提升策略适应性与鲁棒性。",
+  "analysis": {
+    "tech_highlights": [
+      "提出协同进化机制替代静态评估",
+      "LLM驱动策略在对抗游戏中自适应进化",
+      "提升策略鲁棒性与长期适应性"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "LLM",
+    "动态评估",
+    "协同进化",
+    "对抗性游戏",
+    "策略进化"
+  ],
+  "status": "draft"
+}

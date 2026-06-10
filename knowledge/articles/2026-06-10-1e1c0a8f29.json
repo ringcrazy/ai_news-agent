@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-10-1e1c0a8f29",
+  "title": "Business World Model",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10044",
+  "collected_at": "2026-06-10T11:36:29Z",
+  "summary": "```json\n{\n  \"summary\": \"该论文提出了一个名为“商业世界模型”的框架，旨在通过AI模拟商业环境中的复杂动态，以辅助决策和战略规划。\",\n  \"relevance_score\":",
+  "analysis": {
+    "tech_highlights": [
+      "```json\n{\n  \"summary\": \"该论文提出了一个名为“商业世界模型”的框架，旨在通过AI模拟商业环境中的"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "7",
+    "ai",
+    "json",
+    "relevance_score",
+    "summary"
+  ],
+  "status": "draft"
+}

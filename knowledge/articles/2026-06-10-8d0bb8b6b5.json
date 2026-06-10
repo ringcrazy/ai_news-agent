@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-10-8d0bb8b6b5",
+  "title": "Instruction Finetuning DeepSeek-R1-8B Model Using LoRA and NEFTune",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10392",
+  "collected_at": "2026-06-10T11:37:19Z",
+  "summary": "该论文研究使用LoRA和NEFTune技术对DeepSeek-R1-8B模型进行指令微调，旨在提升模型在特定任务上的性能与泛化能力。",
+  "analysis": {
+    "tech_highlights": [
+      "LoRA低秩适配方法实现高效微调",
+      "NEFTune噪声嵌入技术增强泛化",
+      "基于DeepSeek-R1-8B模型的指令微调实验",
+      "探索参数高效微调与数据增强的结合"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "DeepSeek",
+    "LoRA",
+    "NEFTune",
+    "大语言模型",
+    "指令微调"
+  ],
+  "status": "draft"
+}

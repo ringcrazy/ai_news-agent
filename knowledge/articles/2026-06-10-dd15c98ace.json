@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-10-dd15c98ace",
+  "title": "ReflectiChain: Epistemic Grounding in LLM-Driven World Models for Supply Chain Resilience",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10359",
+  "collected_at": "2026-06-10T11:37:11Z",
+  "summary": "ReflectiChain提出基于认知基础的LLM世界模型，通过反思机制增强供应链韧性，应对不确定性。",
+  "analysis": {
+    "tech_highlights": [
+      "认知基础（Epistemic Grounding）方法",
+      "LLM驱动的世界模型构建",
+      "反思机制（Reflection）增强决策鲁棒性",
+      "面向供应链韧性的应用场景"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "LLM",
+    "世界模型",
+    "供应链韧性",
+    "反思机制",
+    "认知基础"
+  ],
+  "status": "draft"
+}

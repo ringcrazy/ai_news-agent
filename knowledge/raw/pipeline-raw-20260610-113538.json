@@ -1,0 +1,289 @@
+{
+  "collected_at": "2026-06-10T11:35:37.442312+00:00",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "items": [
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "github_trending",
+      "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "popularity": 377916
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "github_trending",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "popularity": 223039
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "github_trending",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "popularity": 212305
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "source": "github_trending",
+      "summary": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "popularity": 193566
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "github_trending",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "popularity": 191888
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "github_trending",
+      "summary": "The agent that grows with you",
+      "popularity": 189439
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "github_trending",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "popularity": 184871
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "github_trending",
+      "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "popularity": 172523
+    },
+    {
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "source": "github_trending",
+      "summary": "The open source coding agent.",
+      "popularity": 172449
+    },
+    {
+      "title": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "source": "github_trending",
+      "summary": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "popularity": 156275
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "source": "github_trending",
+      "summary": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "popularity": 149489
+    },
+    {
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "source": "github_trending",
+      "summary": "Public repository for Agent Skills",
+      "popularity": 148822
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "source": "github_trending",
+      "summary": "Production-ready platform for agentic workflow development.",
+      "popularity": 144692
+    },
+    {
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "github_trending",
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "popularity": 140929
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "source": "github_trending",
+      "summary": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "popularity": 139376
+    },
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "source": "github_trending",
+      "summary": "The agent engineering platform.",
+      "popularity": 138954
+    },
+    {
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "github_trending",
+      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "popularity": 131471
+    },
+    {
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "source": "github_trending",
+      "summary": "LLM inference in C/C++",
+      "popularity": 115889
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "github_trending",
+      "summary": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "popularity": 114134
+    },
+    {
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "source": "github_trending",
+      "summary": "21 Lessons, Get Started Building with Generative AI",
+      "popularity": 111819
+    },
+    {
+      "title": "Business World Model",
+      "url": "https://arxiv.org/abs/2606.10044",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Deployment-Time Memorization in Foundation-Model Agents",
+      "url": "https://arxiv.org/abs/2606.10062",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization",
+      "url": "https://arxiv.org/abs/2606.10086",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Predictive Assistance and the Temporal Dynamics of Exploratory Compression",
+      "url": "https://arxiv.org/abs/2606.10094",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2606.10147",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2606.10209",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Minimalist Genetic Programming",
+      "url": "https://arxiv.org/abs/2606.10237",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Regimes: An Auditable, Held-Out-Gated Improvement Loop Demonstrated on LongMemEval with ActiveGraph",
+      "url": "https://arxiv.org/abs/2606.10241",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "RealMath-Eval: Why SOTA Judges Struggle with Real Human Reasoning",
+      "url": "https://arxiv.org/abs/2606.10254",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Supervised Fine-tuning with Synthetic Rationale Data Hurts Real-World Disease Prediction",
+      "url": "https://arxiv.org/abs/2606.10279",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling",
+      "url": "https://arxiv.org/abs/2606.10286",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "From Context-Aware to Conflict-Aware: Generalizing Contrastive Decoding for Knowledge Conflict in LLMs",
+      "url": "https://arxiv.org/abs/2606.10298",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "What Spatial Memory Must Store: Occlusion as the Test for Language-Agent Memory",
+      "url": "https://arxiv.org/abs/2606.10299",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Mobility Anomaly Generation using LLM-Driven Behavior with Kinematic Constraints",
+      "url": "https://arxiv.org/abs/2606.10314",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Self-Distillation Policy Optimization via Visual Feedback: Bridging Code and Visual Artifacts",
+      "url": "https://arxiv.org/abs/2606.10334",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Reasoning or Memorization? Direction-Aware Diversity Exploration in LLM Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.10346",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "ReflectiChain: Epistemic Grounding in LLM-Driven World Models for Supply Chain Resilience",
+      "url": "https://arxiv.org/abs/2606.10359",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Belief-Space Control for Personalized Cancer Treatment via Active Inference",
+      "url": "https://arxiv.org/abs/2606.10376",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Beyond Static Evaluation: Co-Evolutionary Mechanisms for LLM-Driven Strategy Evolution in Adversarial Games",
+      "url": "https://arxiv.org/abs/2606.10389",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Instruction Finetuning DeepSeek-R1-8B Model Using LoRA and NEFTune",
+      "url": "https://arxiv.org/abs/2606.10392",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    }
+  ]
+}

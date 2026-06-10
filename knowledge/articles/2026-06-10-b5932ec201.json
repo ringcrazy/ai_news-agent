@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-10-b5932ec201",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github_trending",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "collected_at": "2026-06-10T11:36:14Z",
+  "summary": "收集了多种AI工具的系统提示词、内部工具及模型，包括Claude、Cursor、Devin等知名平台的开源资源。",
+  "analysis": {
+    "tech_highlights": [
+      "覆盖25+主流AI工具的系统提示词",
+      "包含内部工具与模型的开源资源",
+      "涉及代码助手、开发平台及AI应用"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI工具",
+    "GitHub",
+    "开源",
+    "模型集合",
+    "系统提示词"
+  ],
+  "status": "draft"
+}

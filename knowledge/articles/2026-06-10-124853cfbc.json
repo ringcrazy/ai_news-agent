@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-10-124853cfbc",
+  "title": "Reasoning or Memorization? Direction-Aware Diversity Exploration in LLM Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10346",
+  "collected_at": "2026-06-10T11:37:09Z",
+  "summary": "论文探讨大语言模型强化学习中的推理与记忆问题，提出方向感知多样性探索方法，以提升模型泛化能力。",
+  "analysis": {
+    "tech_highlights": [
+      "方向感知多样性探索策略",
+      "区分推理与记忆的机制",
+      "提升强化学习泛化能力",
+      "针对LLM的探索方法优化"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "LLM",
+    "多样性探索",
+    "强化学习",
+    "推理",
+    "记忆"
+  ],
+  "status": "draft"
+}

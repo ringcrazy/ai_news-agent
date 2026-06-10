@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-10-b409dc7b84",
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "source": "github_trending",
+  "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "collected_at": "2026-06-10T11:36:24Z",
+  "summary": "```json\n{\n  \"summary\": \"GitHub上星标11.4万的仓库，提供100多个可实际运行的AI Agent与RAG应用，支持克隆、定制和快速部署。\",\n  \"relevance_s",
+  "analysis": {
+    "tech_highlights": [
+      "```json\n{\n  \"summary\": \"GitHub上星标11.4万的仓库，提供100多个可实际运行的AI Ag"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "11",
+    "4",
+    "github",
+    "json",
+    "summary"
+  ],
+  "status": "draft"
+}
