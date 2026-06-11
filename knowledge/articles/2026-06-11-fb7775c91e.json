@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-11-fb7775c91e",
+  "title": "Search Discipline for Long-Horizon Research Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11522",
+  "collected_at": "2026-06-11T12:08:24Z",
+  "summary": "本文提出一种搜索纪律方法，用于增强长时域研究智能体的信息检索能力，通过结构化搜索策略提升深度研究任务的效率与准确性。",
+  "analysis": {
+    "tech_highlights": [
+      "提出搜索纪律概念，约束智能体搜索行为",
+      "针对长时域研究任务设计结构化搜索流程",
+      "提升深度研究中的信息召回与相关性",
+      "结合强化学习优化搜索策略"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI",
+    "信息检索",
+    "搜索策略",
+    "研究智能体",
+    "长时域"
+  ],
+  "status": "draft"
+}

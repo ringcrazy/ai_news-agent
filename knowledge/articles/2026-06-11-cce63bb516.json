@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-11-cce63bb516",
+  "title": "Toward Trustworthy AI: Multi-Target Adversarial Attacks and Robust Defenses for Continuous Data Summarization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11804",
+  "collected_at": "2026-06-11T12:08:53Z",
+  "summary": "该论文针对连续数据摘要任务提出多目标对抗攻击与鲁棒防御方法，旨在提升AI系统的可信赖性，平衡攻击效果与防御强度。",
+  "analysis": {
+    "tech_highlights": [
+      "多目标对抗攻击方法",
+      "针对连续数据摘要的鲁棒防御",
+      "平衡攻击效果与防御强度",
+      "提升AI系统可信赖性"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "可信AI",
+    "对抗攻击",
+    "数据摘要",
+    "连续数据",
+    "鲁棒防御"
+  ],
+  "status": "draft"
+}

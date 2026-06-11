@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-11-27188629b9",
+  "title": "Mind the Perspective: Let's Reason Recursively for Theory of Mind",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11724",
+  "collected_at": "2026-06-11T12:08:46Z",
+  "summary": "提出递归推理方法增强AI的心智理论能力，通过多视角迭代提升社会认知与交互智能。",
+  "analysis": {
+    "tech_highlights": [
+      "递归推理框架模拟多层级视角",
+      "提升AI对他人意图的建模能力",
+      "适用于人机协作与社交机器人场景"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI推理",
+    "Theory of Mind",
+    "社会认知",
+    "递归推理"
+  ],
+  "status": "draft"
+}

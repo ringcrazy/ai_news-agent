@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-11-f7097b410c",
+  "title": "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11680",
+  "collected_at": "2026-06-11T12:08:44Z",
+  "summary": "提出分层记忆导航框架，通过先组织后检索策略提升AI智能体在长任务中的效率与准确性。",
+  "analysis": {
+    "tech_highlights": [
+      "分层记忆导航机制",
+      "先组织后检索策略",
+      "长任务处理优化",
+      "智能体效率提升"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "任务效率",
+    "分层记忆",
+    "智能体",
+    "检索增强"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-11-2dbfdf3b08",
+  "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11245",
+  "collected_at": "2026-06-11T12:08:09Z",
+  "summary": "论文提出海马体显式记忆是AGI的基石，强调从神经科学角度构建AI记忆系统，以增强推理与泛化能力。",
+  "analysis": {
+    "tech_highlights": [
+      "将海马体显式记忆机制引入AGI架构",
+      "基于神经科学的记忆建模方法",
+      "提升AI系统的长期推理与泛化能力",
+      "跨学科融合脑科学与人工智能"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AGI",
+    "AI Memory",
+    "Explicit Memory",
+    "Hippocampus",
+    "Neuroscience"
+  ],
+  "status": "draft"
+}

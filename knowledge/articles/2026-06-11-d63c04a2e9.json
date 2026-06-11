@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-11-d63c04a2e9",
+  "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11440",
+  "collected_at": "2026-06-11T12:08:19Z",
+  "summary": "提出INFRAMIND框架，通过基础设施感知实现多智能体系统的高效编排，优化资源分配与任务调度，提升分布式AI系统的性能与可扩展性。",
+  "analysis": {
+    "tech_highlights": [
+      "基础设施感知的多智能体编排机制",
+      "动态资源分配与任务调度优化",
+      "提升分布式AI系统可扩展性",
+      "降低通信与计算开销",
+      "支持异构基础设施环境"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "任务编排",
+    "分布式AI",
+    "基础设施感知",
+    "多智能体系统",
+    "资源优化"
+  ],
+  "status": "draft"
+}

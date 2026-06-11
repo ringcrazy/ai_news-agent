@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-11-0c362a2f08",
+  "title": "When Do Data-Driven Systems Exhibit the Capability to Infer?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11769",
+  "collected_at": "2026-06-11T12:08:48Z",
+  "summary": "该论文探讨了数据驱动系统何时具备推理能力，分析了模型规模、数据量与推理表现的关系，揭示了涌现推理能力的条件。",
+  "analysis": {
+    "tech_highlights": [
+      "分析数据规模与推理能力的涌现关系",
+      "探讨模型参数对推理表现的影响",
+      "提出推理能力评估的量化指标"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI",
+    "大模型",
+    "推理能力",
+    "数据驱动",
+    "涌现"
+  ],
+  "status": "draft"
+}

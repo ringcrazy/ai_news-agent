@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-11-524c05f988",
+  "title": "MoCA-Agent: A Market-of-Claims Code Agent for Financial and Numerical Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11537",
+  "collected_at": "2026-06-11T12:08:27Z",
+  "summary": "MoCA-Agent提出市场主张机制，通过多智能体协作提升金融与数值推理任务的代码生成准确性，在多个基准上取得领先效果。",
+  "analysis": {
+    "tech_highlights": [
+      "Market-of-Claims机制实现多智能体竞争与协作",
+      "面向金融与数值推理的代码生成优化",
+      "在多个金融推理基准上达到SOTA性能",
+      "动态主张评估与代码验证流程"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "MoCA-Agent",
+    "代码智能体",
+    "多智能体系统",
+    "数值推理",
+    "金融推理"
+  ],
+  "status": "draft"
+}

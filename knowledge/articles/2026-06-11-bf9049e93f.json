@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-11-bf9049e93f",
+  "title": "SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11770",
+  "collected_at": "2026-06-11T12:08:51Z",
+  "summary": "提出SVoT方法，通过强化学习在空间推理中生成状态感知的可视化思维链，提升模型对空间关系的理解和推理能力。",
+  "analysis": {
+    "tech_highlights": [
+      "将强化学习应用于可视化思维链生成",
+      "状态感知机制增强空间关系建模",
+      "在空间推理任务上取得显著性能提升"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "SVoT",
+    "可视化思维链",
+    "强化学习",
+    "状态感知",
+    "空间推理"
+  ],
+  "status": "draft"
+}

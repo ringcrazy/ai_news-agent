@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-11-06d772a5b5",
+  "title": "Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11349",
+  "collected_at": "2026-06-11T12:08:14Z",
+  "summary": "提出自门控澄清机制，让分层语言智能体在不确定时主动提问，减少错误执行，提升任务完成效率。",
+  "analysis": {
+    "tech_highlights": [
+      "自门控机制动态决定何时提问",
+      "分层架构减少不必要的澄清",
+      "实验证明可降低错误率并提高成功率"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "主动澄清",
+    "任务执行",
+    "分层智能体",
+    "自门控",
+    "语言智能体"
+  ],
+  "status": "draft"
+}

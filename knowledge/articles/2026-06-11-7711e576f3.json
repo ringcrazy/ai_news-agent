@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-11-7711e576f3",
+  "title": "TouchThinker: Scaling Tactile Commonsense Reasoning to the Open World with Large-scale Data and Action-aware Representation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11637",
+  "collected_at": "2026-06-11T12:08:37Z",
+  "summary": "TouchThinker提出大规模触觉常识推理方法，通过大规模数据和动作感知表示，将触觉推理扩展到开放世界场景。",
+  "analysis": {
+    "tech_highlights": [
+      "大规模触觉数据收集与利用",
+      "动作感知表示学习",
+      "开放世界触觉常识推理",
+      "跨模态触觉与动作融合"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "动作感知表示",
+    "大规模数据",
+    "常识推理",
+    "开放世界",
+    "触觉推理"
+  ],
+  "status": "draft"
+}
