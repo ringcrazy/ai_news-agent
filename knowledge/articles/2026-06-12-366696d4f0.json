@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-12-366696d4f0",
+  "title": "Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12742",
+  "collected_at": "2026-06-12T11:42:23Z",
+  "summary": "该论文提出了一种降低深度学习模型复杂度的方法，用于在可穿戴设备上高效分析脑电图信号，旨在平衡模型性能与计算资源限制。",
+  "analysis": {
+    "tech_highlights": [
+      "针对可穿戴设备的低复杂度深度学习模型设计",
+      "EEG信号分析的实时处理优化",
+      "模型压缩技术减少计算资源消耗",
+      "在边缘设备上实现高效脑电分析"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "EEG分析",
+    "可穿戴设备",
+    "模型压缩",
+    "深度学习",
+    "边缘计算"
+  ],
+  "status": "draft"
+}

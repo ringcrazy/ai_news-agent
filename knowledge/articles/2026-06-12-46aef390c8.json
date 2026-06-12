@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-12-46aef390c8",
+  "title": "Prefill Awareness in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12747",
+  "collected_at": "2026-06-12T11:42:25Z",
+  "summary": "本文提出预填充感知机制，使大语言模型在生成时意识到已预填充的上下文，从而提升推理一致性与效率。",
+  "analysis": {
+    "tech_highlights": [
+      "提出预填充感知机制，增强模型对已生成内容的意识",
+      "提升长文本生成中的推理一致性",
+      "减少重复生成和逻辑矛盾",
+      "优化推理阶段的计算效率"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "上下文感知",
+    "大语言模型",
+    "推理效率",
+    "预填充"
+  ],
+  "status": "draft"
+}

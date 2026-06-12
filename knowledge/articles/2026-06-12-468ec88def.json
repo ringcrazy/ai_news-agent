@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-12-468ec88def",
+  "title": "The Theory of Mind Utility: Formal Specification of a Mentalizing Mechanism",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12721",
+  "collected_at": "2026-06-12T11:42:17Z",
+  "summary": "该论文提出了心智理论效用的形式化规范，定义了一种心理化机制，旨在提升AI对他人信念和意图的建模能力。",
+  "analysis": {
+    "tech_highlights": [
+      "形式化定义心智理论效用函数",
+      "建立心理化机制的数学规范",
+      "增强AI社会认知与交互能力",
+      "支持多智能体系统中的信念建模"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI",
+    "Mentalizing",
+    "Theory of Mind",
+    "形式化规范"
+  ],
+  "status": "draft"
+}

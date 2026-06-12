@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-12-4aaf5abe48",
+  "title": "A Tutorial on World Models and Physical AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12783",
+  "collected_at": "2026-06-12T11:42:29Z",
+  "summary": "该教程介绍世界模型与物理AI的核心概念，涵盖模型构建、环境交互及在机器人等领域的应用，适合初学者入门。",
+  "analysis": {
+    "tech_highlights": [
+      "世界模型通过预测环境状态支持智能决策",
+      "物理AI强调在真实物理世界中的感知与行动",
+      "教程提供了从理论到实践的完整学习路径",
+      "涵盖机器人、自动驾驶等典型应用场景"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "Physical AI",
+    "Tutorial",
+    "World Models",
+    "arXiv"
+  ],
+  "status": "draft"
+}

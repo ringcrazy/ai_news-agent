@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-12-d19538bf2b",
+  "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12594",
+  "collected_at": "2026-06-12T11:42:00Z",
+  "summary": "提出Pythagoras-Prover，通过增强Lean形式化方法提升自动定理证明效率，在数学推理任务中取得显著进展。",
+  "analysis": {
+    "tech_highlights": [
+      "增强Lean形式化框架",
+      "高效自动证明生成",
+      "数学推理任务验证",
+      "形式化与神经网络结合"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI",
+    "Lean",
+    "形式化证明",
+    "数学推理",
+    "自动定理证明"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-12-54d12b5331",
+  "title": "From AGI to ASI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12683",
+  "collected_at": "2026-06-12T11:42:11Z",
+  "summary": "本文探讨从通用人工智能（AGI）向超级人工智能（ASI）的演进路径，分析技术挑战与潜在风险。",
+  "analysis": {
+    "tech_highlights": [
+      "AGI到ASI的过渡框架",
+      "超级智能的潜在风险分析",
+      "技术挑战与路径探讨"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AGI",
+    "ASI",
+    "人工智能",
+    "技术演进"
+  ],
+  "status": "draft"
+}

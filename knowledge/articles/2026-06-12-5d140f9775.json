@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-12-5d140f9775",
+  "title": "Strategic Decision Support for AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12587",
+  "collected_at": "2026-06-12T11:41:58Z",
+  "summary": "本文提出一种为AI智能体提供战略决策支持的方法，旨在提升其在复杂环境中的自主决策能力与效率。",
+  "analysis": {
+    "tech_highlights": [
+      "提出战略决策支持框架",
+      "增强AI智能体在复杂环境中的自主性",
+      "结合强化学习优化决策流程",
+      "支持多步骤战略规划",
+      "提升决策效率与鲁棒性"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI Agents",
+    "决策支持",
+    "强化学习",
+    "战略规划",
+    "自主决策"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,289 @@
+{
+  "collected_at": "2026-06-12T11:41:11.601135+00:00",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "items": [
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "github_trending",
+      "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "popularity": 378321
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "github_trending",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "popularity": 225563
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "github_trending",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "popularity": 213928
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "source": "github_trending",
+      "summary": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "popularity": 193663
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "github_trending",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "popularity": 192154
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "github_trending",
+      "summary": "The agent that grows with you",
+      "popularity": 191548
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "github_trending",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "popularity": 184903
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "github_trending",
+      "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "popularity": 173918
+    },
+    {
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "source": "github_trending",
+      "summary": "The open source coding agent.",
+      "popularity": 173532
+    },
+    {
+      "title": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "source": "github_trending",
+      "summary": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "popularity": 156333
+    },
+    {
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "source": "github_trending",
+      "summary": "Public repository for Agent Skills",
+      "popularity": 149779
+    },
+    {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "source": "github_trending",
+      "summary": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "popularity": 149583
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "source": "github_trending",
+      "summary": "Production-ready platform for agentic workflow development.",
+      "popularity": 144952
+    },
+    {
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "github_trending",
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "popularity": 141190
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "source": "github_trending",
+      "summary": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "popularity": 140066
+    },
+    {
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "source": "github_trending",
+      "summary": "The agent engineering platform.",
+      "popularity": 139110
+    },
+    {
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "github_trending",
+      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "popularity": 131970
+    },
+    {
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "source": "github_trending",
+      "summary": "LLM inference in C/C++",
+      "popularity": 116183
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "github_trending",
+      "summary": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "popularity": 114332
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "github_trending",
+      "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "popularity": 111990
+    },
+    {
+      "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+      "url": "https://arxiv.org/abs/2606.12451",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
+      "url": "https://arxiv.org/abs/2606.12563",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Strategic Decision Support for AI Agents",
+      "url": "https://arxiv.org/abs/2606.12587",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
+      "url": "https://arxiv.org/abs/2606.12594",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
+      "url": "https://arxiv.org/abs/2606.12616",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "\"Did you lie?\" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms",
+      "url": "https://arxiv.org/abs/2606.12618",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
+      "url": "https://arxiv.org/abs/2606.12657",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+      "url": "https://arxiv.org/abs/2606.12674",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "From AGI to ASI",
+      "url": "https://arxiv.org/abs/2606.12683",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System",
+      "url": "https://arxiv.org/abs/2606.12702",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Definitional alignment before capability alignment: a Design-Science framework for adjudicating claims about AGI",
+      "url": "https://arxiv.org/abs/2606.12713",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "The Theory of Mind Utility: Formal Specification of a Mentalizing Mechanism",
+      "url": "https://arxiv.org/abs/2606.12721",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+      "url": "https://arxiv.org/abs/2606.12730",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
+      "url": "https://arxiv.org/abs/2606.12736",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices",
+      "url": "https://arxiv.org/abs/2606.12742",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Prefill Awareness in Large Language Models",
+      "url": "https://arxiv.org/abs/2606.12747",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage",
+      "url": "https://arxiv.org/abs/2606.12767",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "A Tutorial on World Models and Physical AI",
+      "url": "https://arxiv.org/abs/2606.12783",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements",
+      "url": "https://arxiv.org/abs/2606.12797",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    },
+    {
+      "title": "MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs",
+      "url": "https://arxiv.org/abs/2606.12809",
+      "source": "rss:arXiv cs.AI",
+      "summary": "",
+      "popularity": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-12-9f7978a1df",
+  "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12674",
+  "collected_at": "2026-06-12T11:42:09Z",
+  "summary": "Evoflux提出在推理时通过进化算法优化可执行工具工作流，构建紧凑型AI代理，提升任务执行效率与适应性。",
+  "analysis": {
+    "tech_highlights": [
+      "推理时动态进化工具工作流",
+      "紧凑型代理架构设计",
+      "进化算法应用于工作流优化",
+      "提升代理任务执行效率与适应性"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI代理",
+    "工具工作流",
+    "推理时优化",
+    "紧凑代理",
+    "进化算法"
+  ],
+  "status": "draft"
+}

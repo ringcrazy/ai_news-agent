@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-12-b8f9d4ee63",
+  "title": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12657",
+  "collected_at": "2026-06-12T11:42:07Z",
+  "summary": "提出TrajGenAgent，一种分层LLM智能体，用于生成逼真的人类移动轨迹，结合大语言模型与层次化决策框架。",
+  "analysis": {
+    "tech_highlights": [
+      "利用大语言模型作为核心推理引擎",
+      "分层决策框架模拟人类移动行为",
+      "生成高保真度的时空轨迹数据",
+      "可应用于城市计算与交通模拟"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "Hierarchical Model",
+    "Human Mobility",
+    "LLM Agent",
+    "Trajectory Generation"
+  ],
+  "status": "draft"
+}

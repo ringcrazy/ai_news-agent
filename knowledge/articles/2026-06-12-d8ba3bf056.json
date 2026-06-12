@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-12-d8ba3bf056",
+  "title": "MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12809",
+  "collected_at": "2026-06-12T11:42:33Z",
+  "summary": "```json\n{\n  \"summary\": \"MLUBench是一个针对多模态大模型终身遗忘学习的基准测试，旨在评估模型在持续数据流中有效遗忘特定知识的能力，同时保持其他性能。\",\n  \"relev",
+  "analysis": {
+    "tech_highlights": [
+      "```json\n{\n  \"summary\": \"MLUBench是一个针对多模态大模型终身遗忘学习的基准测试，旨在评估模"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "8",
+    "json",
+    "mlubench",
+    "relevance_score",
+    "summary"
+  ],
+  "status": "draft"
+}

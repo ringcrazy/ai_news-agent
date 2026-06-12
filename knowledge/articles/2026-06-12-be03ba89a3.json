@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-12-be03ba89a3",
+  "title": "The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12797",
+  "collected_at": "2026-06-12T11:42:31Z",
+  "summary": "本文分析部署的自主AI框架在面向公众时如何未能满足安全要求，指出存在“遏制缺口”，即现有安全措施不足以防范风险。",
+  "analysis": {
+    "tech_highlights": [
+      "识别自主AI框架在公众交互中的安全漏洞",
+      "提出“遏制缺口”概念",
+      "评估现有安全措施的不足",
+      "强调面向公众场景的独特风险"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI安全",
+    "安全框架",
+    "自主代理",
+    "部署风险"
+  ],
+  "status": "draft"
+}

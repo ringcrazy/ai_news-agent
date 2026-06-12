@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-12-fd19284831",
+  "title": "Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12767",
+  "collected_at": "2026-06-12T11:42:27Z",
+  "summary": "该论文探讨了为程序推理构建评估数据集的方法，重点平衡自然性、基础性和多跳覆盖，以提升AI在复杂任务中的推理能力。",
+  "analysis": {
+    "tech_highlights": [
+      "提出平衡自然性与基础性的数据集构建方法",
+      "引入多跳覆盖策略增强推理深度",
+      "针对程序推理任务优化评估指标",
+      "结合真实场景数据提升泛化能力"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "多跳推理",
+    "程序推理",
+    "自然语言处理",
+    "评估数据集"
+  ],
+  "status": "draft"
+}

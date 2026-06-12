@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-12-3d8e2248ff",
+  "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12730",
+  "collected_at": "2026-06-12T11:42:19Z",
+  "summary": "研究重新思考LLM的心理测量评估，探讨自我报告何时及为何能预测模型行为，为AI人格与行为一致性提供方法论指导。",
+  "analysis": {
+    "tech_highlights": [
+      "重新审视LLM自我报告的有效性条件",
+      "分析心理测量方法在AI中的适用性",
+      "提出行为预测与自我报告一致性框架",
+      "揭示LLM人格评估的潜在偏差",
+      "为AI心理测量标准化提供理论依据"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "AI评估",
+    "LLM",
+    "心理测量",
+    "自我报告",
+    "行为预测"
+  ],
+  "status": "draft"
+}

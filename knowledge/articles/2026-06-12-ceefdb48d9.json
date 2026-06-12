@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-12-ceefdb48d9",
+  "title": "\"Did you lie?\" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12618",
+  "collected_at": "2026-06-12T11:42:04Z",
+  "summary": "```json\n{\n  \"summary\": \"该研究评估了不同规模的语言模型在说谎检测任务上的表现，并引入了一种基于信念验证的模型生物方法，以系统性地分析模型的可信度与欺骗行为。\",\n  \"rele",
+  "analysis": {
+    "tech_highlights": [
+      "```json\n{\n  \"summary\": \"该研究评估了不同规模的语言模型在说谎检测任务上的表现，并引入了一种基于信"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "8",
+    "json",
+    "relevance_score",
+    "summary",
+    "tags"
+  ],
+  "status": "draft"
+}
