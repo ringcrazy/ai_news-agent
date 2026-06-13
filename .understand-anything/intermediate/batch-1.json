@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "id": "pipeline:.github/workflows/daily-collect.yml",
+      "type": "pipeline",
+      "name": "daily-collect.yml",
+      "filePath": ".github/workflows/daily-collect.yml",
+      "summary": "GitHub Actions 定时触发采集流水线。",
+      "tags": [
+        "code"
+      ],
+      "complexity": "simple"
+    }
+  ],
+  "edges": []
+}

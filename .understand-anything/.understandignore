@@ -1,0 +1,3 @@
+# Scoped analysis: focus on pipeline/code, exclude bulk knowledge JSON
+knowledge/articles/
+knowledge/raw/

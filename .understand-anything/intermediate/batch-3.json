@@ -1,0 +1,51 @@
+{
+  "nodes": [
+    {
+      "id": "document:AGENTS.md",
+      "type": "document",
+      "name": "AGENTS.md",
+      "filePath": "AGENTS.md",
+      "summary": "项目规范：技术栈、目录结构、知识 JSON 格式与 Agent 角色。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "config:opencode.json",
+      "type": "config",
+      "name": "opencode.json",
+      "filePath": "opencode.json",
+      "summary": "配置文件 opencode.json。",
+      "tags": [
+        "code"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:requirements.txt",
+      "type": "document",
+      "name": "requirements.txt",
+      "filePath": "requirements.txt",
+      "summary": "项目文档：requirements.txt。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "config:skills-lock.json",
+      "type": "config",
+      "name": "skills-lock.json",
+      "filePath": "skills-lock.json",
+      "summary": "配置文件 skills-lock.json。",
+      "tags": [
+        "code"
+      ],
+      "complexity": "simple"
+    }
+  ],
+  "edges": []
+}

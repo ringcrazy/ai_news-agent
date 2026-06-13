@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "id": "document:.opencode/agents/analyzer.md",
+      "type": "document",
+      "name": "analyzer.md",
+      "filePath": ".opencode/agents/analyzer.md",
+      "summary": "项目文档：analyzer.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:.opencode/agents/collector.md",
+      "type": "document",
+      "name": "collector.md",
+      "filePath": ".opencode/agents/collector.md",
+      "summary": "项目文档：collector.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:.opencode/agents/organizer.md",
+      "type": "document",
+      "name": "organizer.md",
+      "filePath": ".opencode/agents/organizer.md",
+      "summary": "项目文档：organizer.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    }
+  ],
+  "edges": []
+}

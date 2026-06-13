@@ -1,0 +1,533 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "louvain",
+  "totalFiles": 46,
+  "totalBatches": 6,
+  "exportsByPath": {
+    ".opencode/plugins/validate.ts": [
+      "validatePlugin"
+    ],
+    ".understand-anything/.understandignore": [],
+    "hooks/__init__.py": [],
+    "hooks/check_quality.py": [
+      "DimensionScore",
+      "QualityReport",
+      "EntryResult",
+      "expand_inputs",
+      "load_json",
+      "normalize_entries",
+      "score_summary",
+      "score_technical_depth",
+      "score_format",
+      "score_tags",
+      "score_vague_words",
+      "classify_grade",
+      "build_report",
+      "validate_file",
+      "render_progress",
+      "build_parser",
+      "print_report",
+      "main"
+    ],
+    "hooks/validate_json.py": [
+      "ValidationResult",
+      "expand_inputs",
+      "load_json",
+      "validate_item",
+      "validate_file",
+      "build_parser",
+      "main"
+    ],
+    "mcp_knowledge_server.py": [
+      "Article",
+      "KnowledgeBase",
+      "McpKnowledgeServer",
+      "_iter_jsonrpc_messages",
+      "main"
+    ],
+    "patterns/router.py": [
+      "Usage",
+      "RoutedKnowledgeHit",
+      "route",
+      "github_search_handler",
+      "knowledge_query_handler",
+      "general_chat_handler",
+      "_classify_intent",
+      "_keyword_route",
+      "_load_articles",
+      "_enrich_article",
+      "_load_articles_from_directory",
+      "_score_article",
+      "_summarize_hits",
+      "_article_path",
+      "_github_hit_reason",
+      "_tokenize",
+      "_normalize_text"
+    ],
+    "pipeline/cost_tracker.py": [
+      "_CostRecord",
+      "CostTracker",
+      "get_cost_tracker"
+    ],
+    "pipeline/model_client.mermaid": [],
+    "pipeline/model_client.py": [
+      "Usage",
+      "LLMResponse",
+      "LLMProvider",
+      "OpenAICompatibleProvider",
+      "ProviderConfigError",
+      "get_env_provider",
+      "chat_with_retry",
+      "create_provider",
+      "quick_chat",
+      "get_cost_tracker",
+      "estimate_token_usage",
+      "calculate_cost_usd",
+      "calculate_cost_cny",
+      "_require_env",
+      "_extract_content",
+      "_extract_usage"
+    ],
+    "pipeline/pipeline.mermaid": [],
+    "pipeline/pipeline.py": [
+      "RawItem",
+      "ArticleRecord",
+      "RSSSource",
+      "load_rss_sources",
+      "collect_github",
+      "collect_rss",
+      "analyze_items",
+      "organize_items",
+      "save_items",
+      "run_pipeline",
+      "build_parser",
+      "main",
+      "_build_analysis_prompt",
+      "_parse_analysis_response",
+      "_item_to_article",
+      "_normalize_article",
+      "_validate_article",
+      "_make_article_id",
+      "_safe_filename",
+      "_strip_html",
+      "_guess_tags"
+    ],
+    "tests/conftest.py": [],
+    "tests/test_check_quality.py": [
+      "_write_json",
+      "high_quality_json_file",
+      "low_quality_json_file",
+      "mixed_json_dir",
+      "test_check_quality_passes_for_high_quality_file",
+      "test_check_quality_fails_for_low_quality_file",
+      "test_check_quality_supports_glob_patterns"
+    ],
+    "tests/test_router.py": [
+      "_FakeResponse",
+      "stub_router_dependencies",
+      "test_route_github_search",
+      "test_route_knowledge_query",
+      "test_route_general_chat"
+    ],
+    "tests/test_validate_json.py": [
+      "_write_json",
+      "sample_json_file",
+      "invalid_json_file",
+      "test_validate_json_passes_for_valid_file",
+      "test_validate_json_fails_for_invalid_file"
+    ],
+    "utils/__init__.py": [],
+    "utils/cursor_github_api.py": [
+      "get_repository_basic_info"
+    ],
+    "utils/github_api.py": [
+      "get_repo_info"
+    ],
+    "workflows/model_client.py": [
+      "chat",
+      "chat_json",
+      "_parse_json",
+      "estimate_usage"
+    ]
+  },
+  "batches": [
+    {
+      "batchIndex": 1,
+      "files": [
+        {
+          "path": ".github/workflows/daily-collect.yml",
+          "language": "yaml",
+          "sizeLines": 93,
+          "fileCategory": "infra"
+        }
+      ],
+      "batchImportData": {
+        ".github/workflows/daily-collect.yml": []
+      },
+      "neighborMap": {}
+    },
+    {
+      "batchIndex": 2,
+      "files": [
+        {
+          "path": ".opencode/agents/analyzer.md",
+          "language": "markdown",
+          "sizeLines": 87,
+          "fileCategory": "docs"
+        },
+        {
+          "path": ".opencode/agents/collector.md",
+          "language": "markdown",
+          "sizeLines": 74,
+          "fileCategory": "docs"
+        },
+        {
+          "path": ".opencode/agents/organizer.md",
+          "language": "markdown",
+          "sizeLines": 82,
+          "fileCategory": "docs"
+        }
+      ],
+      "batchImportData": {
+        ".opencode/agents/analyzer.md": [],
+        ".opencode/agents/collector.md": [],
+        ".opencode/agents/organizer.md": []
+      },
+      "neighborMap": {}
+    },
+    {
+      "batchIndex": 3,
+      "files": [
+        {
+          "path": "AGENTS.md",
+          "language": "markdown",
+          "sizeLines": 101,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "opencode.json",
+          "language": "json",
+          "sizeLines": 10,
+          "fileCategory": "config"
+        },
+        {
+          "path": "requirements.txt",
+          "language": "txt",
+          "sizeLines": 6,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "skills-lock.json",
+          "language": "json",
+          "sizeLines": 11,
+          "fileCategory": "config"
+        }
+      ],
+      "batchImportData": {
+        "AGENTS.md": [],
+        "opencode.json": [],
+        "requirements.txt": [],
+        "skills-lock.json": []
+      },
+      "neighborMap": {}
+    },
+    {
+      "batchIndex": 4,
+      "files": [
+        {
+          "path": "specs/cicd-chat_1.md",
+          "language": "markdown",
+          "sizeLines": 14,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "specs/coding-standards.md",
+          "language": "markdown",
+          "sizeLines": 84,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "specs/hooks-chat_2.md",
+          "language": "markdown",
+          "sizeLines": 20,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "specs/hooks_chat_1.md",
+          "language": "markdown",
+          "sizeLines": 17,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "specs/mcp-chat_1.md",
+          "language": "markdown",
+          "sizeLines": 15,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "specs/mcp-chat_2.md",
+          "language": "markdown",
+          "sizeLines": 0,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "specs/mcp-chat_3.md",
+          "language": "markdown",
+          "sizeLines": 12,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "specs/project-gpt-vision.md",
+          "language": "markdown",
+          "sizeLines": 525,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "specs/project-vision.md",
+          "language": "markdown",
+          "sizeLines": 30,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "specs/purpose.md",
+          "language": "markdown",
+          "sizeLines": 91,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "specs/router-chat_1.md",
+          "language": "markdown",
+          "sizeLines": 0,
+          "fileCategory": "docs"
+        }
+      ],
+      "batchImportData": {
+        "specs/cicd-chat_1.md": [],
+        "specs/coding-standards.md": [],
+        "specs/hooks-chat_2.md": [],
+        "specs/hooks_chat_1.md": [],
+        "specs/mcp-chat_1.md": [],
+        "specs/mcp-chat_2.md": [],
+        "specs/mcp-chat_3.md": [],
+        "specs/project-gpt-vision.md": [],
+        "specs/project-vision.md": [],
+        "specs/purpose.md": [],
+        "specs/router-chat_1.md": []
+      },
+      "neighborMap": {}
+    },
+    {
+      "batchIndex": 5,
+      "files": [
+        {
+          "path": ".agents/skills/grill-me/SKILL.md",
+          "language": "markdown",
+          "sizeLines": 10,
+          "fileCategory": "docs"
+        },
+        {
+          "path": ".agents/skills/to-issues/SKILL.md",
+          "language": "markdown",
+          "sizeLines": 91,
+          "fileCategory": "docs"
+        },
+        {
+          "path": ".agents/skills/write-a-skill/SKILL.md",
+          "language": "markdown",
+          "sizeLines": 117,
+          "fileCategory": "docs"
+        },
+        {
+          "path": ".opencode/plugins/validate.ts",
+          "language": "typescript",
+          "sizeLines": 71,
+          "fileCategory": "code"
+        },
+        {
+          "path": ".opencode/skills/github-trending/SKILL.md",
+          "language": "markdown",
+          "sizeLines": 55,
+          "fileCategory": "docs"
+        },
+        {
+          "path": ".opencode/skills/tech-summary/SKILL.md",
+          "language": "markdown",
+          "sizeLines": 71,
+          "fileCategory": "docs"
+        },
+        {
+          "path": ".understand-anything/.understandignore",
+          "language": "unknown",
+          "sizeLines": 2,
+          "fileCategory": "code"
+        },
+        {
+          "path": ".understand-anything/config.json",
+          "language": "json",
+          "sizeLines": 1,
+          "fileCategory": "config"
+        },
+        {
+          "path": "hooks/__init__.py",
+          "language": "python",
+          "sizeLines": 0,
+          "fileCategory": "code"
+        },
+        {
+          "path": "hooks/check_quality.py",
+          "language": "python",
+          "sizeLines": 339,
+          "fileCategory": "code"
+        },
+        {
+          "path": "hooks/validate_json.py",
+          "language": "python",
+          "sizeLines": 248,
+          "fileCategory": "code"
+        },
+        {
+          "path": "mcp_knowledge_server.py",
+          "language": "python",
+          "sizeLines": 317,
+          "fileCategory": "code"
+        },
+        {
+          "path": "patterns/router.py",
+          "language": "python",
+          "sizeLines": 397,
+          "fileCategory": "code"
+        },
+        {
+          "path": "pipeline/cost_tracker.py",
+          "language": "python",
+          "sizeLines": 186,
+          "fileCategory": "code"
+        },
+        {
+          "path": "pipeline/model_client.mermaid",
+          "language": "mermaid",
+          "sizeLines": 69,
+          "fileCategory": "code"
+        },
+        {
+          "path": "pipeline/model_client.py",
+          "language": "python",
+          "sizeLines": 523,
+          "fileCategory": "code"
+        },
+        {
+          "path": "pipeline/pipeline.mermaid",
+          "language": "mermaid",
+          "sizeLines": 63,
+          "fileCategory": "code"
+        },
+        {
+          "path": "pipeline/pipeline.py",
+          "language": "python",
+          "sizeLines": 510,
+          "fileCategory": "code"
+        },
+        {
+          "path": "pipeline/rss_sources.yaml",
+          "language": "yaml",
+          "sizeLines": 40,
+          "fileCategory": "config"
+        },
+        {
+          "path": "tests/conftest.py",
+          "language": "python",
+          "sizeLines": 8,
+          "fileCategory": "code"
+        },
+        {
+          "path": "tests/test_check_quality.py",
+          "language": "python",
+          "sizeLines": 116,
+          "fileCategory": "code"
+        },
+        {
+          "path": "tests/test_router.py",
+          "language": "python",
+          "sizeLines": 72,
+          "fileCategory": "code"
+        },
+        {
+          "path": "tests/test_validate_json.py",
+          "language": "python",
+          "sizeLines": 80,
+          "fileCategory": "code"
+        },
+        {
+          "path": "utils/__init__.py",
+          "language": "python",
+          "sizeLines": 4,
+          "fileCategory": "code"
+        },
+        {
+          "path": "utils/cursor_github_api.py",
+          "language": "python",
+          "sizeLines": 57,
+          "fileCategory": "code"
+        }
+      ],
+      "batchImportData": {
+        ".agents/skills/grill-me/SKILL.md": [],
+        ".agents/skills/to-issues/SKILL.md": [],
+        ".agents/skills/write-a-skill/SKILL.md": [],
+        ".opencode/plugins/validate.ts": [],
+        ".opencode/skills/github-trending/SKILL.md": [],
+        ".opencode/skills/tech-summary/SKILL.md": [],
+        ".understand-anything/.understandignore": [],
+        ".understand-anything/config.json": [],
+        "hooks/__init__.py": [],
+        "hooks/check_quality.py": [],
+        "hooks/validate_json.py": [],
+        "mcp_knowledge_server.py": [],
+        "patterns/router.py": [],
+        "pipeline/cost_tracker.py": [],
+        "pipeline/model_client.mermaid": [],
+        "pipeline/model_client.py": [
+          "pipeline/cost_tracker.py"
+        ],
+        "pipeline/pipeline.mermaid": [],
+        "pipeline/pipeline.py": [],
+        "pipeline/rss_sources.yaml": [],
+        "tests/conftest.py": [],
+        "tests/test_check_quality.py": [
+          "hooks/check_quality.py"
+        ],
+        "tests/test_router.py": [
+          "patterns/router.py"
+        ],
+        "tests/test_validate_json.py": [
+          "hooks/validate_json.py"
+        ],
+        "utils/__init__.py": [],
+        "utils/cursor_github_api.py": []
+      },
+      "neighborMap": {}
+    },
+    {
+      "batchIndex": 6,
+      "files": [
+        {
+          "path": "utils/github_api.py",
+          "language": "python",
+          "sizeLines": 85,
+          "fileCategory": "code"
+        },
+        {
+          "path": "workflows/model_client.py",
+          "language": "python",
+          "sizeLines": 104,
+          "fileCategory": "code"
+        }
+      ],
+      "batchImportData": {
+        "utils/github_api.py": [],
+        "workflows/model_client.py": []
+      },
+      "neighborMap": {}
+    }
+  ]
+}

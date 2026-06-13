@@ -1,0 +1,341 @@
+{
+  "nodes": [
+    {
+      "id": "document:.agents/skills/grill-me/SKILL.md",
+      "type": "document",
+      "name": "SKILL.md",
+      "filePath": ".agents/skills/grill-me/SKILL.md",
+      "summary": "项目文档：SKILL.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:.agents/skills/to-issues/SKILL.md",
+      "type": "document",
+      "name": "SKILL.md",
+      "filePath": ".agents/skills/to-issues/SKILL.md",
+      "summary": "项目文档：SKILL.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:.agents/skills/write-a-skill/SKILL.md",
+      "type": "document",
+      "name": "SKILL.md",
+      "filePath": ".agents/skills/write-a-skill/SKILL.md",
+      "summary": "项目文档：SKILL.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:.opencode/plugins/validate.ts",
+      "type": "file",
+      "name": "validate.ts",
+      "filePath": ".opencode/plugins/validate.ts",
+      "summary": "源码文件 .opencode/plugins/validate.ts。",
+      "tags": [
+        "code"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:.opencode/skills/github-trending/SKILL.md",
+      "type": "document",
+      "name": "SKILL.md",
+      "filePath": ".opencode/skills/github-trending/SKILL.md",
+      "summary": "项目文档：SKILL.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:.opencode/skills/tech-summary/SKILL.md",
+      "type": "document",
+      "name": "SKILL.md",
+      "filePath": ".opencode/skills/tech-summary/SKILL.md",
+      "summary": "项目文档：SKILL.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:.understand-anything/.understandignore",
+      "type": "file",
+      "name": ".understandignore",
+      "filePath": ".understand-anything/.understandignore",
+      "summary": "源码文件 .understand-anything/.understandignore。",
+      "tags": [
+        "code"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "config:.understand-anything/config.json",
+      "type": "config",
+      "name": "config.json",
+      "filePath": ".understand-anything/config.json",
+      "summary": "配置文件 config.json。",
+      "tags": [
+        "code"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:hooks/__init__.py",
+      "type": "file",
+      "name": "__init__.py",
+      "filePath": "hooks/__init__.py",
+      "summary": "源码文件 hooks/__init__.py。",
+      "tags": [
+        "python"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:hooks/check_quality.py",
+      "type": "file",
+      "name": "check_quality.py",
+      "filePath": "hooks/check_quality.py",
+      "summary": "知识条目 JSON 质量评分 CLI（摘要、标签、格式等维度）。",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:hooks/validate_json.py",
+      "type": "file",
+      "name": "validate_json.py",
+      "filePath": "hooks/validate_json.py",
+      "summary": "校验 knowledge 条目 JSON 必填字段与结构。",
+      "tags": [
+        "python"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:mcp_knowledge_server.py",
+      "type": "file",
+      "name": "mcp_knowledge_server.py",
+      "filePath": "mcp_knowledge_server.py",
+      "summary": "MCP 知识库服务：JSON-RPC 暴露文章检索与工具。",
+      "tags": [
+        "mcp",
+        "server",
+        "python"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:patterns/router.py",
+      "type": "file",
+      "name": "router.py",
+      "filePath": "patterns/router.py",
+      "summary": "意图路由：知识库查询、GitHub 搜索与一般对话的分发入口。",
+      "tags": [
+        "router",
+        "intent",
+        "python"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:pipeline/cost_tracker.py",
+      "type": "file",
+      "name": "cost_tracker.py",
+      "filePath": "pipeline/cost_tracker.py",
+      "summary": "LLM 调用成本记录与汇总（USD/CNY）。",
+      "tags": [
+        "python"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:pipeline/model_client.mermaid",
+      "type": "file",
+      "name": "model_client.mermaid",
+      "filePath": "pipeline/model_client.mermaid",
+      "summary": "源码文件 pipeline/model_client.mermaid。",
+      "tags": [
+        "code"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:pipeline/model_client.py",
+      "type": "file",
+      "name": "model_client.py",
+      "filePath": "pipeline/model_client.py",
+      "summary": "OpenAI 兼容 LLM 客户端：多 Provider、重试、用量与 cost_tracker 集成。",
+      "tags": [
+        "llm",
+        "provider",
+        "python"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:pipeline/pipeline.mermaid",
+      "type": "file",
+      "name": "pipeline.mermaid",
+      "filePath": "pipeline/pipeline.mermaid",
+      "summary": "源码文件 pipeline/pipeline.mermaid。",
+      "tags": [
+        "code"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:pipeline/pipeline.py",
+      "type": "file",
+      "name": "pipeline.py",
+      "filePath": "pipeline/pipeline.py",
+      "summary": "四步自动化流水线：采集 GitHub/RSS、LLM 分析、整理去重并写入 knowledge/articles JSON。",
+      "tags": [
+        "pipeline",
+        "采集",
+        "python",
+        "核心"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "config:pipeline/rss_sources.yaml",
+      "type": "config",
+      "name": "rss_sources.yaml",
+      "filePath": "pipeline/rss_sources.yaml",
+      "summary": "配置文件 rss_sources.yaml。",
+      "tags": [
+        "code"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:tests/conftest.py",
+      "type": "file",
+      "name": "conftest.py",
+      "filePath": "tests/conftest.py",
+      "summary": "源码文件 tests/conftest.py。",
+      "tags": [
+        "test",
+        "pytest"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:tests/test_check_quality.py",
+      "type": "file",
+      "name": "test_check_quality.py",
+      "filePath": "tests/test_check_quality.py",
+      "summary": "源码文件 tests/test_check_quality.py。",
+      "tags": [
+        "test",
+        "pytest"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:tests/test_router.py",
+      "type": "file",
+      "name": "test_router.py",
+      "filePath": "tests/test_router.py",
+      "summary": "源码文件 tests/test_router.py。",
+      "tags": [
+        "test",
+        "pytest"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:tests/test_validate_json.py",
+      "type": "file",
+      "name": "test_validate_json.py",
+      "filePath": "tests/test_validate_json.py",
+      "summary": "源码文件 tests/test_validate_json.py。",
+      "tags": [
+        "test",
+        "pytest"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:utils/__init__.py",
+      "type": "file",
+      "name": "__init__.py",
+      "filePath": "utils/__init__.py",
+      "summary": "源码文件 utils/__init__.py。",
+      "tags": [
+        "python"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:utils/cursor_github_api.py",
+      "type": "file",
+      "name": "cursor_github_api.py",
+      "filePath": "utils/cursor_github_api.py",
+      "summary": "Cursor 场景下的 GitHub 仓库信息辅助。",
+      "tags": [
+        "python"
+      ],
+      "complexity": "simple"
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:pipeline/model_client.py",
+      "target": "file:pipeline/cost_tracker.py",
+      "type": "imports",
+      "weight": 0.7
+    },
+    {
+      "source": "file:tests/test_check_quality.py",
+      "target": "file:hooks/check_quality.py",
+      "type": "imports",
+      "weight": 0.7
+    },
+    {
+      "source": "file:hooks/check_quality.py",
+      "target": "file:tests/test_check_quality.py",
+      "type": "tested_by",
+      "weight": 0.5
+    },
+    {
+      "source": "file:tests/test_router.py",
+      "target": "file:patterns/router.py",
+      "type": "imports",
+      "weight": 0.7
+    },
+    {
+      "source": "file:patterns/router.py",
+      "target": "file:tests/test_router.py",
+      "type": "tested_by",
+      "weight": 0.5
+    },
+    {
+      "source": "file:tests/test_validate_json.py",
+      "target": "file:hooks/validate_json.py",
+      "type": "imports",
+      "weight": 0.7
+    },
+    {
+      "source": "file:hooks/validate_json.py",
+      "target": "file:tests/test_validate_json.py",
+      "type": "tested_by",
+      "weight": 0.5
+    }
+  ]
+}

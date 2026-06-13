@@ -1,0 +1,137 @@
+{
+  "nodes": [
+    {
+      "id": "document:specs/cicd-chat_1.md",
+      "type": "document",
+      "name": "cicd-chat_1.md",
+      "filePath": "specs/cicd-chat_1.md",
+      "summary": "项目文档：cicd-chat_1.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:specs/coding-standards.md",
+      "type": "document",
+      "name": "coding-standards.md",
+      "filePath": "specs/coding-standards.md",
+      "summary": "项目文档：coding-standards.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:specs/hooks-chat_2.md",
+      "type": "document",
+      "name": "hooks-chat_2.md",
+      "filePath": "specs/hooks-chat_2.md",
+      "summary": "项目文档：hooks-chat_2.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:specs/hooks_chat_1.md",
+      "type": "document",
+      "name": "hooks_chat_1.md",
+      "filePath": "specs/hooks_chat_1.md",
+      "summary": "项目文档：hooks_chat_1.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:specs/mcp-chat_1.md",
+      "type": "document",
+      "name": "mcp-chat_1.md",
+      "filePath": "specs/mcp-chat_1.md",
+      "summary": "项目文档：mcp-chat_1.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:specs/mcp-chat_2.md",
+      "type": "document",
+      "name": "mcp-chat_2.md",
+      "filePath": "specs/mcp-chat_2.md",
+      "summary": "项目文档：mcp-chat_2.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:specs/mcp-chat_3.md",
+      "type": "document",
+      "name": "mcp-chat_3.md",
+      "filePath": "specs/mcp-chat_3.md",
+      "summary": "项目文档：mcp-chat_3.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:specs/project-gpt-vision.md",
+      "type": "document",
+      "name": "project-gpt-vision.md",
+      "filePath": "specs/project-gpt-vision.md",
+      "summary": "项目文档：project-gpt-vision.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "document:specs/project-vision.md",
+      "type": "document",
+      "name": "project-vision.md",
+      "filePath": "specs/project-vision.md",
+      "summary": "项目文档：project-vision.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:specs/purpose.md",
+      "type": "document",
+      "name": "purpose.md",
+      "filePath": "specs/purpose.md",
+      "summary": "项目文档：purpose.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:specs/router-chat_1.md",
+      "type": "document",
+      "name": "router-chat_1.md",
+      "filePath": "specs/router-chat_1.md",
+      "summary": "项目文档：router-chat_1.md。",
+      "tags": [
+        "documentation",
+        "spec"
+      ],
+      "complexity": "simple"
+    }
+  ],
+  "edges": []
+}

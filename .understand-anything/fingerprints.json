@@ -1,0 +1,2300 @@
+{
+  "version": "1.0.0",
+  "gitCommitHash": "1e07901e4dffe8eb005674263c0c0250e19a5fa4",
+  "generatedAt": "2026-06-13T02:25:10.421Z",
+  "files": {
+    ".agents/skills/grill-me/SKILL.md": {
+      "filePath": ".agents/skills/grill-me/SKILL.md",
+      "contentHash": "c9df326c4ab635765ea884471d21f4e21d5b0ec85aec43a06c238307841eb4bc",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 11,
+      "hasStructuralAnalysis": true
+    },
+    ".agents/skills/to-issues/SKILL.md": {
+      "filePath": ".agents/skills/to-issues/SKILL.md",
+      "contentHash": "ca0942dca1fc7e5bc6b91056a8b65372e8c28a79e67638dd2b40388a61d027ab",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 92,
+      "hasStructuralAnalysis": true
+    },
+    ".agents/skills/write-a-skill/SKILL.md": {
+      "filePath": ".agents/skills/write-a-skill/SKILL.md",
+      "contentHash": "be8f20e66309258034b82a7db5040b03798aa40546f9d387662c2bd86be23123",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 118,
+      "hasStructuralAnalysis": true
+    },
+    ".github/workflows/daily-collect.yml": {
+      "filePath": ".github/workflows/daily-collect.yml",
+      "contentHash": "8658938367a9a6813fe13e73abc964f32e1aaa09913b121b604654046979dcad",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 94,
+      "hasStructuralAnalysis": true
+    },
+    ".opencode/agents/analyzer.md": {
+      "filePath": ".opencode/agents/analyzer.md",
+      "contentHash": "7aba028eb0c8580cd04a828988af21579947e3c90865ed53d9406370f9a9f653",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 88,
+      "hasStructuralAnalysis": true
+    },
+    ".opencode/agents/collector.md": {
+      "filePath": ".opencode/agents/collector.md",
+      "contentHash": "98dcd85457e7ab60f77aeaa98da657d52b5aa2199c5dfee6c8bc59f1db508a33",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 75,
+      "hasStructuralAnalysis": true
+    },
+    ".opencode/agents/organizer.md": {
+      "filePath": ".opencode/agents/organizer.md",
+      "contentHash": "1aeac09e1341a5156917810e76abbc35409f7a7179d7f3890d7afcbad01251e3",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 83,
+      "hasStructuralAnalysis": true
+    },
+    ".opencode/plugins/validate.ts": {
+      "filePath": ".opencode/plugins/validate.ts",
+      "contentHash": "1b5b26350bbe508b01c70d2510feb2f930de17047b768608857322b46351245a",
+      "functions": [
+        {
+          "name": "getFilePath",
+          "params": [
+            "args"
+          ],
+          "returnType": "string | undefined",
+          "exported": false,
+          "lineCount": 3
+        },
+        {
+          "name": "dlog",
+          "params": [
+            "message"
+          ],
+          "returnType": "void",
+          "exported": false,
+          "lineCount": 11
+        },
+        {
+          "name": "validatePlugin",
+          "params": [
+            "{ $ }"
+          ],
+          "exported": true,
+          "lineCount": 38
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "@opencode-ai/plugin",
+          "specifiers": [
+            "Plugin"
+          ]
+        },
+        {
+          "source": "node:fs",
+          "specifiers": [
+            "appendFileSync"
+          ]
+        },
+        {
+          "source": "node:path",
+          "specifiers": [
+            "join"
+          ]
+        }
+      ],
+      "exports": [
+        "validatePlugin"
+      ],
+      "totalLines": 72,
+      "hasStructuralAnalysis": true
+    },
+    ".opencode/skills/github-trending/SKILL.md": {
+      "filePath": ".opencode/skills/github-trending/SKILL.md",
+      "contentHash": "aa1567ffc2dcee19054bf749c52bcf33cb44b002a465eb0b56e51ceebada438c",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 56,
+      "hasStructuralAnalysis": true
+    },
+    ".opencode/skills/tech-summary/SKILL.md": {
+      "filePath": ".opencode/skills/tech-summary/SKILL.md",
+      "contentHash": "2c6430a6cbdb4c8bc95f143def7930c97ecf5d7eadec62f676b3b4e5f2493c13",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 72,
+      "hasStructuralAnalysis": true
+    },
+    ".understand-anything/.understandignore": {
+      "filePath": ".understand-anything/.understandignore",
+      "contentHash": "e9be39bf4cea257c3b461795dcb33a9c750e2436b84f01f2af6a71fdfda23b30",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 3,
+      "hasStructuralAnalysis": false
+    },
+    ".understand-anything/config.json": {
+      "filePath": ".understand-anything/config.json",
+      "contentHash": "c27da79e246b963c762f56d22829a00151892bcd36ff06b4c1f532252233dd5c",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 2,
+      "hasStructuralAnalysis": true
+    },
+    "AGENTS.md": {
+      "filePath": "AGENTS.md",
+      "contentHash": "48855d56bec1477d4a36382d8df58d13ee8123e36ef8d4366cdf14194f747b9d",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 102,
+      "hasStructuralAnalysis": true
+    },
+    "hooks/__init__.py": {
+      "filePath": "hooks/__init__.py",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "hooks/check_quality.py": {
+      "filePath": "hooks/check_quality.py",
+      "contentHash": "b8a2a9af9f78be5a90d7f6d7806fb0f88d34bd97484496f654b52f3da10adaa2",
+      "functions": [
+        {
+          "name": "expand_inputs",
+          "params": [
+            "args"
+          ],
+          "returnType": "list[Path]",
+          "exported": true,
+          "lineCount": 9
+        },
+        {
+          "name": "load_json",
+          "params": [
+            "path"
+          ],
+          "returnType": "tuple[Any | None, list[str]]",
+          "exported": true,
+          "lineCount": 8
+        },
+        {
+          "name": "normalize_entries",
+          "params": [
+            "data",
+            "path"
+          ],
+          "returnType": "tuple[list[dict[str, Any]], list[str]]",
+          "exported": true,
+          "lineCount": 13
+        },
+        {
+          "name": "score_summary",
+          "params": [
+            "summary"
+          ],
+          "returnType": "DimensionScore",
+          "exported": true,
+          "lineCount": 23
+        },
+        {
+          "name": "score_technical_depth",
+          "params": [
+            "item"
+          ],
+          "returnType": "DimensionScore",
+          "exported": true,
+          "lineCount": 8
+        },
+        {
+          "name": "score_format",
+          "params": [
+            "item"
+          ],
+          "returnType": "DimensionScore",
+          "exported": true,
+          "lineCount": 14
+        },
+        {
+          "name": "score_tags",
+          "params": [
+            "tags"
+          ],
+          "returnType": "DimensionScore",
+          "exported": true,
+          "lineCount": 19
+        },
+        {
+          "name": "score_vague_words",
+          "params": [
+            "item"
+          ],
+          "returnType": "DimensionScore",
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "classify_grade",
+          "params": [
+            "total_score"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 6
+        },
+        {
+          "name": "build_report",
+          "params": [
+            "item",
+            "path"
+          ],
+          "returnType": "QualityReport",
+          "exported": true,
+          "lineCount": 13
+        },
+        {
+          "name": "validate_file",
+          "params": [
+            "path"
+          ],
+          "returnType": "EntryResult",
+          "exported": true,
+          "lineCount": 19
+        },
+        {
+          "name": "render_progress",
+          "params": [
+            "score",
+            "max_score",
+            "width"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 5
+        },
+        {
+          "name": "build_parser",
+          "params": [],
+          "returnType": "argparse.ArgumentParser",
+          "exported": true,
+          "lineCount": 4
+        },
+        {
+          "name": "print_report",
+          "params": [
+            "report"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "main",
+          "params": [
+            "argv"
+          ],
+          "returnType": "int",
+          "exported": true,
+          "lineCount": 32
+        }
+      ],
+      "classes": [
+        {
+          "name": "DimensionScore",
+          "methods": [],
+          "properties": [
+            "name",
+            "score",
+            "max_score",
+            "note"
+          ],
+          "exported": true,
+          "lineCount": 5
+        },
+        {
+          "name": "QualityReport",
+          "methods": [],
+          "properties": [
+            "path",
+            "title",
+            "total_score",
+            "grade",
+            "dimensions",
+            "summary"
+          ],
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "EntryResult",
+          "methods": [
+            "is_valid"
+          ],
+          "properties": [
+            "path",
+            "report",
+            "errors"
+          ],
+          "exported": true,
+          "lineCount": 8
+        }
+      ],
+      "imports": [
+        {
+          "source": "argparse",
+          "specifiers": [
+            "argparse"
+          ]
+        },
+        {
+          "source": "glob",
+          "specifiers": [
+            "glob"
+          ]
+        },
+        {
+          "source": "json",
+          "specifiers": [
+            "json"
+          ]
+        },
+        {
+          "source": "logging",
+          "specifiers": [
+            "logging"
+          ]
+        },
+        {
+          "source": "math",
+          "specifiers": [
+            "math"
+          ]
+        },
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "dataclasses",
+          "specifiers": [
+            "dataclass"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "typing",
+          "specifiers": [
+            "Any"
+          ]
+        }
+      ],
+      "exports": [
+        "DimensionScore",
+        "QualityReport",
+        "EntryResult",
+        "expand_inputs",
+        "load_json",
+        "normalize_entries",
+        "score_summary",
+        "score_technical_depth",
+        "score_format",
+        "score_tags",
+        "score_vague_words",
+        "classify_grade",
+        "build_report",
+        "validate_file",
+        "render_progress",
+        "build_parser",
+        "print_report",
+        "main"
+      ],
+      "totalLines": 340,
+      "hasStructuralAnalysis": true
+    },
+    "hooks/validate_json.py": {
+      "filePath": "hooks/validate_json.py",
+      "contentHash": "cce240654db682cf735c93ddf0404d4442a0d089c974696387fefc9472ff425f",
+      "functions": [
+        {
+          "name": "expand_inputs",
+          "params": [
+            "args"
+          ],
+          "returnType": "list[Path]",
+          "exported": true,
+          "lineCount": 24
+        },
+        {
+          "name": "load_json",
+          "params": [
+            "path"
+          ],
+          "returnType": "tuple[Any | None, list[str]]",
+          "exported": true,
+          "lineCount": 16
+        },
+        {
+          "name": "validate_item",
+          "params": [
+            "item",
+            "path",
+            "index"
+          ],
+          "returnType": "list[str]",
+          "exported": true,
+          "lineCount": 60
+        },
+        {
+          "name": "validate_file",
+          "params": [
+            "path"
+          ],
+          "returnType": "ValidationResult",
+          "exported": true,
+          "lineCount": 29
+        },
+        {
+          "name": "build_parser",
+          "params": [],
+          "returnType": "argparse.ArgumentParser",
+          "exported": true,
+          "lineCount": 8
+        },
+        {
+          "name": "main",
+          "params": [
+            "argv"
+          ],
+          "returnType": "int",
+          "exported": true,
+          "lineCount": 39
+        }
+      ],
+      "classes": [
+        {
+          "name": "ValidationResult",
+          "methods": [
+            "is_valid"
+          ],
+          "properties": [
+            "path",
+            "errors"
+          ],
+          "exported": true,
+          "lineCount": 10
+        }
+      ],
+      "imports": [
+        {
+          "source": "argparse",
+          "specifiers": [
+            "argparse"
+          ]
+        },
+        {
+          "source": "glob",
+          "specifiers": [
+            "glob"
+          ]
+        },
+        {
+          "source": "json",
+          "specifiers": [
+            "json"
+          ]
+        },
+        {
+          "source": "logging",
+          "specifiers": [
+            "logging"
+          ]
+        },
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "dataclasses",
+          "specifiers": [
+            "dataclass"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "typing",
+          "specifiers": [
+            "Any"
+          ]
+        }
+      ],
+      "exports": [
+        "ValidationResult",
+        "expand_inputs",
+        "load_json",
+        "validate_item",
+        "validate_file",
+        "build_parser",
+        "main"
+      ],
+      "totalLines": 249,
+      "hasStructuralAnalysis": true
+    },
+    "mcp_knowledge_server.py": {
+      "filePath": "mcp_knowledge_server.py",
+      "contentHash": "fa11af268e689af6cb4385693b931b5a4c0a5ea2ee79e196a341f5b0c801997e",
+      "functions": [
+        {
+          "name": "_iter_jsonrpc_messages",
+          "params": [],
+          "returnType": "Iterable[dict[str, Any]]",
+          "exported": true,
+          "lineCount": 14
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "int",
+          "exported": true,
+          "lineCount": 14
+        }
+      ],
+      "classes": [
+        {
+          "name": "Article",
+          "methods": [
+            "article_id",
+            "title",
+            "source",
+            "summary",
+            "tags"
+          ],
+          "properties": [
+            "path",
+            "data"
+          ],
+          "exported": true,
+          "lineCount": 28
+        },
+        {
+          "name": "KnowledgeBase",
+          "methods": [
+            "__init__",
+            "_load_articles",
+            "search_articles",
+            "get_article",
+            "knowledge_stats"
+          ],
+          "properties": [],
+          "exported": true,
+          "lineCount": 74
+        },
+        {
+          "name": "McpKnowledgeServer",
+          "methods": [
+            "__init__",
+            "handle_request",
+            "_handle_tool_call",
+            "_tool_result",
+            "_tool_error",
+            "_error"
+          ],
+          "properties": [],
+          "exported": true,
+          "lineCount": 99
+        }
+      ],
+      "imports": [
+        {
+          "source": "json",
+          "specifiers": [
+            "json"
+          ]
+        },
+        {
+          "source": "logging",
+          "specifiers": [
+            "logging"
+          ]
+        },
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "collections",
+          "specifiers": [
+            "Counter",
+            "defaultdict"
+          ]
+        },
+        {
+          "source": "dataclasses",
+          "specifiers": [
+            "dataclass"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "typing",
+          "specifiers": [
+            "Any",
+            "Iterable"
+          ]
+        }
+      ],
+      "exports": [
+        "Article",
+        "KnowledgeBase",
+        "McpKnowledgeServer",
+        "_iter_jsonrpc_messages",
+        "main"
+      ],
+      "totalLines": 318,
+      "hasStructuralAnalysis": true
+    },
+    "opencode.json": {
+      "filePath": "opencode.json",
+      "contentHash": "780cf6841b4998b8970e66921d53d12ac7fbe3228db762c335ad0e0dcf2ceb8c",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 11,
+      "hasStructuralAnalysis": true
+    },
+    "patterns/router.py": {
+      "filePath": "patterns/router.py",
+      "contentHash": "1000b808c54f45124efe7eec0585f4e81eb941be76172ab2a973a1e94e3b9288",
+      "functions": [
+        {
+          "name": "route",
+          "params": [
+            "query"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 11
+        },
+        {
+          "name": "github_search_handler",
+          "params": [
+            "query"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 33
+        },
+        {
+          "name": "knowledge_query_handler",
+          "params": [
+            "query"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 25
+        },
+        {
+          "name": "general_chat_handler",
+          "params": [
+            "query"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 5
+        },
+        {
+          "name": "_classify_intent",
+          "params": [
+            "query"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 27
+        },
+        {
+          "name": "_keyword_route",
+          "params": [
+            "query"
+          ],
+          "returnType": "Optional[str]",
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "_load_articles",
+          "params": [],
+          "returnType": "list[dict[str, Any]]",
+          "exported": true,
+          "lineCount": 19
+        },
+        {
+          "name": "_enrich_article",
+          "params": [
+            "article"
+          ],
+          "returnType": "dict[str, Any]",
+          "exported": true,
+          "lineCount": 37
+        },
+        {
+          "name": "_load_articles_from_directory",
+          "params": [],
+          "returnType": "list[dict[str, Any]]",
+          "exported": true,
+          "lineCount": 13
+        },
+        {
+          "name": "_score_article",
+          "params": [
+            "query",
+            "article"
+          ],
+          "returnType": "tuple[float, dict[str, Any], str]",
+          "exported": true,
+          "lineCount": 43
+        },
+        {
+          "name": "_summarize_hits",
+          "params": [
+            "query",
+            "hits"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "_article_path",
+          "params": [
+            "article"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 5
+        },
+        {
+          "name": "_github_hit_reason",
+          "params": [
+            "query",
+            "item"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 12
+        },
+        {
+          "name": "_tokenize",
+          "params": [
+            "text"
+          ],
+          "returnType": "list[str]",
+          "exported": true,
+          "lineCount": 19
+        },
+        {
+          "name": "_normalize_text",
+          "params": [
+            "text"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 2
+        }
+      ],
+      "classes": [
+        {
+          "name": "Usage",
+          "methods": [],
+          "properties": [
+            "prompt_tokens",
+            "completion_tokens",
+            "total_tokens"
+          ],
+          "exported": true,
+          "lineCount": 6
+        },
+        {
+          "name": "RoutedKnowledgeHit",
+          "methods": [],
+          "properties": [
+            "path",
+            "article_id",
+            "title",
+            "summary",
+            "reason",
+            "score"
+          ],
+          "exported": true,
+          "lineCount": 7
+        }
+      ],
+      "imports": [
+        {
+          "source": "json",
+          "specifiers": [
+            "json"
+          ]
+        },
+        {
+          "source": "logging",
+          "specifiers": [
+            "logging"
+          ]
+        },
+        {
+          "source": "os",
+          "specifiers": [
+            "os"
+          ]
+        },
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "urllib.parse",
+          "specifiers": [
+            "urllib.parse"
+          ]
+        },
+        {
+          "source": "urllib.request",
+          "specifiers": [
+            "urllib.request"
+          ]
+        },
+        {
+          "source": "collections",
+          "specifiers": [
+            "Counter"
+          ]
+        },
+        {
+          "source": "dataclasses",
+          "specifiers": [
+            "dataclass"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "typing",
+          "specifiers": [
+            "Any",
+            "Iterable",
+            "Optional"
+          ]
+        }
+      ],
+      "exports": [
+        "Usage",
+        "RoutedKnowledgeHit",
+        "route",
+        "github_search_handler",
+        "knowledge_query_handler",
+        "general_chat_handler",
+        "_classify_intent",
+        "_keyword_route",
+        "_load_articles",
+        "_enrich_article",
+        "_load_articles_from_directory",
+        "_score_article",
+        "_summarize_hits",
+        "_article_path",
+        "_github_hit_reason",
+        "_tokenize",
+        "_normalize_text"
+      ],
+      "totalLines": 398,
+      "hasStructuralAnalysis": true
+    },
+    "pipeline/cost_tracker.py": {
+      "filePath": "pipeline/cost_tracker.py",
+      "contentHash": "470697d9dceaa83dcb74a7a732f186087343fc746d90908ba8804e8e5aba7a62",
+      "functions": [
+        {
+          "name": "get_cost_tracker",
+          "params": [],
+          "returnType": "CostTracker",
+          "exported": true,
+          "lineCount": 4
+        }
+      ],
+      "classes": [
+        {
+          "name": "_CostRecord",
+          "methods": [],
+          "properties": [
+            "provider",
+            "prompt_tokens",
+            "completion_tokens",
+            "total_tokens",
+            "cost_cny"
+          ],
+          "exported": true,
+          "lineCount": 17
+        },
+        {
+          "name": "CostTracker",
+          "methods": [
+            "__init__",
+            "record",
+            "estimated_cost",
+            "report",
+            "_estimate_cost_cny"
+          ],
+          "properties": [],
+          "exported": true,
+          "lineCount": 129
+        }
+      ],
+      "imports": [
+        {
+          "source": "dataclasses",
+          "specifiers": [
+            "dataclasses"
+          ]
+        },
+        {
+          "source": "logging",
+          "specifiers": [
+            "logging"
+          ]
+        },
+        {
+          "source": "typing",
+          "specifiers": [
+            "TYPE_CHECKING",
+            "Optional"
+          ]
+        }
+      ],
+      "exports": [
+        "_CostRecord",
+        "CostTracker",
+        "get_cost_tracker"
+      ],
+      "totalLines": 187,
+      "hasStructuralAnalysis": true
+    },
+    "pipeline/model_client.mermaid": {
+      "filePath": "pipeline/model_client.mermaid",
+      "contentHash": "ca03859e7674bd60a4749d28a4890c37cd2ce1784cfcc9f120cc18b700a22bd7",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 70,
+      "hasStructuralAnalysis": false
+    },
+    "pipeline/model_client.py": {
+      "filePath": "pipeline/model_client.py",
+      "contentHash": "d860ab70cc13185ba4c5c4f0469ba834562c54800d881ecdb82e2d3acc083d19",
+      "functions": [
+        {
+          "name": "get_env_provider",
+          "params": [],
+          "returnType": "LLMProvider",
+          "exported": true,
+          "lineCount": 56
+        },
+        {
+          "name": "chat_with_retry",
+          "params": [
+            "messages",
+            "model",
+            "temperature",
+            "max_tokens"
+          ],
+          "returnType": "LLMResponse",
+          "exported": true,
+          "lineCount": 49
+        },
+        {
+          "name": "create_provider",
+          "params": [],
+          "returnType": "LLMProvider",
+          "exported": true,
+          "lineCount": 4
+        },
+        {
+          "name": "quick_chat",
+          "params": [
+            "prompt",
+            "model"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 16
+        },
+        {
+          "name": "get_cost_tracker",
+          "params": [],
+          "returnType": "CostTracker",
+          "exported": true,
+          "lineCount": 4
+        },
+        {
+          "name": "estimate_token_usage",
+          "params": [
+            "prompt",
+            "completion"
+          ],
+          "returnType": "Usage",
+          "exported": true,
+          "lineCount": 23
+        },
+        {
+          "name": "calculate_cost_usd",
+          "params": [
+            "model",
+            "usage"
+          ],
+          "returnType": "float",
+          "exported": true,
+          "lineCount": 18
+        },
+        {
+          "name": "calculate_cost_cny",
+          "params": [
+            "provider",
+            "usage"
+          ],
+          "returnType": "float",
+          "exported": true,
+          "lineCount": 18
+        },
+        {
+          "name": "_require_env",
+          "params": [
+            "name"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 17
+        },
+        {
+          "name": "_extract_content",
+          "params": [
+            "data"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 11
+        },
+        {
+          "name": "_extract_usage",
+          "params": [
+            "data",
+            "messages",
+            "content"
+          ],
+          "returnType": "Usage",
+          "exported": true,
+          "lineCount": 25
+        }
+      ],
+      "classes": [
+        {
+          "name": "Usage",
+          "methods": [],
+          "properties": [
+            "prompt_tokens",
+            "completion_tokens",
+            "total_tokens",
+            "estimated"
+          ],
+          "exported": true,
+          "lineCount": 14
+        },
+        {
+          "name": "LLMResponse",
+          "methods": [],
+          "properties": [
+            "content",
+            "usage",
+            "model",
+            "provider",
+            "cost_usd",
+            "cost_cny",
+            "raw_response"
+          ],
+          "exported": true,
+          "lineCount": 20
+        },
+        {
+          "name": "LLMProvider",
+          "methods": [
+            "chat",
+            "provider_name"
+          ],
+          "properties": [],
+          "exported": true,
+          "lineCount": 27
+        },
+        {
+          "name": "OpenAICompatibleProvider",
+          "methods": [
+            "__init__",
+            "provider_name",
+            "chat",
+            "close",
+            "__enter__",
+            "__exit__"
+          ],
+          "properties": [],
+          "exported": true,
+          "lineCount": 109
+        },
+        {
+          "name": "ProviderConfigError",
+          "methods": [],
+          "properties": [],
+          "exported": true,
+          "lineCount": 2
+        }
+      ],
+      "imports": [
+        {
+          "source": "abc",
+          "specifiers": [
+            "abc"
+          ]
+        },
+        {
+          "source": "dataclasses",
+          "specifiers": [
+            "dataclasses"
+          ]
+        },
+        {
+          "source": "logging",
+          "specifiers": [
+            "logging"
+          ]
+        },
+        {
+          "source": "math",
+          "specifiers": [
+            "math"
+          ]
+        },
+        {
+          "source": "os",
+          "specifiers": [
+            "os"
+          ]
+        },
+        {
+          "source": "time",
+          "specifiers": [
+            "time"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "typing",
+          "specifiers": [
+            "Any",
+            "Optional",
+            "Sequence",
+            "TypeVar"
+          ]
+        },
+        {
+          "source": "httpx",
+          "specifiers": [
+            "httpx"
+          ]
+        },
+        {
+          "source": "pipeline.cost_tracker",
+          "specifiers": [
+            "GLOBAL_COST_TRACKER",
+            "PRICING_PER_1M_TOKENS_CNY",
+            "get_cost_tracker"
+          ]
+        }
+      ],
+      "exports": [
+        "Usage",
+        "LLMResponse",
+        "LLMProvider",
+        "OpenAICompatibleProvider",
+        "ProviderConfigError",
+        "get_env_provider",
+        "chat_with_retry",
+        "create_provider",
+        "quick_chat",
+        "get_cost_tracker",
+        "estimate_token_usage",
+        "calculate_cost_usd",
+        "calculate_cost_cny",
+        "_require_env",
+        "_extract_content",
+        "_extract_usage"
+      ],
+      "totalLines": 524,
+      "hasStructuralAnalysis": true
+    },
+    "pipeline/pipeline.mermaid": {
+      "filePath": "pipeline/pipeline.mermaid",
+      "contentHash": "41cab06189b563fcf51eca6e17fb1a4fa67ba3a5b5ab3bd8f41c4adf609b1595",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 64,
+      "hasStructuralAnalysis": false
+    },
+    "pipeline/pipeline.py": {
+      "filePath": "pipeline/pipeline.py",
+      "contentHash": "c094548e8b8e8d829c6913bc6ebac7824cea83e20eca1b41cefaaae7c4963d18",
+      "functions": [
+        {
+          "name": "load_rss_sources",
+          "params": [
+            "config_path"
+          ],
+          "returnType": "list[RSSSource]",
+          "exported": true,
+          "lineCount": 53
+        },
+        {
+          "name": "collect_github",
+          "params": [
+            "limit"
+          ],
+          "returnType": "list[RawItem]",
+          "exported": true,
+          "lineCount": 35
+        },
+        {
+          "name": "collect_rss",
+          "params": [
+            "limit",
+            "config_path"
+          ],
+          "returnType": "list[RawItem]",
+          "exported": true,
+          "lineCount": 45
+        },
+        {
+          "name": "analyze_items",
+          "params": [
+            "items"
+          ],
+          "returnType": "list[ArticleRecord]",
+          "exported": true,
+          "lineCount": 11
+        },
+        {
+          "name": "organize_items",
+          "params": [
+            "items"
+          ],
+          "returnType": "list[ArticleRecord]",
+          "exported": true,
+          "lineCount": 14
+        },
+        {
+          "name": "save_items",
+          "params": [
+            "items",
+            "dry_run"
+          ],
+          "returnType": "list[Path]",
+          "exported": true,
+          "lineCount": 17
+        },
+        {
+          "name": "run_pipeline",
+          "params": [
+            "sources",
+            "limit",
+            "dry_run",
+            "rss_config"
+          ],
+          "returnType": "list[Path]",
+          "exported": true,
+          "lineCount": 44
+        },
+        {
+          "name": "build_parser",
+          "params": [],
+          "returnType": "argparse.ArgumentParser",
+          "exported": true,
+          "lineCount": 23
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "int",
+          "exported": true,
+          "lineCount": 30
+        },
+        {
+          "name": "_build_analysis_prompt",
+          "params": [
+            "item"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 12
+        },
+        {
+          "name": "_parse_analysis_response",
+          "params": [
+            "text"
+          ],
+          "returnType": "dict[str, Any]",
+          "exported": true,
+          "lineCount": 17
+        },
+        {
+          "name": "_item_to_article",
+          "params": [
+            "item",
+            "analysis"
+          ],
+          "returnType": "ArticleRecord",
+          "exported": true,
+          "lineCount": 26
+        },
+        {
+          "name": "_normalize_article",
+          "params": [
+            "item"
+          ],
+          "returnType": "ArticleRecord",
+          "exported": true,
+          "lineCount": 14
+        },
+        {
+          "name": "_validate_article",
+          "params": [
+            "item"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 13
+        },
+        {
+          "name": "_make_article_id",
+          "params": [
+            "url"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 6
+        },
+        {
+          "name": "_safe_filename",
+          "params": [
+            "value"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 4
+        },
+        {
+          "name": "_strip_html",
+          "params": [
+            "value"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 5
+        },
+        {
+          "name": "_guess_tags",
+          "params": [
+            "text"
+          ],
+          "returnType": "list[str]",
+          "exported": true,
+          "lineCount": 5
+        }
+      ],
+      "classes": [
+        {
+          "name": "RawItem",
+          "methods": [],
+          "properties": [
+            "title",
+            "url",
+            "source",
+            "summary",
+            "popularity"
+          ],
+          "exported": true,
+          "lineCount": 8
+        },
+        {
+          "name": "ArticleRecord",
+          "methods": [],
+          "properties": [
+            "id",
+            "title",
+            "source",
+            "source_url",
+            "collected_at",
+            "summary",
+            "analysis",
+            "tags",
+            "status"
+          ],
+          "exported": true,
+          "lineCount": 12
+        },
+        {
+          "name": "RSSSource",
+          "methods": [],
+          "properties": [
+            "name",
+            "url",
+            "category",
+            "enabled"
+          ],
+          "exported": true,
+          "lineCount": 14
+        }
+      ],
+      "imports": [
+        {
+          "source": "argparse",
+          "specifiers": [
+            "argparse"
+          ]
+        },
+        {
+          "source": "dataclasses",
+          "specifiers": [
+            "dataclasses"
+          ]
+        },
+        {
+          "source": "hashlib",
+          "specifiers": [
+            "hashlib"
+          ]
+        },
+        {
+          "source": "json",
+          "specifiers": [
+            "json"
+          ]
+        },
+        {
+          "source": "logging",
+          "specifiers": [
+            "logging"
+          ]
+        },
+        {
+          "source": "os",
+          "specifiers": [
+            "os"
+          ]
+        },
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "datetime",
+          "specifiers": [
+            "datetime",
+            "timezone"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "typing",
+          "specifiers": [
+            "Any"
+          ]
+        },
+        {
+          "source": "urllib.parse",
+          "specifiers": [
+            "quote_plus"
+          ]
+        },
+        {
+          "source": "httpx",
+          "specifiers": [
+            "httpx"
+          ]
+        },
+        {
+          "source": "yaml",
+          "specifiers": [
+            "yaml"
+          ]
+        }
+      ],
+      "exports": [
+        "RawItem",
+        "ArticleRecord",
+        "RSSSource",
+        "load_rss_sources",
+        "collect_github",
+        "collect_rss",
+        "analyze_items",
+        "organize_items",
+        "save_items",
+        "run_pipeline",
+        "build_parser",
+        "main",
+        "_build_analysis_prompt",
+        "_parse_analysis_response",
+        "_item_to_article",
+        "_normalize_article",
+        "_validate_article",
+        "_make_article_id",
+        "_safe_filename",
+        "_strip_html",
+        "_guess_tags"
+      ],
+      "totalLines": 511,
+      "hasStructuralAnalysis": true
+    },
+    "pipeline/rss_sources.yaml": {
+      "filePath": "pipeline/rss_sources.yaml",
+      "contentHash": "e4f4118b1d201ecc288861431bd259e09ba82c9e76e5445e74af47c54ee0b065",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 41,
+      "hasStructuralAnalysis": true
+    },
+    "requirements.txt": {
+      "filePath": "requirements.txt",
+      "contentHash": "cb11ef487551995128af4a7b41557b74f0c52e60d939bf01113231b3131f4357",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 7,
+      "hasStructuralAnalysis": false
+    },
+    "skills-lock.json": {
+      "filePath": "skills-lock.json",
+      "contentHash": "28467d75e8251fbbca259e3da63c79ebb2fd0ced9bbfd1cef4bcd4e27557a34e",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 12,
+      "hasStructuralAnalysis": true
+    },
+    "specs/cicd-chat_1.md": {
+      "filePath": "specs/cicd-chat_1.md",
+      "contentHash": "1b336a5a04f28749f77dbd66ae39e896a685aa2966cf8e243bf679d41e9871cc",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 15,
+      "hasStructuralAnalysis": true
+    },
+    "specs/coding-standards.md": {
+      "filePath": "specs/coding-standards.md",
+      "contentHash": "42e1e24d363fb09fdc78179393aca7243575f895691ece19492c3ecf336e19a1",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 85,
+      "hasStructuralAnalysis": true
+    },
+    "specs/hooks_chat_1.md": {
+      "filePath": "specs/hooks_chat_1.md",
+      "contentHash": "9eab0b85ee4349b62cf30fb8c54467863bac4bc7ab39cfbebdc0cc44bba1a7ad",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 18,
+      "hasStructuralAnalysis": true
+    },
+    "specs/hooks-chat_2.md": {
+      "filePath": "specs/hooks-chat_2.md",
+      "contentHash": "df9b0b3c78c5026f69707142852c423604706ca11f8fe8bf77dbc2e0c2b88b99",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 21,
+      "hasStructuralAnalysis": true
+    },
+    "specs/mcp-chat_1.md": {
+      "filePath": "specs/mcp-chat_1.md",
+      "contentHash": "2fd0d9457209aa15676efb80a7c2b470e372d643b9ff55feee22bed0777560a2",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 16,
+      "hasStructuralAnalysis": true
+    },
+    "specs/mcp-chat_2.md": {
+      "filePath": "specs/mcp-chat_2.md",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "specs/mcp-chat_3.md": {
+      "filePath": "specs/mcp-chat_3.md",
+      "contentHash": "9f56e7758277405221e952163defaae19b5ebefca4b62f59b36edfc31730379b",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 13,
+      "hasStructuralAnalysis": true
+    },
+    "specs/project-gpt-vision.md": {
+      "filePath": "specs/project-gpt-vision.md",
+      "contentHash": "e30824c4cf30d9d770f61a19a8be42798c435fea99f8be7046ad5d1ed42e414e",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 526,
+      "hasStructuralAnalysis": true
+    },
+    "specs/project-vision.md": {
+      "filePath": "specs/project-vision.md",
+      "contentHash": "532e9dcdeb147689c55b8e8d80880361ec67ed9e4c8cb5469a65c6957410d58f",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 31,
+      "hasStructuralAnalysis": true
+    },
+    "specs/purpose.md": {
+      "filePath": "specs/purpose.md",
+      "contentHash": "f6f490213f81eb0b531d76a61ff47f9c12a6c5f2dce2597b7d8d6e3ae25bcb6b",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 92,
+      "hasStructuralAnalysis": true
+    },
+    "specs/router-chat_1.md": {
+      "filePath": "specs/router-chat_1.md",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "tests/conftest.py": {
+      "filePath": "tests/conftest.py",
+      "contentHash": "2cebf8cf9eaf35d3d27ccb7a97e0452703a1783ae7e0f88c62d2442cfa59bdfc",
+      "functions": [],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        }
+      ],
+      "exports": [],
+      "totalLines": 9,
+      "hasStructuralAnalysis": true
+    },
+    "tests/test_check_quality.py": {
+      "filePath": "tests/test_check_quality.py",
+      "contentHash": "d311cb94567be011acd3f42bf9ab60dd2dbfecf202866c9092bd1c6d3215fbc6",
+      "functions": [
+        {
+          "name": "_write_json",
+          "params": [
+            "path",
+            "data"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 2
+        },
+        {
+          "name": "high_quality_json_file",
+          "params": [
+            "tmp_path"
+          ],
+          "returnType": "Path",
+          "exported": true,
+          "lineCount": 14
+        },
+        {
+          "name": "low_quality_json_file",
+          "params": [
+            "tmp_path"
+          ],
+          "returnType": "Path",
+          "exported": true,
+          "lineCount": 14
+        },
+        {
+          "name": "mixed_json_dir",
+          "params": [
+            "tmp_path"
+          ],
+          "returnType": "Path",
+          "exported": true,
+          "lineCount": 24
+        },
+        {
+          "name": "test_check_quality_passes_for_high_quality_file",
+          "params": [
+            "high_quality_json_file",
+            "caplog"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 11
+        },
+        {
+          "name": "test_check_quality_fails_for_low_quality_file",
+          "params": [
+            "low_quality_json_file",
+            "caplog"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 12
+        },
+        {
+          "name": "test_check_quality_supports_glob_patterns",
+          "params": [
+            "mixed_json_dir",
+            "caplog"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 13
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "json",
+          "specifiers": [
+            "json"
+          ]
+        },
+        {
+          "source": "logging",
+          "specifiers": [
+            "logging"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pytest",
+          "specifiers": [
+            "pytest"
+          ]
+        },
+        {
+          "source": "hooks.check_quality",
+          "specifiers": [
+            "main"
+          ]
+        }
+      ],
+      "exports": [
+        "_write_json",
+        "high_quality_json_file",
+        "low_quality_json_file",
+        "mixed_json_dir",
+        "test_check_quality_passes_for_high_quality_file",
+        "test_check_quality_fails_for_low_quality_file",
+        "test_check_quality_supports_glob_patterns"
+      ],
+      "totalLines": 117,
+      "hasStructuralAnalysis": true
+    },
+    "tests/test_router.py": {
+      "filePath": "tests/test_router.py",
+      "contentHash": "6c175a0612f4973ba3222d01379798730399e6d6ee4b4a09a53514835f0093a6",
+      "functions": [
+        {
+          "name": "stub_router_dependencies",
+          "params": [
+            "monkeypatch"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 9
+        },
+        {
+          "name": "test_route_github_search",
+          "params": [
+            "monkeypatch",
+            "stub_router_dependencies"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 18
+        },
+        {
+          "name": "test_route_knowledge_query",
+          "params": [
+            "stub_router_dependencies"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "test_route_general_chat",
+          "params": [
+            "monkeypatch",
+            "stub_router_dependencies"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 7
+        }
+      ],
+      "classes": [
+        {
+          "name": "_FakeResponse",
+          "methods": [
+            "__init__",
+            "__enter__",
+            "__exit__",
+            "read"
+          ],
+          "properties": [],
+          "exported": true,
+          "lineCount": 12
+        }
+      ],
+      "imports": [
+        {
+          "source": "json",
+          "specifiers": [
+            "json"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pytest",
+          "specifiers": [
+            "pytest"
+          ]
+        },
+        {
+          "source": "patterns.router",
+          "specifiers": [
+            "router"
+          ]
+        }
+      ],
+      "exports": [
+        "_FakeResponse",
+        "stub_router_dependencies",
+        "test_route_github_search",
+        "test_route_knowledge_query",
+        "test_route_general_chat"
+      ],
+      "totalLines": 73,
+      "hasStructuralAnalysis": true
+    },
+    "tests/test_validate_json.py": {
+      "filePath": "tests/test_validate_json.py",
+      "contentHash": "a20babe4f76c7052cd6a74643cd18d9d713f50b067f76b52656213a02171c0ac",
+      "functions": [
+        {
+          "name": "_write_json",
+          "params": [
+            "path",
+            "data"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 3
+        },
+        {
+          "name": "sample_json_file",
+          "params": [
+            "tmp_path"
+          ],
+          "returnType": "Path",
+          "exported": true,
+          "lineCount": 15
+        },
+        {
+          "name": "invalid_json_file",
+          "params": [
+            "tmp_path"
+          ],
+          "returnType": "Path",
+          "exported": true,
+          "lineCount": 17
+        },
+        {
+          "name": "test_validate_json_passes_for_valid_file",
+          "params": [
+            "sample_json_file",
+            "caplog"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 11
+        },
+        {
+          "name": "test_validate_json_fails_for_invalid_file",
+          "params": [
+            "invalid_json_file",
+            "caplog"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 13
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "json",
+          "specifiers": [
+            "json"
+          ]
+        },
+        {
+          "source": "logging",
+          "specifiers": [
+            "logging"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pytest",
+          "specifiers": [
+            "pytest"
+          ]
+        },
+        {
+          "source": "hooks.validate_json",
+          "specifiers": [
+            "main"
+          ]
+        }
+      ],
+      "exports": [
+        "_write_json",
+        "sample_json_file",
+        "invalid_json_file",
+        "test_validate_json_passes_for_valid_file",
+        "test_validate_json_fails_for_invalid_file"
+      ],
+      "totalLines": 81,
+      "hasStructuralAnalysis": true
+    },
+    "utils/__init__.py": {
+      "filePath": "utils/__init__.py",
+      "contentHash": "27c5101bdb887b0063f6fc725a21e3c14e3655b4beb0f6627005a2d519182900",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 5,
+      "hasStructuralAnalysis": true
+    },
+    "utils/cursor_github_api.py": {
+      "filePath": "utils/cursor_github_api.py",
+      "contentHash": "063198404bd2bf10abb372dbec4f11d8dfb1fcb63425f3b366dc5479c9df3b8e",
+      "functions": [
+        {
+          "name": "get_repository_basic_info",
+          "params": [
+            "repo_full_name",
+            "token"
+          ],
+          "returnType": "dict[str, Any]",
+          "exported": true,
+          "lineCount": 39
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "logging",
+          "specifiers": [
+            "logging"
+          ]
+        },
+        {
+          "source": "typing",
+          "specifiers": [
+            "Any"
+          ]
+        },
+        {
+          "source": "requests",
+          "specifiers": [
+            "requests"
+          ]
+        }
+      ],
+      "exports": [
+        "get_repository_basic_info"
+      ],
+      "totalLines": 58,
+      "hasStructuralAnalysis": true
+    },
+    "utils/github_api.py": {
+      "filePath": "utils/github_api.py",
+      "contentHash": "ba0e4e0e3d0ebb3b2b45837d678145a8dfd6910041f7adef2dc90263c413baa7",
+      "functions": [
+        {
+          "name": "get_repo_info",
+          "params": [
+            "owner",
+            "repo",
+            "token",
+            "timeout"
+          ],
+          "returnType": "dict[str, Any]",
+          "exported": true,
+          "lineCount": 64
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "logging",
+          "specifiers": [
+            "logging"
+          ]
+        },
+        {
+          "source": "typing",
+          "specifiers": [
+            "Any"
+          ]
+        },
+        {
+          "source": "requests",
+          "specifiers": [
+            "requests"
+          ]
+        }
+      ],
+      "exports": [
+        "get_repo_info"
+      ],
+      "totalLines": 86,
+      "hasStructuralAnalysis": true
+    },
+    "workflows/model_client.py": {
+      "filePath": "workflows/model_client.py",
+      "contentHash": "34fa5c96c0fa6f80e45b9b8c0113a169c36fc2468921e0e19edc91b022b30eb4",
+      "functions": [
+        {
+          "name": "chat",
+          "params": [
+            "messages",
+            "model",
+            "temperature",
+            "max_tokens"
+          ],
+          "returnType": "tuple[str, Usage]",
+          "exported": true,
+          "lineCount": 15
+        },
+        {
+          "name": "chat_json",
+          "params": [
+            "messages",
+            "model",
+            "temperature",
+            "max_tokens"
+          ],
+          "returnType": "tuple[dict[str, Any], Usage]",
+          "exported": true,
+          "lineCount": 11
+        },
+        {
+          "name": "_parse_json",
+          "params": [
+            "text"
+          ],
+          "returnType": "dict[str, Any]",
+          "exported": true,
+          "lineCount": 28
+        },
+        {
+          "name": "estimate_usage",
+          "params": [
+            "prompt",
+            "completion"
+          ],
+          "returnType": "Usage",
+          "exported": true,
+          "lineCount": 4
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "json",
+          "specifiers": [
+            "json"
+          ]
+        },
+        {
+          "source": "typing",
+          "specifiers": [
+            "Any",
+            "Sequence"
+          ]
+        }
+      ],
+      "exports": [
+        "chat",
+        "chat_json",
+        "_parse_json",
+        "estimate_usage"
+      ],
+      "totalLines": 105,
+      "hasStructuralAnalysis": true
+    }
+  }
+}

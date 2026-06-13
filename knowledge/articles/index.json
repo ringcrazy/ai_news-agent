@@ -1,0 +1,1775 @@
+﻿{
+    "generated_at":  "2026-06-04T15:38:16.0518983+08:00",
+    "article_count":  111,
+    "articles":  [
+                     {
+                         "id":  "2026-06-01-github-academic-research-skills",
+                         "title":  "academic-research-skills: Claude Code 瀛︽湳鐮旂┒宸ヤ綔娴?,\n  ",
+                         "source":  "github-trending",
+                         "source_url":  "https://github.com/Imbad0202/academic-research-skills",
+                         "collected_at":  "2026-06-01T00:00:00Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "claude-code",
+                                      "academic",
+                                      "research",
+                                      "skill-bundle"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-01-github-trending-academic-research-skills.json"
+                     },
+                     {
+                         "id":  "2026-06-01-github-agentmemory",
+                         "title":  "agentmemory: AI Agent 璺ㄤ細璇濇寔涔呰蹇?,\n  ",
+                         "source":  "github-trending",
+                         "source_url":  "https://github.com/rohitg00/agentmemory",
+                         "collected_at":  "2026-06-01T00:00:00Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "agent-memory",
+                                      "mcp",
+                                      "session-persistence",
+                                      "typescript"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-01-github-trending-agentmemory.json"
+                     },
+                     {
+                         "id":  "2026-06-01-github-ai-engineering-from-scratch",
+                         "title":  "ai-engineering-from-scratch: AI 宸ョ▼瀹炴垬璇剧▼",
+                         "source":  "github-trending",
+                         "source_url":  "https://github.com/rohitg00/ai-engineering-from-scratch",
+                         "collected_at":  "2026-06-01T00:00:00Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "ai-education",
+                                      "curriculum",
+                                      "mcp",
+                                      "course"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-01-github-trending-ai-engineering-from-scratch.json"
+                     },
+                     {
+                         "id":  "2026-06-01-github-cli-anything",
+                         "title":  "CLI-Anything: 璁╀换鎰忚蒋浠?Agent-Native",
+                         "source":  "github-trending",
+                         "source_url":  "https://github.com/HKUDS/CLI-Anything",
+                         "collected_at":  "2026-06-01T00:00:00Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "cli",
+                                      "agent-tooling",
+                                      "skill-generation",
+                                      "automation"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-01-github-trending-cli-anything.json"
+                     },
+                     {
+                         "id":  "2026-06-01-github-codegraph",
+                         "title":  "codegraph: 涓?AI Agent 棰勬瀯寤虹殑鏈湴浠ｇ爜鐭ヨ瘑鍥捐氨",
+                         "source":  "github-trending",
+                         "source_url":  "https://github.com/colbymchenry/codegraph",
+                         "collected_at":  "2026-06-01T00:00:00Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "code-graph",
+                                      "mcp",
+                                      "claude-code",
+                                      "local-first",
+                                      "developer-tools"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-01-github-trending-codegraph.json"
+                     },
+                     {
+                         "id":  "2026-06-01-github-knowledge-work-plugins",
+                         "title":  "knowledge-work-plugins: Anthropic 瀹樻柟鐭ヨ瘑宸ヤ綔鎻掍欢闆?,\n  ",
+                         "source":  "github-trending",
+                         "source_url":  "https://github.com/anthropics/knowledge-work-plugins",
+                         "collected_at":  "2026-06-01T00:00:00Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "anthropic",
+                                      "claude",
+                                      "plugins",
+                                      "enterprise",
+                                      "official"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-01-github-trending-knowledge-work-plugins.json"
+                     },
+                     {
+                         "id":  "2026-06-01-github-openhuman",
+                         "title":  "openhuman: 鏈湴浼樺厛鐨勪釜浜?AI 鍔╃悊",
+                         "source":  "github-trending",
+                         "source_url":  "https://github.com/tinyhumansai/openhuman",
+                         "collected_at":  "2026-06-01T00:00:00Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "personal-ai",
+                                      "local-first",
+                                      "rust",
+                                      "memory",
+                                      "desktop-agent"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-01-github-trending-openhuman.json"
+                     },
+                     {
+                         "id":  "2026-06-01-github-ruview",
+                         "title":  "RuView: 鍩轰簬 WiFi 淇″彿鐨勭┖闂存劅鐭?,\n  ",
+                         "source":  "github-trending",
+                         "source_url":  "https://github.com/ruvnet/RuView",
+                         "collected_at":  "2026-06-01T00:00:00Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "wifi-sensing",
+                                      "iot",
+                                      "health-monitoring",
+                                      "edge-ai"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-01-github-trending-ruview.json"
+                     },
+                     {
+                         "id":  "2026-06-01-github-understand-anything",
+                         "title":  "Understand-Anything: 浠ｇ爜搴撲氦浜掑紡鐭ヨ瘑鍥捐氨",
+                         "source":  "github-trending",
+                         "source_url":  "https://github.com/Lum1104/Understand-Anything",
+                         "collected_at":  "2026-06-01T00:00:00Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "code-onboarding",
+                                      "code-visualization",
+                                      "knowledge-graph",
+                                      "developer-tools"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-01-github-trending-understand-anything.json"
+                     },
+                     {
+                         "id":  "2026-06-01-github-vimax",
+                         "title":  "ViMax: 澶?Agent 鍗忎綔鐨勯暱瑙嗛鐢熸垚妗嗘灦",
+                         "source":  "github-trending",
+                         "source_url":  "https://github.com/HKUDS/ViMax",
+                         "collected_at":  "2026-06-01T00:00:00Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "video-generation",
+                                      "multi-agent",
+                                      "creative-ai",
+                                      "long-form-video"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-01-github-trending-vimax.json"
+                     },
+                     {
+                         "id":  "2026-06-02-0dadf1e941",
+                         "title":  "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.00007",
+                         "collected_at":  "2026-06-02T09:14:07Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鍗忎綔",
+                                      "鍗忚",
+                                      "澶氭櫤鑳戒綋绯荤粺",
+                                      "鐭ヨ瘑搴?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-0dadf1e941.json"
+                     },
+                     {
+                         "id":  "2026-06-02-0ee82cf42b",
+                         "title":  "langflow-ai/langflow",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/langflow-ai/langflow",
+                         "collected_at":  "2026-06-02T09:14:01Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI",
+                                      "agent",
+                                      "langflow",
+                                      "workflow"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-0ee82cf42b.json"
+                     },
+                     {
+                         "id":  "2026-06-02-2046f5e50f",
+                         "title":  "obra/superpowers",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/obra/superpowers",
+                         "collected_at":  "2026-06-02T09:13:44Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI agent",
+                                      "framework",
+                                      "methodology",
+                                      "software development"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-2046f5e50f.json"
+                     },
+                     {
+                         "id":  "2026-06-02-21aa595c3a",
+                         "title":  "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.00017",
+                         "collected_at":  "2026-06-02T09:14:13Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "MindGames Arena",
+                                      "濂栧姳褰掑洜",
+                                      "寮哄寲瀛︿範"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-21aa595c3a.json"
+                     },
+                     {
+                         "id":  "2026-06-02-3429c7218e",
+                         "title":  "affaan-m/ECC",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/affaan-m/ECC",
+                         "collected_at":  "2026-06-02T09:13:46Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI Agent",
+                                      "Claude Code",
+                                      "瀹夊叏",
+                                      "鎬ц兘浼樺寲",
+                                      "缂栫▼鍔╂墜"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-3429c7218e.json"
+                     },
+                     {
+                         "id":  "2026-06-02-54da284266",
+                         "title":  "Product-Aware Deep Autoencoders for Robust Process Monitoring in Multi-Product Cyber-Physical Systems",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.00052",
+                         "collected_at":  "2026-06-02T09:14:19Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "淇℃伅鐗╃悊绯荤粺",
+                                      "澶氫骇鍝佺郴缁?,\r\n    ",
+                                      "娣卞害鑷紪鐮佸櫒",
+                                      "杩囩▼鐩戞帶"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-54da284266.json"
+                     },
+                     {
+                         "id":  "2026-06-02-930dd1342c",
+                         "title":  "NousResearch/hermes-agent",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/NousResearch/hermes-agent",
+                         "collected_at":  "2026-06-02T09:13:52Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI Agent",
+                                      "GitHub",
+                                      "NousResearch",
+                                      "寮€婧?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-930dd1342c.json"
+                     },
+                     {
+                         "id":  "2026-06-02-991cb8c748",
+                         "title":  "Significant-Gravitas/AutoGPT",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/Significant-Gravitas/AutoGPT",
+                         "collected_at":  "2026-06-02T09:13:50Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI Agent",
+                                      "AutoGPT",
+                                      "GitHub Trending",
+                                      "寮€婧?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-991cb8c748.json"
+                     },
+                     {
+                         "id":  "2026-06-02-ac5e53e43a",
+                         "title":  "Optimal Transport-based Permutation-Invariant Bayesian Optimization of Offshore Wind Farm Layouts",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.00009",
+                         "collected_at":  "2026-06-02T09:14:11Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "甯冨眬浼樺寲",
+                                      "鏈€浼樹紶杈?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-ac5e53e43a.json"
+                     },
+                     {
+                         "id":  "2026-06-02-adbef724cb",
+                         "title":  "anomalyco/opencode",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/anomalyco/opencode",
+                         "collected_at":  "2026-06-02T09:13:54Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI缂栫爜浠ｇ悊",
+                                      "浠ｇ爜鐢熸垚",
+                                      "寮€婧?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-adbef724cb.json"
+                     },
+                     {
+                         "id":  "2026-06-02-b6773085f1",
+                         "title":  "multica-ai/andrej-karpathy-skills",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/multica-ai/andrej-karpathy-skills",
+                         "collected_at":  "2026-06-02T09:13:56Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI",
+                                      "Claude Code",
+                                      "LLM",
+                                      "coding assistant",
+                                      "prompt engineering"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-b6773085f1.json"
+                     },
+                     {
+                         "id":  "2026-06-02-bc7e30acf5",
+                         "title":  "Grokers: Bottom-Up Inductive Comprehension and Write-Time Intelligence over Typed Knowledge Graphs",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.00050",
+                         "collected_at":  "2026-06-02T09:14:17Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "浜哄伐鏅鸿兘",
+                                      "褰掔撼鎺ㄧ悊",
+                                      "鐭ヨ瘑鍥捐氨",
+                                      "鐭ヨ瘑琛ㄧず"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-bc7e30acf5.json"
+                     },
+                     {
+                         "id":  "2026-06-02-c6fd25b449",
+                         "title":  "openclaw/openclaw",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/openclaw/openclaw",
+                         "collected_at":  "2026-06-02T09:13:42Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鍔╂墜",
+                                      "涓汉鍔╂墜",
+                                      "寮€婧?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-c6fd25b449.json"
+                     },
+                     {
+                         "id":  "2026-06-02-cad705b8ac",
+                         "title":  "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.00002",
+                         "collected_at":  "2026-06-02T09:14:03Z",
+                         "summary":  "```json\\n{\\n  \\\"summary\\\": \\\"璇ヨ鏂囨帰璁ㄤ簡鍐崇瓥寮曟搸鍦ㄦ眰瑙ｅ悗瀵规壈鍔ㄧ殑椴佹鎬э紝鎻愬嚭浜嗗彲琛屽煙鍜屽钩婊戝害鐨勬蹇碉紝鏃ㄥ湪澧炲己AI绯荤粺鍦ㄤ笉纭畾鐜涓嬬殑绋冲畾鎬у拰鍙潬鎬с€俓\",\\n  \\\"relevance_",
+                         "tags":  [
+                                      "7",
+                                      "ai",
+                                      "json",
+                                      "relevance_score",
+                                      "summary"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-cad705b8ac.json"
+                     },
+                     {
+                         "id":  "2026-06-02-d9c52ff202",
+                         "title":  "On the evolution of the concept of probability as a mirror of the evolution of reason",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.00102",
+                         "collected_at":  "2026-06-02T09:14:21Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鍩虹",
+                                      "鍝插",
+                                      "姒傜巼"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-d9c52ff202.json"
+                     },
+                     {
+                         "id":  "2026-06-02-da97eba9a0",
+                         "title":  "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.00008",
+                         "collected_at":  "2026-06-02T09:14:09Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "鍒嗗瓙浼樺寲",
+                                      "澶氱洰鏍囦紭鍖?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-da97eba9a0.json"
+                     },
+                     {
+                         "id":  "2026-06-02-e0ccb596df",
+                         "title":  "Snailclimb/JavaGuide",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/Snailclimb/JavaGuide",
+                         "collected_at":  "2026-06-02T09:13:59Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "Java",
+                                      "鍒嗗竷寮?,\r\n    ",
+                                      "绯荤粺璁捐",
+                                      "闈㈣瘯鎸囧崡"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-e0ccb596df.json"
+                     },
+                     {
+                         "id":  "2026-06-02-e97d0aef32",
+                         "title":  "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.00005",
+                         "collected_at":  "2026-06-02T09:14:05Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鍗忚",
+                                      "鍗忎綔鎺ㄧ悊",
+                                      "澶氭ā鍨嬬郴缁?,\r\n    ",
+                                      "鐭ヨ瘑缁煎悎"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-e97d0aef32.json"
+                     },
+                     {
+                         "id":  "2026-06-02-f791d596ac",
+                         "title":  "n8n-io/n8n",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/n8n-io/n8n",
+                         "collected_at":  "2026-06-02T09:13:48Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI闆嗘垚",
+                                      "浣庝唬鐮?,\r\n    ",
+                                      ",\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-f791d596ac.json"
+                     },
+                     {
+                         "id":  "2026-06-02-f90b43b3bd",
+                         "title":  "Universal Quantum Transformer",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.00045",
+                         "collected_at":  "2026-06-02T09:14:15Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "Transformer",
+                                      "鏈哄櫒瀛︿範",
+                                      "閲忓瓙娉ㄦ剰鍔?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-02-f90b43b3bd.json"
+                     },
+                     {
+                         "id":  "2026-06-03-0ee82cf42b",
+                         "title":  "langflow-ai/langflow",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/langflow-ai/langflow",
+                         "collected_at":  "2026-06-03T13:03:02Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI",
+                                      "GitHub",
+                                      "agent",
+                                      "low-code",
+                                      "workflow"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-0ee82cf42b.json"
+                     },
+                     {
+                         "id":  "2026-06-03-10ba719313",
+                         "title":  "anthropics/skills",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/anthropics/skills",
+                         "collected_at":  "2026-06-03T13:03:04Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI",
+                                      "Agent Skills",
+                                      "Anthropic",
+                                      "GitHub"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-10ba719313.json"
+                     },
+                     {
+                         "id":  "2026-06-03-110b88cf00",
+                         "title":  "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02791",
+                         "collected_at":  "2026-06-03T13:03:26Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "LSTM",
+                                      "Transformer",
+                                      "鏃犳祴绔欐祦鍩?,\r\n    ",
+                                      ",\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-110b88cf00.json"
+                     },
+                     {
+                         "id":  "2026-06-03-18cd9a16bb",
+                         "title":  "open-webui/open-webui",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/open-webui/open-webui",
+                         "collected_at":  "2026-06-03T13:03:07Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鐣岄潰",
+                                      "GitHub",
+                                      "Ollama",
+                                      "OpenAI API"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-18cd9a16bb.json"
+                     },
+                     {
+                         "id":  "2026-06-03-2046f5e50f",
+                         "title":  "obra/superpowers",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/obra/superpowers",
+                         "collected_at":  "2026-06-03T13:02:48Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI Development",
+                                      "Agentic Framework",
+                                      "GitHub Trending",
+                                      "Software Methodology"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-2046f5e50f.json"
+                     },
+                     {
+                         "id":  "2026-06-03-2156fa8788",
+                         "title":  "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02673",
+                         "collected_at":  "2026-06-03T13:03:23Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "鍥剧缁忕綉缁?,\r\n    ",
+                                      ",\r\n    ",
+                                      ",\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-2156fa8788.json"
+                     },
+                     {
+                         "id":  "2026-06-03-22029c8b5c",
+                         "title":  "When Helping Hurts and How to Fix It: Multi-Agent Debate for Data Cleaning",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02866",
+                         "collected_at":  "2026-06-03T13:03:42Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI",
+                                      "澶氭櫤鑳戒綋绯荤粺",
+                                      "鏁版嵁娓呮礂",
+                                      "杈╄鏈哄埗"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-22029c8b5c.json"
+                     },
+                     {
+                         "id":  "2026-06-03-24273eb40d",
+                         "title":  "What Benchmarks Don\u0027t Measure: The Case for Evaluating Abstention Competence in Autonomous Agents",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02965",
+                         "collected_at":  "2026-06-03T13:03:48Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鍙潬鎬?,\r\n    ",
+                                      ",\r\n    ",
+                                      ",\r\n    ",
+                                      "璇勪及鏂规硶"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-24273eb40d.json"
+                     },
+                     {
+                         "id":  "2026-06-03-2f4fb6238f",
+                         "title":  "langchain-ai/langchain",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/langchain-ai/langchain",
+                         "collected_at":  "2026-06-03T13:03:12Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI Agent",
+                                      "GitHub",
+                                      "LLM",
+                                      "LangChain"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-2f4fb6238f.json"
+                     },
+                     {
+                         "id":  "2026-06-03-3429c7218e",
+                         "title":  "affaan-m/ECC",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/affaan-m/ECC",
+                         "collected_at":  "2026-06-03T13:02:50Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI浠ｇ悊",
+                                      "Claude Code",
+                                      "寮€鍙戝伐鍏?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-3429c7218e.json"
+                     },
+                     {
+                         "id":  "2026-06-03-3ae1fba7cd",
+                         "title":  "Handoff Debt: The Rediscovery Cost When Coding Agents Take Over Interrupted Tasks",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02875",
+                         "collected_at":  "2026-06-03T13:03:44Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鏁堢巼",
+                                      "涓婁笅鏂囨仮澶?,\r\n    ",
+                                      ",\r\n    ",
+                                      ",\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-3ae1fba7cd.json"
+                     },
+                     {
+                         "id":  "2026-06-03-4a2be7024e",
+                         "title":  "WISE-HAR: A Generalizable Ensemble Deep Learning Framework for WiFi-Based Human Activity Recognition",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02974",
+                         "collected_at":  "2026-06-03T13:03:50Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "WiFi鎰熺煡",
+                                      "浜轰綋娲诲姩璇嗗埆",
+                                      "娉涘寲",
+                                      "娣卞害瀛︿範",
+                                      "闆嗘垚瀛︿範"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-4a2be7024e.json"
+                     },
+                     {
+                         "id":  "2026-06-03-4a3fee2745",
+                         "title":  "Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02812",
+                         "collected_at":  "2026-06-03T13:03:32Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鍖荤枟",
+                                      "澶氭櫤鑳戒綋绯荤粺",
+                                      "鎮ｈ€呰建杩瑰缓妯?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-4a3fee2745.json"
+                     },
+                     {
+                         "id":  "2026-06-03-6bc487325a",
+                         "title":  "An Exploration of Collision-based Enemy Morphology Generation",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02832",
+                         "collected_at":  "2026-06-03T13:03:34Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "鏁屼汉褰㈡€佺敓鎴?,\r\n    ",
+                                      ",\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-6bc487325a.json"
+                     },
+                     {
+                         "id":  "2026-06-03-7957e8ba23",
+                         "title":  "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02802",
+                         "collected_at":  "2026-06-03T13:03:30Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "涓村簥鎺ㄧ悊",
+                                      "鍖荤枟AI",
+                                      "澶ц瑷€妯″瀷",
+                                      "瀵归綈",
+                                      "鐢靛瓙鍋ュ悍璁板綍"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-7957e8ba23.json"
+                     },
+                     {
+                         "id":  "2026-06-03-7d8321c30b",
+                         "title":  "ggml-org/llama.cpp",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/ggml-org/llama.cpp",
+                         "collected_at":  "2026-06-03T13:03:15Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "C++",
+                                      "LLM",
+                                      "inference",
+                                      "local deployment",
+                                      "quantization"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-7d8321c30b.json"
+                     },
+                     {
+                         "id":  "2026-06-03-8ffcba1e1b",
+                         "title":  "ToolGate: Token-Efficient Pre-Call Control for Tool-Augmented Vision-Language Agents",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.03054",
+                         "collected_at":  "2026-06-03T13:03:59Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI浠ｇ悊",
+                                      "浠ょ墝鏁堢巼",
+                                      "宸ュ叿澧炲己",
+                                      "瑙嗚璇█浠ｇ悊"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-8ffcba1e1b.json"
+                     },
+                     {
+                         "id":  "2026-06-03-930dd1342c",
+                         "title":  "NousResearch/hermes-agent",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/NousResearch/hermes-agent",
+                         "collected_at":  "2026-06-03T13:02:55Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI Agent",
+                                      "GitHub",
+                                      "NousResearch",
+                                      "寮€婧?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-930dd1342c.json"
+                     },
+                     {
+                         "id":  "2026-06-03-97c1a52e1c",
+                         "title":  "microsoft/generative-ai-for-beginners",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/microsoft/generative-ai-for-beginners",
+                         "collected_at":  "2026-06-03T13:03:19Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "GitHub",
+                                      "Microsoft",
+                                      "鍒濆鑰?,\r\n    ",
+                                      ",\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-97c1a52e1c.json"
+                     },
+                     {
+                         "id":  "2026-06-03-991cb8c748",
+                         "title":  "Significant-Gravitas/AutoGPT",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/Significant-Gravitas/AutoGPT",
+                         "collected_at":  "2026-06-03T13:02:53Z",
+                         "summary":  "```json\\n{\\n  \\\"summary\\\": \\\"AutoGPT 鑷村姏浜庤 AI 浜轰汉鍙敤锛屾彁渚涘伐鍏峰拰骞冲彴锛屼娇鐢ㄦ埛鑳戒笓娉ㄤ簬鏋勫缓鍜岃繍鐢?AI 鏅鸿兘浣撱€俓\",\\n  \\\"relevance_score\\\": 9,",
+                         "tags":  [
+                                      "ai",
+                                      "autogpt",
+                                      "json",
+                                      "summary"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-991cb8c748.json"
+                     },
+                     {
+                         "id":  "2026-06-03-9bf5e67a4e",
+                         "title":  "Inducing Reasoning Primitives from Agent Traces",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02994",
+                         "collected_at":  "2026-06-03T13:03:52Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "鍙В閲夾I",
+                                      "鎺ㄧ悊鍘熻",
+                                      "鏅鸿兘浣撹建杩?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-9bf5e67a4e.json"
+                     },
+                     {
+                         "id":  "2026-06-03-9c241fb43b",
+                         "title":  "anthropics/claude-code",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/anthropics/claude-code",
+                         "collected_at":  "2026-06-03T13:03:13Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI缂栫▼鍔╂墜",
+                                      "Git宸ヤ綔娴?,\r\n    ",
+                                      ",\r\n    ",
+                                      ",\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-9c241fb43b.json"
+                     },
+                     {
+                         "id":  "2026-06-03-9d94ec5e55",
+                         "title":  "Large AI Models in Dental Healthcare: From General-Purpose Systems to Domain-Specific Foundation Models",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02914",
+                         "collected_at":  "2026-06-03T13:03:46Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI",
+                                      "鍖荤枟褰卞儚",
+                                      "鍩虹妯″瀷",
+                                      "澶ц瑷€妯″瀷",
+                                      "鐗欑"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-9d94ec5e55.json"
+                     },
+                     {
+                         "id":  "2026-06-03-adbef724cb",
+                         "title":  "anomalyco/opencode",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/anomalyco/opencode",
+                         "collected_at":  "2026-06-03T13:02:57Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI Agent",
+                                      "寮€婧?,\r\n    ",
+                                      ",\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-adbef724cb.json"
+                     },
+                     {
+                         "id":  "2026-06-03-b2bf756188",
+                         "title":  "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02798",
+                         "collected_at":  "2026-06-03T13:03:28Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鍩哄噯",
+                                      "BehaviorBench",
+                                      "浜烘満浜や簰",
+                                      "鍐崇瓥妯℃嫙",
+                                      "鐢ㄦ埛琛屼负寤烘ā"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-b2bf756188.json"
+                     },
+                     {
+                         "id":  "2026-06-03-b409dc7b84",
+                         "title":  "Shubhamsaboo/awesome-llm-apps",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/Shubhamsaboo/awesome-llm-apps",
+                         "collected_at":  "2026-06-03T13:03:17Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI Agent",
+                                      "GitHub",
+                                      "LLM搴旂敤",
+                                      "RAG"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-b409dc7b84.json"
+                     },
+                     {
+                         "id":  "2026-06-03-b5932ec201",
+                         "title":  "x1xhlol/system-prompts-and-models-of-ai-tools",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+                         "collected_at":  "2026-06-03T13:03:09Z",
+                         "summary":  "```json\\n{\\n  \\\"summary\\\": \\\"璇ヤ粨搴撴眹鎬讳簡25+娆続I宸ュ叿鐨勭郴缁熸彁绀鸿瘝銆佸唴閮ㄥ伐鍏峰強妯″瀷淇℃伅锛屽寘鎷珻laude Code銆丆ursor銆丏evin AI绛夌煡鍚嶉」鐩紝閮ㄥ垎涓哄紑婧愶紝鏃ㄥ湪鎻愪緵",
+                         "tags":  [
+                                      "25",
+                                      "ai",
+                                      "claude",
+                                      "json",
+                                      "summary"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-b5932ec201.json"
+                     },
+                     {
+                         "id":  "2026-06-03-b6773085f1",
+                         "title":  "multica-ai/andrej-karpathy-skills",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/multica-ai/andrej-karpathy-skills",
+                         "collected_at":  "2026-06-03T13:02:58Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "Andrej Karpathy",
+                                      "CLAUDE.md",
+                                      "Claude Code",
+                                      "LLM",
+                                      "缂栫爜浼樺寲"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-b6773085f1.json"
+                     },
+                     {
+                         "id":  "2026-06-03-c5c5b1805f",
+                         "title":  "AUDITFLOW: Executable Symbolic Environments for Structured Financial Reporting Verification",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.03031",
+                         "collected_at":  "2026-06-03T13:03:53Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "绗﹀彿鎵ц",
+                                      "鑷姩鍖栭獙璇?,\r\n    ",
+                                      ",\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-c5c5b1805f.json"
+                     },
+                     {
+                         "id":  "2026-06-03-c6fd25b449",
+                         "title":  "openclaw/openclaw",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/openclaw/openclaw",
+                         "collected_at":  "2026-06-03T13:02:46Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鍔╂墜",
+                                      "涓汉鍔╃悊",
+                                      "寮€婧?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-c6fd25b449.json"
+                     },
+                     {
+                         "id":  "2026-06-03-cda844a5bb",
+                         "title":  "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02775",
+                         "collected_at":  "2026-06-03T13:03:24Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "鍔ㄤ綔闂ㄦ帶璁板繂",
+                                      "搴忓垪澶勭悊",
+                                      "鏄惧瓨浼樺寲"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-cda844a5bb.json"
+                     },
+                     {
+                         "id":  "2026-06-03-d03b139101",
+                         "title":  "Thinking Past the Answer: Evaluating Harmful Overthinking in Large Reasoning Models",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02835",
+                         "collected_at":  "2026-06-03T13:03:36Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI safety",
+                                      "harmful output",
+                                      "large language models",
+                                      "reasoning"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-d03b139101.json"
+                     },
+                     {
+                         "id":  "2026-06-03-d103c89de9",
+                         "title":  "RelGT-AC: A Relational Graph Transformer for Autocomplete Tasks in Relational Databases",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.03040",
+                         "collected_at":  "2026-06-03T13:03:57Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI",
+                                      "Transformer",
+                                      "鍏崇郴鍥?,\r\n    ",
+                                      "鑷姩琛ュ叏"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-d103c89de9.json"
+                     },
+                     {
+                         "id":  "2026-06-03-d5830782f2",
+                         "title":  "Don\u0027t Gamble, GAMBLe: An Analytical Framework for AI-Driven Research Systems",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02863",
+                         "collected_at":  "2026-06-03T13:03:39Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鐮旂┒",
+                                      "arXiv",
+                                      "鍐崇瓥妗嗘灦",
+                                      "椋庨櫓绠＄悊"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-d5830782f2.json"
+                     },
+                     {
+                         "id":  "2026-06-03-da3220666e",
+                         "title":  "langgenius/dify",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/langgenius/dify",
+                         "collected_at":  "2026-06-03T13:03:05Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI",
+                                      "agent",
+                                      "open source",
+                                      "platform",
+                                      "workflow"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-da3220666e.json"
+                     },
+                     {
+                         "id":  "2026-06-03-e0ccb596df",
+                         "title":  "Snailclimb/JavaGuide",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/Snailclimb/JavaGuide",
+                         "collected_at":  "2026-06-03T13:03:00Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "Java",
+                                      "鍒嗗竷寮忕郴缁?,\r\n    ",
+                                      "闈㈣瘯鎸囧崡"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-e0ccb596df.json"
+                     },
+                     {
+                         "id":  "2026-06-03-e1c02e2cf1",
+                         "title":  "TriEval: A Resource-Efficient Pipeline for LLM Bias, Toxicity, and Truthfulness Assessment",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.03036",
+                         "collected_at":  "2026-06-03T13:03:55Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "LLM璇勪及",
+                                      "鍋忚妫€娴?,\r\n    ",
+                                      "鐪熷疄鎬ц瘎浼?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-e1c02e2cf1.json"
+                     },
+                     {
+                         "id":  "2026-06-03-ec643c90ac",
+                         "title":  "msitarzewski/agency-agents",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/msitarzewski/agency-agents",
+                         "collected_at":  "2026-06-03T13:03:21Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI浠ｇ悊",
+                                      "GitHub",
+                                      "澶氫唬鐞嗙郴缁?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-ec643c90ac.json"
+                     },
+                     {
+                         "id":  "2026-06-03-f76e934fd1",
+                         "title":  "Toward a Modular Architecture for Embedded AI Agent Systems at the Edge",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02862",
+                         "collected_at":  "2026-06-03T13:03:37Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI浠ｇ悊",
+                                      "宓屽叆寮廇I",
+                                      "妯″潡鍖栨灦鏋?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-f76e934fd1.json"
+                     },
+                     {
+                         "id":  "2026-06-03-f791d596ac",
+                         "title":  "n8n-io/n8n",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/n8n-io/n8n",
+                         "collected_at":  "2026-06-03T13:02:51Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI",
+                                      "fair-code",
+                                      "宸ヤ綔娴佽嚜鍔ㄥ寲",
+                                      "鑷墭绠?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-03-f791d596ac.json"
+                     },
+                     {
+                         "id":  "2026-06-04-0ee82cf42b",
+                         "title":  "langflow-ai/langflow",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/langflow-ai/langflow",
+                         "collected_at":  "2026-06-04T02:55:44Z",
+                         "summary":  "```json\\n{\\n  \\\"summary\\\": \\\"Langflow 鏄竴涓敤浜庢瀯寤哄拰閮ㄧ讲 AI 鏅鸿兘浣撲笌宸ヤ綔娴佺殑寮哄ぇ鍙鍖栧伐鍏凤紝鏀寔浣庝唬鐮佸紑鍙戝拰澶氱妯″瀷闆嗘垚銆俓\",\\n  \\\"relevance_score\\\"",
+                         "tags":  [
+                                      "ai",
+                                      "json",
+                                      "langflow",
+                                      "relevance_score",
+                                      "summary"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-0ee82cf42b.json"
+                     },
+                     {
+                         "id":  "2026-06-04-10ba719313",
+                         "title":  "anthropics/skills",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/anthropics/skills",
+                         "collected_at":  "2026-06-04T02:55:45Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI Agent",
+                                      "Anthropic",
+                                      "GitHub",
+                                      "Skills"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-10ba719313.json"
+                     },
+                     {
+                         "id":  "2026-06-04-110b88cf00",
+                         "title":  "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02791",
+                         "collected_at":  "2026-06-04T02:56:09Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "Deep Learning",
+                                      "Hydrological Prediction",
+                                      "LSTM",
+                                      "Transformer",
+                                      "Ungauged Basins"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-110b88cf00.json"
+                     },
+                     {
+                         "id":  "2026-06-04-18cd9a16bb",
+                         "title":  "open-webui/open-webui",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/open-webui/open-webui",
+                         "collected_at":  "2026-06-04T02:55:49Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鐣岄潰",
+                                      "Ollama",
+                                      "OpenAI",
+                                      "寮€婧?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-18cd9a16bb.json"
+                     },
+                     {
+                         "id":  "2026-06-04-2046f5e50f",
+                         "title":  "obra/superpowers",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/obra/superpowers",
+                         "collected_at":  "2026-06-04T02:55:29Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI浠ｇ悊",
+                                      "agentic",
+                                      "鎶€鑳芥鏋?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-2046f5e50f.json"
+                     },
+                     {
+                         "id":  "2026-06-04-2156fa8788",
+                         "title":  "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02673",
+                         "collected_at":  "2026-06-04T02:56:06Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "Graph Scaffolds",
+                                      "Large Language Models",
+                                      "Structural Reasoning",
+                                      "Visual Reasoning"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-2156fa8788.json"
+                     },
+                     {
+                         "id":  "2026-06-04-22029c8b5c",
+                         "title":  "When Helping Hurts and How to Fix It: Multi-Agent Debate for Data Cleaning",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02866",
+                         "collected_at":  "2026-06-04T02:56:24Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI",
+                                      "Data Cleaning",
+                                      "Debate",
+                                      "Multi-Agent"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-22029c8b5c.json"
+                     },
+                     {
+                         "id":  "2026-06-04-24273eb40d",
+                         "title":  "What Benchmarks Don\u0027t Measure: The Case for Evaluating Abstention Competence in Autonomous Agents",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02965",
+                         "collected_at":  "2026-06-04T02:56:31Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI瀹夊叏",
+                                      "鍩哄噯娴嬭瘯",
+                                      "寮冩潈鑳藉姏",
+                                      "鑷富鏅鸿兘浣?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-24273eb40d.json"
+                     },
+                     {
+                         "id":  "2026-06-04-2f4fb6238f",
+                         "title":  "langchain-ai/langchain",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/langchain-ai/langchain",
+                         "collected_at":  "2026-06-04T02:55:53Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI Agent",
+                                      "GitHub Trending",
+                                      "LLM",
+                                      "LangChain"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-2f4fb6238f.json"
+                     },
+                     {
+                         "id":  "2026-06-04-3429c7218e",
+                         "title":  "affaan-m/ECC",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/affaan-m/ECC",
+                         "collected_at":  "2026-06-04T02:55:31Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI浠ｇ悊",
+                                      "瀹夊叏",
+                                      "鎬ц兘浼樺寲",
+                                      "缂栫爜鍔╂墜",
+                                      "璁板繂绯荤粺"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-3429c7218e.json"
+                     },
+                     {
+                         "id":  "2026-06-04-3ae1fba7cd",
+                         "title":  "Handoff Debt: The Rediscovery Cost When Coding Agents Take Over Interrupted Tasks",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02875",
+                         "collected_at":  "2026-06-04T02:56:26Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI杞欢寮€鍙?,\r\n    ",
+                                      ",\r\n    ",
+                                      ",\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-3ae1fba7cd.json"
+                     },
+                     {
+                         "id":  "2026-06-04-4a2be7024e",
+                         "title":  "WISE-HAR: A Generalizable Ensemble Deep Learning Framework for WiFi-Based Human Activity Recognition",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02974",
+                         "collected_at":  "2026-06-04T02:56:33Z",
+                         "summary":  "```json\\n{\\n  \\\"summary\\\": \\\"WISE-HAR鎻愬嚭浜嗕竴绉嶅熀浜嶹iFi淇″彿鐨勪汉绫绘椿鍔ㄨ瘑鍒€氱敤闆嗘垚娣卞害瀛︿範妗嗘灦锛岄€氳繃澧炲己娉涘寲鑳藉姏锛岃В鍐充簡浼犵粺鏂规硶鍦ㄤ笉鍚岀幆澧冧笅鐨勬€ц兘涓嬮檷闂銆俓\",\\n  \\\"r",
+                         "tags":  [
+                                      "json",
+                                      "relevance_score",
+                                      "summary",
+                                      "wifi",
+                                      "wise-har"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-4a2be7024e.json"
+                     },
+                     {
+                         "id":  "2026-06-04-4a3fee2745",
+                         "title":  "Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02812",
+                         "collected_at":  "2026-06-04T02:56:15Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鍖荤枟",
+                                      "澶氭櫤鑳戒綋绯荤粺",
+                                      "鎮ｈ€呰建杩瑰缓妯?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-4a3fee2745.json"
+                     },
+                     {
+                         "id":  "2026-06-04-6bc487325a",
+                         "title":  "An Exploration of Collision-based Enemy Morphology Generation",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02832",
+                         "collected_at":  "2026-06-04T02:56:17Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "enemy design",
+                                      "game AI",
+                                      "physics-based interaction",
+                                      "procedural content generation"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-6bc487325a.json"
+                     },
+                     {
+                         "id":  "2026-06-04-7957e8ba23",
+                         "title":  "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02802",
+                         "collected_at":  "2026-06-04T02:56:13Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鍖荤枟",
+                                      "涓村簥鎺ㄧ悊",
+                                      "澶ц瑷€妯″瀷",
+                                      "鐢靛瓙鍋ュ悍璁板綍",
+                                      "琛ㄧず瀵归綈"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-7957e8ba23.json"
+                     },
+                     {
+                         "id":  "2026-06-04-7d8321c30b",
+                         "title":  "ggml-org/llama.cpp",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/ggml-org/llama.cpp",
+                         "collected_at":  "2026-06-04T02:55:58Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "C/C++",
+                                      "LLM",
+                                      "llama.cpp",
+                                      "鎺ㄧ悊寮曟搸",
+                                      "閲忓寲"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-7d8321c30b.json"
+                     },
+                     {
+                         "id":  "2026-06-04-8ffcba1e1b",
+                         "title":  "ToolGate: Token-Efficient Pre-Call Control for Tool-Augmented Vision-Language Agents",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.03054",
+                         "collected_at":  "2026-06-04T02:56:42Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI浠ｇ悊",
+                                      "浠ょ墝鏁堢巼",
+                                      "宸ュ叿澧炲己",
+                                      "瑙嗚璇█妯″瀷"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-8ffcba1e1b.json"
+                     },
+                     {
+                         "id":  "2026-06-04-930dd1342c",
+                         "title":  "NousResearch/hermes-agent",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/NousResearch/hermes-agent",
+                         "collected_at":  "2026-06-04T02:55:36Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI Agent",
+                                      "NousResearch",
+                                      "寮€婧愰」鐩?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-930dd1342c.json"
+                     },
+                     {
+                         "id":  "2026-06-04-97c1a52e1c",
+                         "title":  "microsoft/generative-ai-for-beginners",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/microsoft/generative-ai-for-beginners",
+                         "collected_at":  "2026-06-04T02:56:01Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "GitHub",
+                                      "鍒濆鑰?,\r\n    ",
+                                      ",\r\n    ",
+                                      ",\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-97c1a52e1c.json"
+                     },
+                     {
+                         "id":  "2026-06-04-991cb8c748",
+                         "title":  "Significant-Gravitas/AutoGPT",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/Significant-Gravitas/AutoGPT",
+                         "collected_at":  "2026-06-04T02:55:34Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI宸ュ叿",
+                                      "AutoGPT",
+                                      "GitHub瓒嬪娍",
+                                      "寮€婧?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-991cb8c748.json"
+                     },
+                     {
+                         "id":  "2026-06-04-9bf5e67a4e",
+                         "title":  "Inducing Reasoning Primitives from Agent Traces",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02994",
+                         "collected_at":  "2026-06-04T02:56:35Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI Interpretability",
+                                      "Agent Traces",
+                                      "Machine Learning",
+                                      "Reasoning"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-9bf5e67a4e.json"
+                     },
+                     {
+                         "id":  "2026-06-04-9c241fb43b",
+                         "title":  "anthropics/claude-code",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/anthropics/claude-code",
+                         "collected_at":  "2026-06-04T02:55:56Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI缂栫爜宸ュ叿",
+                                      "Claude",
+                                      "Git宸ヤ綔娴?,\r\n    ",
+                                      ",\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-9c241fb43b.json"
+                     },
+                     {
+                         "id":  "2026-06-04-9d94ec5e55",
+                         "title":  "Large AI Models in Dental Healthcare: From General-Purpose Systems to Domain-Specific Foundation Models",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02914",
+                         "collected_at":  "2026-06-04T02:56:28Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "鍖荤枟AI",
+                                      "鍩虹妯″瀷",
+                                      "澶ц瑷€妯″瀷",
+                                      "鐗欑AI",
+                                      "棰嗗煙涓撶敤妯″瀷"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-9d94ec5e55.json"
+                     },
+                     {
+                         "id":  "2026-06-04-adbef724cb",
+                         "title":  "anomalyco/opencode",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/anomalyco/opencode",
+                         "collected_at":  "2026-06-04T02:55:38Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI",
+                                      "GitHub",
+                                      "coding agent",
+                                      "浠ｇ爜鐢熸垚"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-adbef724cb.json"
+                     },
+                     {
+                         "id":  "2026-06-04-b2bf756188",
+                         "title":  "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02798",
+                         "collected_at":  "2026-06-04T02:56:12Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "浜烘満浜や簰",
+                                      "鍩哄噯娴嬭瘯",
+                                      "鐢ㄦ埛鍐崇瓥",
+                                      "琛屼负寤烘ā"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-b2bf756188.json"
+                     },
+                     {
+                         "id":  "2026-06-04-b409dc7b84",
+                         "title":  "Shubhamsaboo/awesome-llm-apps",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/Shubhamsaboo/awesome-llm-apps",
+                         "collected_at":  "2026-06-04T02:56:00Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI Agent",
+                                      "GitHub",
+                                      "LLM搴旂敤",
+                                      "RAG"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-b409dc7b84.json"
+                     },
+                     {
+                         "id":  "2026-06-04-b5932ec201",
+                         "title":  "x1xhlol/system-prompts-and-models-of-ai-tools",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+                         "collected_at":  "2026-06-04T02:55:51Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI宸ュ叿",
+                                      "AI妯″瀷",
+                                      "寮€婧?,\r\n    ",
+                                      "缂栫▼鍔╂墜"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-b5932ec201.json"
+                     },
+                     {
+                         "id":  "2026-06-04-b6773085f1",
+                         "title":  "multica-ai/andrej-karpathy-skills",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/multica-ai/andrej-karpathy-skills",
+                         "collected_at":  "2026-06-04T02:55:40Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "Andrej Karpathy",
+                                      "CLAUDE.md",
+                                      "Claude Code",
+                                      "LLM",
+                                      "coding pitfalls"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-b6773085f1.json"
+                     },
+                     {
+                         "id":  "2026-06-04-c5c5b1805f",
+                         "title":  "AUDITFLOW: Executable Symbolic Environments for Structured Financial Reporting Verification",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.03031",
+                         "collected_at":  "2026-06-04T02:56:36Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AUDITFLOW",
+                                      "绗﹀彿鎵ц",
+                                      "缁撴瀯鍖栨暟鎹?,\r\n    ",
+                                      "璐㈠姟鎶ュ憡楠岃瘉"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-c5c5b1805f.json"
+                     },
+                     {
+                         "id":  "2026-06-04-c6fd25b449",
+                         "title":  "openclaw/openclaw",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/openclaw/openclaw",
+                         "collected_at":  "2026-06-04T02:55:27Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI鍔╂墜",
+                                      "涓汉鍔╃悊",
+                                      "寮€婧?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-c6fd25b449.json"
+                     },
+                     {
+                         "id":  "2026-06-04-cda844a5bb",
+                         "title":  "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02775",
+                         "collected_at":  "2026-06-04T02:56:08Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "鍔ㄤ綔闂ㄦ帶",
+                                      "寮哄寲瀛︿範",
+                                      "鏄惧瓨浼樺寲",
+                                      "鏈哄櫒浜虹瓥鐣?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-cda844a5bb.json"
+                     },
+                     {
+                         "id":  "2026-06-04-d03b139101",
+                         "title":  "Thinking Past the Answer: Evaluating Harmful Overthinking in Large Reasoning Models",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02835",
+                         "collected_at":  "2026-06-04T02:56:19Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI瀹夊叏",
+                                      "澶у瀷鎺ㄧ悊妯″瀷",
+                                      "鏈夊杈撳嚭",
+                                      "璇勪及鏂规硶"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-d03b139101.json"
+                     },
+                     {
+                         "id":  "2026-06-04-d103c89de9",
+                         "title":  "RelGT-AC: A Relational Graph Transformer for Autocomplete Tasks in Relational Databases",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.03040",
+                         "collected_at":  "2026-06-04T02:56:40Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "鍏崇郴鍥綯ransformer",
+                                      "鍏崇郴鏁版嵁搴?,\r\n    ",
+                                      "搴忓垪棰勬祴",
+                                      "鑷姩琛ュ叏"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-d103c89de9.json"
+                     },
+                     {
+                         "id":  "2026-06-04-d5830782f2",
+                         "title":  "Don\u0027t Gamble, GAMBLe: An Analytical Framework for AI-Driven Research Systems",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02863",
+                         "collected_at":  "2026-06-04T02:56:22Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI妗嗘灦",
+                                      "鍐崇瓥鍒嗘瀽",
+                                      "鐮旂┒绯荤粺",
+                                      "椋庨櫓璇勪及"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-d5830782f2.json"
+                     },
+                     {
+                         "id":  "2026-06-04-da3220666e",
+                         "title":  "langgenius/dify",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/langgenius/dify",
+                         "collected_at":  "2026-06-04T02:55:47Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI骞冲彴",
+                                      "LLM",
+                                      "agentic workflow",
+                                      "浣庝唬鐮?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-da3220666e.json"
+                     },
+                     {
+                         "id":  "2026-06-04-e0ccb596df",
+                         "title":  "Snailclimb/JavaGuide",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/Snailclimb/JavaGuide",
+                         "collected_at":  "2026-06-04T02:55:42Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "Java",
+                                      "鍒嗗竷寮忕郴缁?,\r\n    ",
+                                      "闈㈣瘯鎸囧崡"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-e0ccb596df.json"
+                     },
+                     {
+                         "id":  "2026-06-04-e1c02e2cf1",
+                         "title":  "TriEval: A Resource-Efficient Pipeline for LLM Bias, Toxicity, and Truthfulness Assessment",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.03036",
+                         "collected_at":  "2026-06-04T02:56:38Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "LLM",
+                                      "鍋忚",
+                                      "姣掓€?,\r\n    ",
+                                      "璇勪及",
+                                      "璧勬簮楂樻晥"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-e1c02e2cf1.json"
+                     },
+                     {
+                         "id":  "2026-06-04-ec643c90ac",
+                         "title":  "msitarzewski/agency-agents",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/msitarzewski/agency-agents",
+                         "collected_at":  "2026-06-04T02:56:04Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI浠ｇ悊",
+                                      "GitHub",
+                                      "澶氫唬鐞嗙郴缁?,\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-ec643c90ac.json"
+                     },
+                     {
+                         "id":  "2026-06-04-f76e934fd1",
+                         "title":  "Toward a Modular Architecture for Embedded AI Agent Systems at the Edge",
+                         "source":  "rss:arXiv cs.AI",
+                         "source_url":  "https://arxiv.org/abs/2606.02862",
+                         "collected_at":  "2026-06-04T02:56:20Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI浠ｇ悊",
+                                      "宓屽叆寮忕郴缁?,\r\n    ",
+                                      "杈圭紭璁＄畻"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-f76e934fd1.json"
+                     },
+                     {
+                         "id":  "2026-06-04-f791d596ac",
+                         "title":  "n8n-io/n8n",
+                         "source":  "github_trending",
+                         "source_url":  "https://github.com/n8n-io/n8n",
+                         "collected_at":  "2026-06-04T02:55:33Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "AI",
+                                      "Fair-code",
+                                      "浣庝唬鐮?,\r\n    ",
+                                      ",\r\n    "
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/2026-06-04-f791d596ac.json"
+                     },
+                     {
+                         "id":  "2026-06-02-harness-engineering",
+                         "title":  "Harness Engineering: Anthropic 鐨勯暱鏃?Agent 宸ョ▼鑼冨紡",
+                         "source":  "anthropic-engineering",
+                         "source_url":  "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+                         "collected_at":  "2026-06-02T00:00:00Z",
+                         "summary":  null,
+                         "tags":  [
+                                      "agent",
+                                      "harness-engineering",
+                                      "context-engineering",
+                                      "anthropic",
+                                      "long-running-agent"
+                                  ],
+                         "status":  "draft",
+                         "file_path":  "knowledge/articles/hook-test.json"
+                     }
+                 ]
+}

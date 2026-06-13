@@ -1,0 +1,27 @@
+{
+  "nodes": [
+    {
+      "id": "file:utils/github_api.py",
+      "type": "file",
+      "name": "github_api.py",
+      "filePath": "utils/github_api.py",
+      "summary": "GitHub REST API 仓库信息封装。",
+      "tags": [
+        "python"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:workflows/model_client.py",
+      "type": "file",
+      "name": "model_client.py",
+      "filePath": "workflows/model_client.py",
+      "summary": "LangGraph 工作流用的精简 model_client 封装。",
+      "tags": [
+        "python"
+      ],
+      "complexity": "simple"
+    }
+  ],
+  "edges": []
+}
